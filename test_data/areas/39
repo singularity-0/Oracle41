@@ -1,0 +1,1700 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/39">New Kolvir</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>New Kolvir</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(583, 982) in Alyria</td>
+			<td>No</td>
+			<td></td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>a vast city sitting amongst the crags of the Kolvir Mountains</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([583, 982]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [583, 982],
+		className: 'textpointer',
+		html: "New Kolvir",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(39, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=583&y=982&plane=1&zoom=4">View New Kolvir on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area New Kolvir</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/7396">a bag of seeds</a></td>
+			<td>0</td>
+			<td>container</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3545">a blade named 'axiom'</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/3917">a cattail</a></td>
+			<td>90</td>
+			<td>reagent-air</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5684">a colorful yo-yo</a></td>
+			<td>220</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4846">a crude looking toilet</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/3912">a curved staff</a></td>
+			<td>55</td>
+			<td>staff</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/5910">a dirty brown cloak</a></td>
+			<td>130</td>
+			<td>clothing</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2729">a dragon tear necklace</a></td>
+			<td>240</td>
+			<td>jewelry</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3424">a footman's mace</a></td>
+			<td>110</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/4847">a fragment of sapphire</a></td>
+			<td>10</td>
+			<td>warp-stone</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3599">a giant slab of granite</a></td>
+			<td>168</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5466">a glass key</a></td>
+			<td>60</td>
+			<td>key</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/3916">a glowing ember</a></td>
+			<td>90</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3597">a golden yo-yo</a></td>
+			<td>65</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4967">a green vest</a></td>
+			<td>150</td>
+			<td>clothing</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4484">a heavy, mahogany key</a></td>
+			<td>240</td>
+			<td>key</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/3911">a jar of ball lightning</a></td>
+			<td>199</td>
+			<td>explosive</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/3740">a jump rope</a></td>
+			<td>210</td>
+			<td>toy</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3913">a knight's boots</a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4513">a knight's breastplate</a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/613">a knight's helm</a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3928">a knight's legplate</a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5545">a large carrot</a></td>
+			<td>125</td>
+			<td>food</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/5544">a large wicker basket</a></td>
+			<td>95</td>
+			<td>container</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4122">a large wooden cane</a></td>
+			<td>165</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/4848">a large, marble fountain</a></td>
+			<td>45</td>
+			<td>fountain</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5803">a lollipop</a></td>
+			<td>190</td>
+			<td>food</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/5806">a long white dress</a></td>
+			<td>125</td>
+			<td>clothing</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ward" /> <a href="/item/3598">a mithril bracer</a></td>
+			<td>210</td>
+			<td>ward</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/7400">a mustard tree sapling</a></td>
+			<td>0</td>
+			<td>furniture</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4127">a New Kolvir bracer</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3606">a New Kolvir breastplate</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="tool" /> <a href="/item/6157">a New Kolvir fishing pole</a></td>
+			<td>140</td>
+			<td>tool</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4126">a New Kolvir helm</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3411">a New Kolvir insignia cap</a></td>
+			<td>126</td>
+			<td>clothing</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/5543">a nice set of trousers</a></td>
+			<td>165</td>
+			<td>clothing</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4123">a pair of New Kolvir boots</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4124">a pair of New Kolvir legplates</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/5513">a pair of tights</a></td>
+			<td>180</td>
+			<td>clothing</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2898">a phased yataghan <span class="red">[OS]</span></a></td>
+			<td>202</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6036">a phased yataghan <span class="red">[OS]</span></a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6560">a phased yataghan</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/5805">a piece of wrinkled parchment</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5010">a plain stone altar</a></td>
+			<td>220</td>
+			<td>artifact</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4273">a pointed breath of glass</a></td>
+			<td>236</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3439">a rather large club</a></td>
+			<td>180</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3885">a ring of hope</a></td>
+			<td>220</td>
+			<td>jewelry</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/3992">a ruby shard</a></td>
+			<td>10</td>
+			<td>warp-stone</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6322">a sack of fish</a></td>
+			<td>185</td>
+			<td>container</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3968">a set of admantite legplates</a></td>
+			<td>235</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/4849">a shard of jasper</a></td>
+			<td>10</td>
+			<td>warp-stone</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="ammunition-pouch" /> <a href="/item/7561">a shoulder pouch full of ammunition</a></td>
+			<td>90</td>
+			<td>ammunition-pouch</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/3920">a silver scale</a></td>
+			<td>90</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3596">a silver yo-yo</a></td>
+			<td>55</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/4128">a skin full of infant's blood</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="writing-instrument" /> <a href="/item/5804">a sleek goose quill pen</a></td>
+			<td>5</td>
+			<td>writing-instrument</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3557">a small hammer</a></td>
+			<td>115</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4074">a small obsidian key</a></td>
+			<td>20</td>
+			<td>key</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/3919">a small pebble</a></td>
+			<td>90</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/3839">a small, bronze bell</a></td>
+			<td>135</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4194">a small, deadly dagger</a></td>
+			<td>130</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4438">a smashed box marked fragile</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/4316">a solid gold treasure</a></td>
+			<td>120</td>
+			<td>amulet</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/3921">a splinter of mithril</a></td>
+			<td>90</td>
+			<td>gem</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4303">a stained glass shield</a></td>
+			<td>238</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4943">a thief's tool</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/7397">a tiny yellow seed</a></td>
+			<td>0</td>
+			<td>seed</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3914">a torturous helmet</a></td>
+			<td>230</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4620">a vitriolic naginata</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="mortar-and-pestle" /> <a href="/item/2383">a wooden mortar and pestle</a></td>
+			<td>110</td>
+			<td>mortar-and-pestle</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4751">a wriggling dragon-hide bag</a></td>
+			<td>241</td>
+			<td>container</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3198">an admantite breastplate</a></td>
+			<td>235</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4259">an alchemical alembic</a></td>
+			<td>240</td>
+			<td>container</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3423">an archer's bow</a></td>
+			<td>150</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3910">an artifact from old Kolvir</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/7581">an emerald gemstone shard</a></td>
+			<td>10</td>
+			<td>warp-stone</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4954">an iron chestplate</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3915">an ivory yo-yo</a></td>
+			<td>75</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4380">an opulent shirt</a></td>
+			<td>139</td>
+			<td>clothing</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4121">an ugly shirt</a></td>
+			<td>170</td>
+			<td>clothing</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/3918">dried, freshwater kelp</a></td>
+			<td>90</td>
+			<td>reagent-water</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3460">Heaven's Wrath</a></td>
+			<td>235</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3199">mithril armplates</a></td>
+			<td>220</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4125">some New Kolvir armplates</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2643">the axe of guardianship</a></td>
+			<td>238</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3312">the crown of Lord Alymar</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4841">the horn of Alymar</a></td>
+			<td>215</td>
+			<td>furniture</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3909">the jump rope of slaughter</a></td>
+			<td>235</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3720">the justice of honor</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4604">the pierce of truth</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3313">the royal robe of Lord Alymar</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4304">the skullcap of a demented barbarian</a></td>
+			<td>238</td>
+			<td>armor</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/640">the sting of justice</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/39">New Kolvir</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area New Kolvir</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3498">A beautiful young lady</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1134">A black crow</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3490">A busy page</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2564">A carnivorous sponge</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2574">A citizen of New Kolvir</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3894">A confessional priest</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4180">A court messenger</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2579">A curious child</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4061">A demon of the past</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5032">A disgruntled postal worker</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4189">A donkey</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3545">A dough-faced snarfurgle</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2583">A feeble old man</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3549">A frenzying piranha</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4178">A gnome mercenary</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4182">A gossiping gardener</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3544">A gray shark</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3542">A green serpent</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4999">A guard's horse</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3286">A Hall of Honor guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4194">A Hall of Justice guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2569">A Hall of Truth guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3497">A happy townswoman</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3554">A hopeful fisherman</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4181">A Knight's squire</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5034">A Kolvir archer</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5035">A Kolvir tower guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4193">A Kolvir wall guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3548">A large lionfish</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3710">A lesser priest</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2573">A little girl</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5311">A lost child</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5053">A lost ogre warrior</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1133">A massive cricket</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4190">A menacing war horse</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4177">A mercenary mind-flayer</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3897">A mosquito</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2581">A naive townschild</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2565">A New Kolvir carp</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2571">A New Kolvir castle guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2576">A New Kolvir city guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3492">A New Kolvir fountain guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4319">A New Kolvir hall guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2578">A New Kolvir janitor</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5309">A New Kolvir nobleman</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3541">A new-born snarfurgle</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3899">A noble Sidhe</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3711">A non-denominational high priest</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3546">A perilous looking snarfurgle</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3543">A perplexed snarfurgle</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1131">A playful kitty cat</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2572">A playing child</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2582">A plump woman</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3493">A portcullis guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4176">A proud townsman</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3691">A raving madwoman</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3489">A relaxed castle guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2570">A royal servant</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1128">A scantily clad woman</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1126">A sewer urchin</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4191">A shaggy llama</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2563">A shiny frog</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3547">A small octopus</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2562">A spotted toad</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3491">A squeaking gray rat</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3898">A stable boy</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4188">A surprised castle servant</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4440">A suspicious-looking cult member</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2577">A sweaty page</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3488">A thieving fey</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4179">A titan mercenary</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4192">A trainee wall guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1130">A traveling merchant</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2575">A visiting Rune official</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4195">A waiting nobleman</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3893">A waiting sinner</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3285">A water-dwelling ogre</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2561">A weary wanderer</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2584">A well-armored gate guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1129">A wily rogue</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2580">A young man</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4906">An alligator</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2568">An electric eel</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1132">An Elven noble</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3495">An off-duty guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5052">An underwater weed</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4026">Dr. Sotte</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2630">Fauntleroy</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2367">Fir Stonehammer</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3173">General Kahlir</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3445">General Trankic</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5033">Grenal Silvermoon</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3496">Kalthax the banker</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4025">Khelek</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1640">Lakaros</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5649">Lord Alymar</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3174">Lord Alymar</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3895">Maul Stonehammer</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5029">Sir Melvin</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2567">Some featureless green slime</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4060">Teshi, the lugubrious dragon</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1135">The gate guard</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3171">The Golgothan</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5086">The mother octopus</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3172">The New Kolvir blademaster</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3494">Uncle Monty</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3892">Wallin, the bell repairer</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5036">Zern Duskweaver</a></td>
+		<td><a href="/area/39">New Kolvir</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/19361">All Saints' Hospice</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/19361">All Saints' Hospice</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:05 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

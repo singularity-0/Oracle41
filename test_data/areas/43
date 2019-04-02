@@ -1,0 +1,1662 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/43">The Proving Grounds</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>The Proving Grounds</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Within <a href="/area/28">Irda Isle</a>.</td>
+			<td>No</td>
+			<td>Dungn</td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1300, 688]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1300, 688],
+		className: 'textpointer',
+		html: "The Proving Grounds",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1300&y=688&plane=1&zoom=4">View The Proving Grounds on Ogle Alyria</a>
+	</div>
+</div>
+
+<h3>Items in area The Proving Grounds</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/1231">a beautiful diamond</a></td>
+			<td>20</td>
+			<td>gem</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6137">a blackened admantite key labeled '4'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/7879">a blackened bone key labeled '22'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/8090">a blackened brass key labeled '20'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/7878">a blackened bronze key labeled '21'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6852">a blackened ceramic key labeled '13'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6856">a blackened copper key labeled '16'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6559">a blackened crystal key labeled '12'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/7880">a blackened electrum key labeled '23'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6326">a blackened glass key labeled '9'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6853">a blackened gold key labeled '14'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6138">a blackened iron key labeled '5'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6136">a blackened ivory key labeled '2'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/7759">a blackened lead key labeled '17'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6191">a blackened marble key labeled '3'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6327">a blackened mithril key labeled '10'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6857">a blackened obsidian key labeled '19'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6451">a blackened palladium key labeled '18'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6141">a blackened pearl key labeled '8'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6854">a blackened platinum key labeled '15'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6139">a blackened silver key labeled '6'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6143">a blackened steel key labeled '1'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6140">a blackened stone key labeled '7'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6520">a blackened, unknown-alloy key labeled '11'</a></td>
+			<td>61</td>
+			<td>key</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/3249">a bone from a gravedancer</a></td>
+			<td>15</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8274">a button with a pictograph depicting hail</a></td>
+			<td>241</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8275">a button with a pictograph depicting lightning</a></td>
+			<td>241</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8273">a button with a pictograph depicting sleet</a></td>
+			<td>241</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8272">a button with a pictograph depicting thunder</a></td>
+			<td>241</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6521">a cairnstone</a></td>
+			<td>241</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7877">a delicate contraption filled with tourmalines</a></td>
+			<td>110</td>
+			<td>explosive</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/3395">a feathered drum</a></td>
+			<td>120</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5765">a four-and-a-half-inch nail</a></td>
+			<td>225</td>
+			<td>weapon</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3214">a four-and-a-half-inch nail</a></td>
+			<td>225</td>
+			<td>weapon</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="clan-gemstone" /> <a href="/item/868">a maleficarum root</a></td>
+			<td>10</td>
+			<td>clan-gemstone</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/6445">a metal-tipped oaken wand</a></td>
+			<td>50</td>
+			<td>wand</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/192">a multi-faceted decanter</a></td>
+			<td>60</td>
+			<td>explosive</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6133">a necklace of fireballs</a></td>
+			<td>90</td>
+			<td>jewelry</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6056">a page from a witch's spellbook</a></td>
+			<td>5</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/6097">a red leather quiver</a></td>
+			<td>75</td>
+			<td>quiver</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6040">a ring of magma resistance</a></td>
+			<td>24</td>
+			<td>jewelry</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8175">a sea elf's trident</a></td>
+			<td>138</td>
+			<td>weapon</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8276">a shimmering portal</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/7476">a silver filigree bag</a></td>
+			<td>30</td>
+			<td>container</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3397">a tiny dagger</a></td>
+			<td>10</td>
+			<td>weapon</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/4356">a tiny mouth harp</a></td>
+			<td>35</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="relic" /> <a href="/item/6249">a tuft of ogre's fur</a></td>
+			<td>75</td>
+			<td>relic</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/6855">a twisted white leatherbound spellbook</a></td>
+			<td>10</td>
+			<td>spellbook</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6449">an almost-finished portable stone buffer</a></td>
+			<td>5</td>
+			<td>container</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/6444">an ivory decanter</a></td>
+			<td>40</td>
+			<td>potion</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6052">an orb of swirling ash</a></td>
+			<td>30</td>
+			<td>artifact</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3739">an unusual magical disturbance</a></td>
+			<td>30</td>
+			<td>trash</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6134">the capstone of a cairnstone</a></td>
+			<td>12</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6135">the chipped-off bottom left corner of a cairnstone</a></td>
+			<td>12</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6095">the chipped-off bottom right corner of a cairnstone</a></td>
+			<td>12</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6325">the chipped-off top middle corner of a cairnstone</a></td>
+			<td>12</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8023">the dying ember of a fire elemental elder</a></td>
+			<td>5</td>
+			<td>treasure</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6502">the tourmaline-plated belt of spell efficiency</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/43">The Proving Grounds</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area The Proving Grounds</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2171">A battle-scarred kobold</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2782">A befuddled sorcerer</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5988">A black-shelled tumescence beetle</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2168">A bloodied skeleton</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2190">A bloodthirsty fey</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2824">A blue octopus</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2787">A cave fisher</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4221">A chained, gagged prisoner</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2174">A charred skeleton</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5995">A conzumaar from below</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2178">A crumbling skeleton</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2793">A dangerous hecuva</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2786">A dark dwarven mage</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2792">A Dark Naga</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1963">A decapitated head</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5980">A desperate miner</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2183">A devilish imp</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2164">A disembodied leg</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2187">A draconian magic-user</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2165">A Dream Weaver</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2193">A drow spellcaster</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2192">A drow warrior</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2179">A drunken goblin</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2182">A drunken mercenary</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2805">A dwarven ice miner</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2811">A fearsome shade</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2205">A fearsome, five-headed Hydra</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2204">A fey assassin</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2814">A fey necromancer</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2199">A fey spellcaster</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2790">A fierce Gorgon</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5185">A fire elemental elder</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5187">A forgotten autotourmaton</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2177">A foul-smelling goblin</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2167">A foul-smelling kobold</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2172">A frightened kobold</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2803">A frost drake</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4498">A frost revenant</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5066">A ghostly spectre</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2785">A giant bat</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2788">A giant boring beetle</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2825">A giant crustacean</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3766">A giant jellyfish</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5643">A giant manta ray</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4299">A giant squid</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2822">A giant swordfish</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5981">A glowering efreeti</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2175">A glowing skeleton</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5065">A gluttonous, menacing mumble</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2203">A gnome thief</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2186">A gravedancer</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5976">A great white shark</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2820">A greater ice demon</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5078">A grey sandman</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2173">A grey-faced kobold</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2783">A hairy bugbear</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2829">A half-elven ghost</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2781">A hooded monk</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5744">A horrid wight</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5743">A huge ice dragon</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2813">A huge ice dragon</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2198">A human brigand</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2202">A human ranger</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5641">A human warrior</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3689">A hungry ghoul</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2176">A hungry goblin</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2195">A jailer</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5904">A kelpie</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2188">A kender thief</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2804">A large ice golem</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2797">A large ice worm</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2796">A large icestorm</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2808">A large yeti</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5064">A lazy teenager</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2830">A legendary Kraken</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2800">A lesser ice demon</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2791">A living wall</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2802">A lost spectre</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3768">A mako shark</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2821">A massive maelstrom</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3767">A mermaid priestess</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5642">A merman warrior</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2789">A mindless zombie</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2189">A minotaur warrior</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2832">A multiheaded hydra</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3769">A mutant blowfish</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5978">A patch of tangleweed</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3718">A pathetic adventurer</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5905">A prehistoric crocodile</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5188">A puddle lurker</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5996">A pyroclastic scavenger</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5183">A rabid salamander</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2806">A raging blizzard</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2185">A ravenous mumble</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3765">A sahaugin warrior</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5977">A sahuagin priest</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5975">A sahuagin warrior</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2816">A scaled humanoid</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2818">A scorpion fish</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2826">A sea elf warrior</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2831">A sea elven priestess</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2201">A shadow elemental</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2794">A sidhe rogue</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5195">A small blizzard</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4573">A small ice eddy</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2823">A small squid</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2170">A small wyvern</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2819">A sorcerer of ice</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2779">A Spectral Guardian</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5983">A stalking angel</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2807">A starving man</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1835">A stoop-shouldered wizard</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5186">A swaddled goblin</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5982">A sweaty dracon</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2181">A tall spellcaster</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5832">A Talur evangelist</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2801">A vampiric mist</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5984">A velociraptor</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2169">A violet fungus</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5079">A water weird</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2200">A wavering displacer beast</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2798">A werewolf</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6135">A whip-wielding demon</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4300">A white slime</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2180">A wild-eyed goblin</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5985">An abandoned pack elephant</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2828">An albino lobster</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5974">An alluring siren</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3759">An animated arm</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5987">An ankylosaurus</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5989">An aurophaganax</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2780">An Eldritch Vapor</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2817">An electric eel</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2191">An elven assassin</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2197">An elven necromancer</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2196">An evil Djinn</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5352">An evil doppleganger</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2784">An evil mountain dwarf</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2194">An evil wraith</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2815">An ice devil</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2812">An ice drake</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5353">An ice elemental</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2809">An ice mage</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2810">An ice serpent</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2799">An ice troll</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2795">An ice witch</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5979">An infernal magma wyrm</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5764">Izthizthiliith the mind-taker</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5184">One of Baron Bloodbane's slaves</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3715">The beating heart</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5640">The entrails of eternity</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2184">The shade of a dead prisoner</a></td>
+		<td><a href="/area/43">The Proving Grounds</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:07 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

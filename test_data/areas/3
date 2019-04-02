@@ -1,0 +1,1301 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/3">Arcane Archipelago</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Arcane Archipelago</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(925, 816) in Alyria</td>
+			<td>No</td>
+			<td>      </td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>a temple almost overgrown by jungle</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([925, 816]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [925, 816],
+		className: 'textpointer',
+		html: "Arcane Archipelago",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(3, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=925&y=816&plane=1&zoom=4">View Arcane Archipelago on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Arcane Archipelago</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/557">a berserker helm</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="telescope" /> <a href="/item/1920">a brass spyglass</a></td>
+			<td>44</td>
+			<td>telescope</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/350">a buffalo steak</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/891">a cloak of stealth</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/2140">a cold flame</a></td>
+			<td>40</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/4565">a cracked seashell</a></td>
+			<td>15</td>
+			<td>reagent-water</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/831">a daemon heart</a></td>
+			<td>15</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2159">a dark crystal vial</a></td>
+			<td>52</td>
+			<td>potion</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/814">a dented shovel</a></td>
+			<td>20</td>
+			<td>spade</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/351">a flame grilled dragon steak</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/813">a flameroot thorn</a></td>
+			<td>55</td>
+			<td>weapon</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/833">a fragment of meteorite</a></td>
+			<td>65</td>
+			<td>light</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/837">a gerbil pot pie</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/820">a goat hide water skin</a></td>
+			<td>15</td>
+			<td>drink-container</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/7542">a goblet full of a peculiar substance</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/527">a green frog pill</a></td>
+			<td>60</td>
+			<td>pill</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/528">a green frog statue</a></td>
+			<td>58</td>
+			<td>figurine</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/523">a helm of the guardian</a></td>
+			<td>56</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8373">a long rack out of the card catalogue</a></td>
+			<td>83</td>
+			<td>weapon</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/4564">a lupine skull</a></td>
+			<td>40</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/726">a malachite pentagram</a></td>
+			<td>70</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3164">a malachite ring</a></td>
+			<td>40</td>
+			<td>jewelry</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/843">a malachite tail ring</a></td>
+			<td>60</td>
+			<td>jewelry</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7129">a milky coconut</a></td>
+			<td>0</td>
+			<td>food</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/848">a mug of Kamikaze</a></td>
+			<td>21</td>
+			<td>drink-container</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/259">a mug of Red Death</a></td>
+			<td>21</td>
+			<td>drink-container</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/285">a mug of Suicide Slide</a></td>
+			<td>21</td>
+			<td>drink-container</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1328">a pair of buffalo skin leggings</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/823">a pair of goatskin boots</a></td>
+			<td>62</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/826">a pair of malachite boots</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2135">a petrol bomb</a></td>
+			<td>60</td>
+			<td>light</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/836">A piping-hot mouse muffin</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2138">a python guard ring</a></td>
+			<td>42</td>
+			<td>jewelry</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ward" /> <a href="/item/844">a rat head ward</a></td>
+			<td>30</td>
+			<td>ward</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/835">a rat tart</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/834">a sandstone tablet</a></td>
+			<td>10</td>
+			<td>parchment</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/816">a silver water trough</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/830">a small pile of volcanic ash</a></td>
+			<td>15</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/828">a soul in a bottle</a></td>
+			<td>15</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="scroll" /> <a href="/item/8380">a spittle-flecked scroll</a></td>
+			<td>40</td>
+			<td>scroll</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/2136">a tankard of ale</a></td>
+			<td>15</td>
+			<td>drink-container</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4566">a valkyrie's barbed tiara</a></td>
+			<td>45</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/839">a wooden trough</a></td>
+			<td>20</td>
+			<td>fountain</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/827">an angel feather</a></td>
+			<td>15</td>
+			<td>reagent-air</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2146">an arcane belt</a></td>
+			<td>62</td>
+			<td>clothing</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/7876">an armor-plated scabbard</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/725">an executioner's axe</a></td>
+			<td>70</td>
+			<td>weapon</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/819">an ivory grail</a></td>
+			<td>50</td>
+			<td>drink-container</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/847">an ivory hourglass</a></td>
+			<td>45</td>
+			<td>treasure</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4562">an ivory hunting knife</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/825">an ivory shield</a></td>
+			<td>55</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4563">an unholy blade</a></td>
+			<td>65</td>
+			<td>weapon</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/810">an unusual swamp flower</a></td>
+			<td>16</td>
+			<td>pill</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/846">daemonskin leggings</a></td>
+			<td>40</td>
+			<td>armor</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8387">the demon hunter's lance</a></td>
+			<td>122</td>
+			<td>weapon</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/852">the Hammer of Thor</a></td>
+			<td>46</td>
+			<td>weapon</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/1288">the Necronomicon</a></td>
+			<td>60</td>
+			<td>spellbook</td>
+			<td><a href="/area/3">Arcane Archipelago</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Arcane Archipelago</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/302">A basilisk banker</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/295">A black stallion</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/266">A black widow spider</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4866">A blackjack dealer</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/311">A bloodthirsty djinn</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/317">A bridge guardian</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/326">A buffalo</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5669">A card dealer</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/290">A chameleon</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4037">A cloud of vampiric mist</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/305">A cobra blacksmith</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5288">A council member</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/275">A curious dolphin</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/312">A daemonic librarian</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/313">A deadly python</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/319">A depressed toad</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/321">A diseased toad</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/278">A diseased wraith</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1847">A dracon hermit</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/322">A drunk frog</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/323">A frog barkeep</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/318">A frog citizen</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/303">A gambling viper</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/260">A gibbon scout</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/271">A golden eagle</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/287">A gorilla chieftain</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/265">A gorilla warlord</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5698">A great stone head</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/298">A lizard child</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/279">A lost soul</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/262">A mangy wolf</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/276">A merman guard</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/288">A mud fiend</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/297">A nomadic reptile</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/294">A pestilence rat</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/293">A psychopathic goat</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/269">A psychotic tiger</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/292">A rabid yak</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/308">A rattlesnake baker</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/263">A roving berserker</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/273">A sand lizard</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/325">A savage crocodile</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/259">A savage squirrel</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/274">A sea serpent</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/306">A serpent alchemist</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/299">A sidewinder shopkeeper</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/280">A skeletal demon hunter</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/277">A skeletal legionary</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/283">A skeletal mage</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/314">A slimy octopus</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/327">A soulstealer</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/324">A swamp mosquito</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/261">A tortoise</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/307">A turtle shopkeeper</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/296">A white mare</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/272">A woodland spirit</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/301">A yak postal worker</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6158">An algae-trailing chemwalker</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/268">An anarchic bandit</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/270">An animated fern</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/264">An ape ranger</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5256">An ape ranger</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/289">An ape shaman</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/304">An asp armorer</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/309">An assassin guildmaster</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/320">An energetic frog</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/281">An eternal warrior</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/300">An iguana barkeep</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/291">An insane weregoat</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2764">An undead barbarian</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/285">An undead barkeep</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/282">An undead clanmaster</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/284">An undead merchant</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/286">An undead shamaness</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5971">Prjnga the healer</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/316">The friar of Death</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/310">The High Priest of Kulah</a></td>
+		<td><a href="/area/3">Arcane Archipelago</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/13400">A Stall in Kulah Stables</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/13532">Gnak Falls</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/13397">Kulah Stables</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/13413">Kulah Bakery</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/13402">The Snake Pit</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/13414">The Trading Post</a></td>
+		</tr>
+
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/13686">A Crack in the Rock Face</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/13684">A Scorched Sapling</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/13646">Ancient Battle Grounds</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/13696">Foot of the Volcano</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/13650">Mindless Carnage</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/13683">Rim of the Volcano</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/13685">Tumbling Downwards</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/13534">Bridge Over The River Gnak</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/13423">Temple of the Fallen Gods</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/13430">The Arcane Chapel</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/13423">Temple of the Fallen Gods</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:00 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

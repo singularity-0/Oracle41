@@ -1,0 +1,816 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/20">Focault's Residence</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Focault's Residence</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Within <a href="/area/67">Towne of Rune</a>.</td>
+			<td>No</td>
+			<td></td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([695, 764]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [695, 764],
+		className: 'textpointer',
+		html: "Focault's Residence",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(20, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=695&y=764&plane=1&zoom=4">View Focault's Residence on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Focault's Residence</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4931">a black key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/564">a bloodstone pendant</a></td>
+			<td>36</td>
+			<td>jewelry</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2064">a brass lantern</a></td>
+			<td>20</td>
+			<td>light</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/4311">a bright purple potion</a></td>
+			<td>38</td>
+			<td>potion</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/3653">a can of Grue repellant</a></td>
+			<td>35</td>
+			<td>wand</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3020">a circlet of gold</a></td>
+			<td>40</td>
+			<td>jewelry</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3019">a death shroud</a></td>
+			<td>30</td>
+			<td>clothing</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5844">a featureless white cube <span class="red">[OS]</span></a></td>
+			<td>84</td>
+			<td>treasure</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/2527">a featureless white cube</a></td>
+			<td>80</td>
+			<td>warp-stone</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6044">a glowing heart-shaped amulet</a></td>
+			<td>118</td>
+			<td>jewelry</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2510">a heart-shaped amulet</a></td>
+			<td>118</td>
+			<td>jewelry</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/2895">a heavy Persian carpet</a></td>
+			<td>43</td>
+			<td>artifact</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/7792">a perpetually-grinding necklace</a></td>
+			<td>241</td>
+			<td>amulet</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2070">a plush sofa</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3161">a pointed hat <span class="red">[OS]</span></a></td>
+			<td>75</td>
+			<td>armor</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/666">a pointed hat</a></td>
+			<td>115</td>
+			<td>armor</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/645">a ring made of amber</a></td>
+			<td>36</td>
+			<td>jewelry</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3413">a severed arm</a></td>
+			<td>181</td>
+			<td>treasure</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2071">a shimmering Worldgate</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6393">a shimmering Worldgate</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/541">a sigil of restraint</a></td>
+			<td>58</td>
+			<td>treasure</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2897">a silver-banded glass vial</a></td>
+			<td>100</td>
+			<td>potion</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/4326">a sinister black beeswax candle</a></td>
+			<td>75</td>
+			<td>light</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3022">a skeleton key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/3024">a stick of dynamite</a></td>
+			<td>90</td>
+			<td>explosive</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/3023">a stone of silence</a></td>
+			<td>65</td>
+			<td>wand</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8474">a summoned shiv</a></td>
+			<td>120</td>
+			<td>weapon</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/2782">a unicorn's horn</a></td>
+			<td>45</td>
+			<td>wand</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/2069">a vial of basilisk oil</a></td>
+			<td>55</td>
+			<td>explosive</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8473">a wand of wonder</a></td>
+			<td>120</td>
+			<td>weapon</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/3610">a white beeswax candle</a></td>
+			<td>10</td>
+			<td>light</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/2065">a wool sack</a></td>
+			<td>20</td>
+			<td>container</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3018">an elvish sword of great antiquity</a></td>
+			<td>45</td>
+			<td>weapon</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4489">an enchanted crystal coconut</a></td>
+			<td>88</td>
+			<td>armor</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/2072">an impstone</a></td>
+			<td>44</td>
+			<td>orb</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/643">an iron chain</a></td>
+			<td>34</td>
+			<td>weapon</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4312">an iron key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3622">an ironbound chest</a></td>
+			<td>20</td>
+			<td>container</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/581">an issue of Popular Enchanting</a></td>
+			<td>20</td>
+			<td>book</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/7887">Djedefra's band</a></td>
+			<td>241</td>
+			<td>amulet</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5858">Djedefra's band <span class="red">[OS]</span></a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/967">the boots of the wizard of Focault</a></td>
+			<td>85</td>
+			<td>armor</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/7322">the bust of Cymeneth</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3066">the cloak of the wizard of Focault</a></td>
+			<td>90</td>
+			<td>armor</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="house-key" /> <a href="/item/1004">the cohesive element of a massive, complex key</a></td>
+			<td>10</td>
+			<td>house-key</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1908">the legendary sword, Orcist</a></td>
+			<td>140</td>
+			<td>weapon</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2066">the long wooden table</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/7277">the oak desk</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/3668">the spellbook of the wizard of Focault</a></td>
+			<td>90</td>
+			<td>spellbook</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/2387">the wand of Cymeneth the Enchanter</a></td>
+			<td>90</td>
+			<td>wand</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3608">the wand of the wizard of Focault</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/20">Focault's Residence</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Focault's Residence</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1722">A deadly imp</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1718">A deadly patch of fog</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3749">A demon familiar</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1714">A fanged hellhound</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1720">A giant shrew</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1717">A horrifying, demonic Blarg</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1723">A hungry Implementor</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1713">A large beetle</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1711">A large newt</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1712">A large shrew</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1716">A noble unicorn</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1719">A Shapeshifter</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1710">A skulking rat</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1715">An adventurer</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3746">Bent</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1721">Cymeneth the Enchanter</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1742">Focault</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1724">The Guardian</a></td>
+		<td><a href="/area/20">Focault's Residence</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/23793">Executive Office</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:02 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

@@ -1,0 +1,343 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/quest/">Quests</a></li>
+	<li><a class="breadcrumb" href="/quest/75">Elven Thievery</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Quest: Elven Thievery</h2>
+
+
+<div id="qsearch">
+	<form method="get" action="/quest/search/">
+		<table>
+			<tr>
+				<td>Search Type</td>
+				<td>Keywords</td>
+				<td>Sorted by</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>
+					<select name="search" tabindex="1">
+						<option value="quest">Quest</option>
+						<option value="phase">Phase</option>
+						<option value="master">Quest master</option>
+					</select>
+				</td>
+				<td>
+					<input type="text" name="keyword" size="30" maxlength="30" value="" tabindex="2" />
+				</td>
+				<td>
+					<select name="sort" tabindex="3">
+						<option value="questname">Quest Name</option>
+						<option value="questid">Quest ID</option>
+						<option value="pracreward">Practices</option>
+						<option value="qpreward">Quest Points</option>
+						<option value="questmaster">Quest Master</option>
+					</select>
+				</td>
+				<td><input type="submit" value="Search" /></td>
+			</tr>
+		</table>
+	</form>
+</div>
+
+<script type="text/javascript">
+function togPhase(n) {
+	var e = document.getElementById('phasehint' + n);
+	e.style.display = e.style.display == 'none' ? 'block' : 'none';
+}
+function togAllPhases(display) {
+	for (var i = 1; i <= 50; i++) {
+		var e = document.getElementById('phasehint' + i);
+		if (!e) break;
+		e.style.display = display;
+	}
+}
+function addHint(n) {
+	var e = document.getElementById('phase');
+	for (var i = 0; i < e.childNodes.length; i++) {
+		e.childNodes[i].selected = e.childNodes[i].value == n ? 'selected' : '';
+	}
+	e = document.getElementById('text');
+	e.focus();
+	e.select();
+}
+</script>
+
+<div class="mm white">
+This quest <span class="blue">[<span class="yellow">1356</span>]</span> is called '<span class="yellow">Elven Thievery</span>',<br/>
+for Adventurers levels <span class="yellow">60</span> to <span class="yellow">120</span>.<br />
+
+
+<span class="hg"><a href="/npc/3438">Lord Vashir</a> [<a href="/area/61">The Towne of New Rigel</a>] is the master in charge of this quest.</span><br />
+
+A trio of treacherous thieves have ransacked the town treasury!  The<br />
+investigation has narrowed down our search to these three devious creatures.<br />
+From the reports compiled, the woodland elf was in charge of distracting the<br />
+guards while the bard crept into the treasury to snatch up all the gold and<br />
+treasure before spiriting it away.  Believe it or not, the vixen was the<br />
+mastermind of the entire operation and put the entire plan into motion. <br />
+Please dispatch these dastardly thieves as quickly as possible.  Your reward<br />
+shall be well worth the trouble.<br />
+
+<span class="hy">Upon successful completion of this quest you can receive:</span><br />
+
+<span class="hm">*</span>Up to <span class="yellow">55</span> quest points, <span class="yellow">4</span> practice points, <span class="yellow">24,000</span> experience points,<br/>
+&nbsp;<span class="yellow">0</span> build points, <span class="yellow">0</span> piety, and <span class="yellow">5,000</span> gold pieces.<br />
+
+
+You have <span class="yellow">200</span> minutes remaining to complete this quest.<br />
+
+Elven Thievery consists of:<br />
+
+
+	<div class="phase" id="phase1">
+
+
+		<a class="hints" href="javascript:togPhase(1);">Phase 1</a>: Defeat <a href="/npc/3088">A woodland elf</a>. 		
+		<div class="phasehints" id="phasehint1" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/1">Alyria</a>.</div>
+
+
+			<div class="phasehint">
+				Wilds around New Rigel.				&mdash;
+				Drean							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase2">
+
+
+		<a class="hints" href="javascript:togPhase(2);">Phase 2</a>: Defeat <a href="/npc/3086">An elven bard</a>. 		
+		<div class="phasehints" id="phasehint2" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/1">Alyria</a>.</div>
+
+
+			<div class="phasehint">
+				Wilds around New Rigel.				&mdash;
+				Drean							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase3">
+
+
+		<a class="hints" href="javascript:togPhase(3);">Phase 3</a>: Defeat <a href="/npc/3087">A devious vixen</a>. 		
+		<div class="phasehints" id="phasehint3" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/1">Alyria</a>.</div>
+
+
+			<div class="phasehint">
+				Wilds around New Rigel.				&mdash;
+				Drean							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase4">
+
+
+		<a class="hints" href="javascript:togPhase(4);">Phase 4</a>: Recover <a href="/item/242">a browning mandrake leaf</a>. 		
+		<div class="phasehints" id="phasehint4" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/678">Hocus, the fey witch</a> (shop #19) [<a href="/room/1750/">Witchcraft and Wizardry</a>, <a href="/area/6" class="white">Cavhfail</a>],<br /><a href="/npc/1331">Mava</a> (shop #11) [<a href="/room/16904/">Mava's Magical and Wonderful Spell Shop</a>, <a href="/area/28" class="white">Irda Isle</a>],<br /><a href="/npc/106">Vegas</a> (shop #3) [<a href="/room/2319/">Vegas' Magic Shop</a>, <a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/2701">Alazar, the shop owner</a> (shop #19) [<a href="/room/22841/">Alasa de Magica</a>, <a href="/area/71" class="white">Mount Vesuvius</a>],<br /><a href="/npc/1675">Gabby</a> (shop #19) [<a href="/room/18985/">A Plateau</a>, <a href="/area/41" class="white">Ogre Village</a>],<br /><a href="/npc/2993">The magic shop owner</a> (shop #19) [<a href="/room/2058/">Enchanted Tiki Room of Magic and Mystery</a>, <a href="/area/11" class="white">Palace of Diocletian</a>],<br /><a href="/npc/1082">Arball</a> (shop #19) [<a href="/room/1299/">Magical Goods</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/464">Trifaergar</a> (shop #19) [<a href="/room/3363/">Trifaergar's Reagents</a>, <a href="/area/45" class="white">Rahdiyr</a>],<br /><a href="/npc/3128">The attendant</a> (shop #20) [<a href="/room/400/">Potions and Lore</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/2039">A conjurer</a> (shop #1) [<a href="/room/14901/">The Magic Society</a>, <a href="/area/66" class="white">Towne of Decara</a>],<br /><a href="/npc/740">Alpheus Grimaldi</a> (shop #19) [<a href="/room/4311/">Grimaldi Magick</a>, <a href="/area/67" class="white">Towne of Rune</a>],<br /><a href="/npc/897">Varlov</a> (shop #20) [<a href="/room/9097/">A Magical Abode</a>, <a href="/area/70" class="white">Unseelie Castle</a>],<br /><a href="/npc/1366">The shopkeeper</a> (shop #19) [<a href="/room/9566/">Vospire Magical Inventory</a>, <a href="/area/73" class="white">Vospire</a>].</div>
+
+
+			<div class="phasehint">
+				Actually, that's a regular mandrake leaf. A browning mandrake leaf can be found as shop buy 20 from Potions and Lore (5e, 2s, 5e, 3s, w of NR TS)				&mdash;
+				Hailaria							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="quest-toggle">
+		<a href="javascript:togAllPhases('block');">[+] Expand all</a>&nbsp;&nbsp;<br />
+		<a href="javascript:togAllPhases('none');">[-] Collapse all</a>
+	</div>
+
+</div>
+
+
+<ul class="toolbar">
+		<li><a href="/quest/75/fix/"><img src="/img/ico/script_edit.png" height="16" width="16" alt="edit quest" /> <span>fix ambiguous phases</span></a></li>
+</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 13:12:04 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

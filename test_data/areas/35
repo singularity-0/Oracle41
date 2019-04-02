@@ -1,0 +1,2019 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/35">Lowangen</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Lowangen</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1162, 414) in Alyria</td>
+			<td>Yes</td>
+			<td>Towne</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the ancient, crumbling stone walls of the towne of Lowangen</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1162, 414]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1162, 414],
+		className: 'textpointer',
+		html: "Lowangen",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(35, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1162&y=414&plane=1&zoom=4">View Lowangen on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Lowangen</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/6074">a bartered belt from Bardon</a></td>
+			<td>241</td>
+			<td>clothing</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1306">a battle axe</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/384">a beautiful emerald ring</a></td>
+			<td>40</td>
+			<td>jewelry</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/6073">a belt of whippoorwills and reeds</a></td>
+			<td>241</td>
+			<td>clothing</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1317">a black cloak</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/6081">a bone wand carved from a snow leopard's femur</a></td>
+			<td>241</td>
+			<td>wand</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7802">a bottle of prayers towards Vandyne</a></td>
+			<td>241</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5449">a box wrapped with a black bow</a></td>
+			<td>241</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1301">a broom handle</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/3532">a camel-in-the-box</a></td>
+			<td>20</td>
+			<td>toy</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6079">a Chaosmancer's Guild pin</a></td>
+			<td>15</td>
+			<td>amulet</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7906">a clan chest hide-long-description modification voucher</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7907">a clan chest magic-resistant modification voucher</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7908">a clan chest pick-proof modification voucher</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7903">a clan-attuned firework</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2105">a colored pike</a></td>
+			<td>43</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1309">a commoner's quarterstaff</a></td>
+			<td>36</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6077">a Conjurer's Guild pin</a></td>
+			<td>15</td>
+			<td>amulet</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/7751">a cuddly birthday bear</a></td>
+			<td>15</td>
+			<td>toy</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1129">a Darkland belt</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/809">a Darkland bracer</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/662">a Darkland helmet</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1367">a Darkland shield</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/139">a diamond cluster ring</a></td>
+			<td>40</td>
+			<td>jewelry</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6078">a Diviner's Guild pin</a></td>
+			<td>15</td>
+			<td>amulet</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1310">a fencer's rapier</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/5733">a flask of whaleskin oil</a></td>
+			<td>241</td>
+			<td>drink-container</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7904">a formation-attuned firework</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/6740">a fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6075">a full borrower's sling</a></td>
+			<td>241</td>
+			<td>container</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/5451">a glass case</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/6072">a gnomish lifting belt</a></td>
+			<td>241</td>
+			<td>clothing</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1311">a guard's halberd</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4694">a half-elf's decomposing body</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1639">a headstone</a></td>
+			<td>30</td>
+			<td>furniture</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="tool" /> <a href="/item/8439">a jeweler's workbench</a></td>
+			<td>10</td>
+			<td>tool</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/5411">a Kell's carapace</a></td>
+			<td>220</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5941">a key enchanted with an ancient benediction</a></td>
+			<td>241</td>
+			<td>key</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3646">a longbow</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3431">a longsword named 'Sanctity'</a></td>
+			<td>217</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1287">a magic mandolin</a></td>
+			<td>60</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5736">a magical magnet</a></td>
+			<td>240</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1638">a magical trident</a></td>
+			<td>51</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/95">a majesty staff</a></td>
+			<td>101</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2107">a military flail</a></td>
+			<td>56</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1326">a pair of Darkland boots</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1325">a pair of Darkland gauntlets</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1369">a pair of Darkland leggings</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1370">a pair of Darkland sleeves</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/158">a party hat</a></td>
+			<td>35</td>
+			<td>clothing</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/385">a pearl ring</a></td>
+			<td>40</td>
+			<td>jewelry</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6071">a piece of birthday cake</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1643">a poniard</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3533">a punch in the face</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1308">a razor hatchet</a></td>
+			<td>53</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/635">a rogue's dagger</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5735">a rotting titanskull</a></td>
+			<td>50</td>
+			<td>food</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1637">a sacrament dish</a></td>
+			<td>30</td>
+			<td>container</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/661">a set of Darkland plates</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1315">a silver longsword</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1641">a silver mace</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1387">a small book</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1642">a soft bench</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1312">a spiked whip</a></td>
+			<td>71</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1303">a sturdy training mace</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6080">a Summoner's Guild pin</a></td>
+			<td>15</td>
+			<td>amulet</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5734">a thing</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1302">a training dagger</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/6070">a vial of cherry champagne</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5861">a voucher for a barber's chair</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7911">a voucher for a customizable cure-light clan blood fountain</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7909">a voucher for a customizable cure-light clan water fountain</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7912">a voucher for a customizable refresh clan blood fountain</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7910">a voucher for a customizable refresh clan water fountain</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7897">a voucher for a generic save-location clanhall container</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7913">a voucher for a one-month bartender</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7905">a voucher for a one-month test dummy</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7901">a voucher for a one-week reagent vendor</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7902">a voucher for a one-week test dummy</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7900">a voucher for a piece of generic furniture to be manipulated AT for a clanhall</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7899">a voucher for a piece of generic furniture to be manipulated IN for a clanhall</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7898">a voucher for a piece of generic furniture to be manipulated ON for a clanhall</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5862">a voucher for a postman automaton</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5864">a voucher for a provisionary casino permit</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5863">a voucher for a stablemaster automaton</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7803">a voucher for a temporary clanhall fountain</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2106">a war hammer</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/3535">a water balloon</a></td>
+			<td>20</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3703">a wax-red apple</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3534">a wax-red apple</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4972">a wire coathanger</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/2104">a worker's shovel</a></td>
+			<td>56</td>
+			<td>spade</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/4850">a worn-out tunneling spade</a></td>
+			<td>25</td>
+			<td>spade</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3531">Admiral Yotln's fantastic device</a></td>
+			<td>200</td>
+			<td>treasure</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1304">an all-purpose training sword</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4111">an automaton's crossbow</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/5865">an enchanted anvil</a></td>
+			<td>240</td>
+			<td>container</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6076">an Illusionist's Guild pin</a></td>
+			<td>15</td>
+			<td>amulet</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1313">an orc hook</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1318">obsidian boots</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1319">obsidian gauntlets</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1320">obsidian leggings</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1321">obsidian sleeves</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4772">some pigeon entrails</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1635">some temple records</a></td>
+			<td>30</td>
+			<td>book</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1392">some trash</a></td>
+			<td>30</td>
+			<td>trash</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="manual" /> <a href="/item/4112">the automaton's intelligence core</a></td>
+			<td>186</td>
+			<td>manual</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/5314">the blank center block of a magic cube</a></td>
+			<td>241</td>
+			<td>toy</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3726">the blessed helm of sanctity</a></td>
+			<td>221</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1640">the coffin of Tyr</a></td>
+			<td>30</td>
+			<td>container</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/117">the crown of Cronus</a></td>
+			<td>91</td>
+			<td>jewelry</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1636">the hero records</a></td>
+			<td>30</td>
+			<td>book</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5342">the key to Tyr's coffin</a></td>
+			<td>30</td>
+			<td>key</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1388">the king's fountain</a></td>
+			<td>5</td>
+			<td>fountain</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1323">the large obsidian shield</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1634">the moon ring</a></td>
+			<td>34</td>
+			<td>jewelry</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/782">the necklace of divine knowledge</a></td>
+			<td>30</td>
+			<td>jewelry</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1316">the obsidian girth</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1322">the obsidian helmet</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4250">the ring of divine wisdom</a></td>
+			<td>30</td>
+			<td>jewelry</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/2150">the robot's control panel</a></td>
+			<td>240</td>
+			<td>orb</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1389">the royal robe of Cronus</a></td>
+			<td>91</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2111">the royal slippers</a></td>
+			<td>91</td>
+			<td>clothing</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3434">the white shield of sanctity</a></td>
+			<td>210</td>
+			<td>armor</td>
+			<td><a href="/area/35">Lowangen</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Lowangen</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3319">A baby efreet</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/66">A bank teller</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/55">A begging vagrant</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/32">A burly city guard</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/126">A city worker</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/111">A construction worker</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5143">A death insurance salesman</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/25">A dedicated city guard</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4093">A dejected hunter</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4928">A depressed romantic</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4117">A deranged soothsayer</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2469">A disfigured tinkergnome</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/47">A disgusting gray rat</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4091">A dodgy fellow</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/62">A female senior citizen</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5278">A flying fish</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/29">A gate policeman</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/121">A ghost</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5061">A gorgeous pilomancer</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/70">A grumpy bartender</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/28">A husky city guard</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/137">A Kagonesti guard</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/116">A Lowangen councilman</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5275">A Lowangen guard horse</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5276">A Lowangen guard horse</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5277">A Lowangen guard horse</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/40">A Lowangen mime</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/71">A Lowangen townsman</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/30">A maintenance man</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/131">A muscular prison guard</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/31">A pigeon</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/124">A pious man</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/123">A pious woman</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5279">A pitbull</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/127">A postmaster</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/119">A Praios monk</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/141">A prisoner's spectre</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/64">A senior citizen</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/132">A sickly prisoner</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/69">A smuggler</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/56">A sneaky thief</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/113">A squirrel</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/117">A temple monk</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/118">A temple secretary</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/39">A tomcat</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5059">A violent squatter</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/134">A visitor's attendant</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/140">A wandering undead spirit</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/61">A woman</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/122">A zombie</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/41">Alerion</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/112">An angry citizen</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/26">An archer</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/133">An entrance guard</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/68">An orc</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6105">An ornithologist</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5142">Bardon the tailor</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5141">Da'nama the shaper</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5138">Daomihn Chrugakof, conchomancer extraordinaire</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4435">Derceto, the shipwright</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5137">Donaroo the mumble tamer</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/135">Drinnial the wizard</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/108">Efferd</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/109">Eida</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/33">Firun</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/46">Friedburg</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5060">Gaston</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/49">Gerry</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/72">Gulmond</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/24">Harman</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/73">Hesinde</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/35">Ifirn</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/60">Ingerimm</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5140">Jac the Sawbones</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3235">Keleuei</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/138">King Cronus</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5139">Losanil the Judicious</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6262">Master thief Qulin</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/57">Memphis</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/114">Rahja</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5136">Reencaul the Sage</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/44">Regulon</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/38">Rex</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/107">Rondra</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6163">Roosela the Mad</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/42">Sorina</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/34">Swanfir</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/139">The beautiful mistress</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/136">The bronze statue</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/125">The city clerk</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/110">The construction foreman</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/115">The councilman's wife</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/27">The lookout</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/129">The mayor of Lowangen</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3364">The mechagoblin</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/130">The prison captain</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5280">The royal stable master</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/120">The temple priest</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/128">The town magistrate</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/175">The traveling bard</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3730">Trader Valentine</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/74">Travia</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/105">Tsa</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/106">Vegas</a></td>
+		<td><a href="/area/35">Lowangen</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/2330">Lowangen Town Square</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2471">The Rotunda of the Main Foyer</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/2390">Animal Hides</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2317">Efferd's Apothecary</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/2315">Eida's Pawn Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2297">Firun's World of Herbs</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/2403">Gulmond's Armory</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2402">Hesinde's Weaponry</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/2300">Ifirn's Spell Study</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2407">Ingerimm's Blacksmith Shop</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/2412">Memphis' General Goods</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2401">Phex's Pets</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/2298">Swanfir's Cartography</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2327">Travia's Confectionery Shop</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/2325">Tsa's Rings</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2319">Vegas' Magic Shop</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/2494">Far End of the Dungeon</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2493">The Dungeon Below</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/2427">Entrance to City Hall</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2483">The Dreaded Dungeon</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/2427">Entrance to City Hall</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:04 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

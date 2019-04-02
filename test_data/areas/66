@@ -1,0 +1,1506 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/66">Towne of Decara</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Towne of Decara</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1570, 487) in Underground</td>
+			<td>Yes</td>
+			<td>Towne</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the heavily-guarded stone walls of the towne of Decara</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(2);
+	vmap.setCenterPos([1570, 487]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1570, 487],
+		className: 'textpointer',
+		html: "Towne of Decara",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(66, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1570&y=487&plane=2&zoom=4">View Towne of Decara on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Towne of Decara</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1677">a "What Would Vandyne Do?" bracelet</a></td>
+			<td>60</td>
+			<td>clothing</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/786">a beginner's songbook</a></td>
+			<td>15</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4408">a bondage collar</a></td>
+			<td>220</td>
+			<td>clothing</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="mortar-and-pestle" /> <a href="/item/735">a bone grinder</a></td>
+			<td>200</td>
+			<td>mortar-and-pestle</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/4114">a book of spells</a></td>
+			<td>88</td>
+			<td>spellbook</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1676">a butterfly hair clip</a></td>
+			<td>15</td>
+			<td>clothing</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3075">a cell key</a></td>
+			<td>180</td>
+			<td>key</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/1665">a ceramic jug</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1678">a cheap novel</a></td>
+			<td>10</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/1679">a cherished toy</a></td>
+			<td>25</td>
+			<td>toy</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4454">a coal bookmark</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1666">a comfy stone couch</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1672">a counterpoint textbook</a></td>
+			<td>225</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/2929">a cup of mushroom wine</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3073">a Decara guard's uniform</a></td>
+			<td>60</td>
+			<td>clothing</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/2617">a Decara guidebook</a></td>
+			<td>10</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8214">a fat red lever</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="pick-axe" /> <a href="/item/1660">a flint pickaxe</a></td>
+			<td>5</td>
+			<td>pick-axe</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1681">a granite pike</a></td>
+			<td>70</td>
+			<td>weapon</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/1659">a granite shovel</a></td>
+			<td>5</td>
+			<td>spade</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4522">a guard's nunchaku</a></td>
+			<td>145</td>
+			<td>weapon</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/684">a hand-carved viola</a></td>
+			<td>241</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/3990">a heavy lead wand</a></td>
+			<td>241</td>
+			<td>wand</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="sextant" /> <a href="/item/2928">a hidebound compass</a></td>
+			<td>241</td>
+			<td>sextant</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6390">a key to room one</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6392">a key to room three</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6391">a key to room two</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1664">a large squishy mushroom</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/2741">a ledger</a></td>
+			<td>241</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/1888">a little wicker man</a></td>
+			<td>222</td>
+			<td>figurine</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1668">a music history book</a></td>
+			<td>75</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1670">a music theory workbook</a></td>
+			<td>175</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1684">a pair of crystal boots</a></td>
+			<td>170</td>
+			<td>armor</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4901">a pair of moonstone gauntlets</a></td>
+			<td>237</td>
+			<td>armor</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/980">a pair of moonstone gauntlets</a></td>
+			<td>237</td>
+			<td>armor</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4458">a pair of platinum shinguards</a></td>
+			<td>22</td>
+			<td>armor</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/4154">a pearl of power</a></td>
+			<td>45</td>
+			<td>orb</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1687">a quartz helmet</a></td>
+			<td>160</td>
+			<td>armor</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/1661">a quartz lantern</a></td>
+			<td>10</td>
+			<td>light</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3076">a safety-deposit box</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4428">a safety-deposit box key</a></td>
+			<td>180</td>
+			<td>key</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5385">a slug thrower</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3074">a smooth obsidian key</a></td>
+			<td>180</td>
+			<td>key</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3094">a steel no-dachi</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1658">a stone box</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1657">a stone hitching post</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1680">a stone pitchfork</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1327">a stuffed doggie</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1685">a tail pipe</a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/1662">a tallow candle</a></td>
+			<td>5</td>
+			<td>light</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1675">a teddy bear backpack</a></td>
+			<td>25</td>
+			<td>container</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/3276">a wand of shooting stars</a></td>
+			<td>241</td>
+			<td>wand</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1686">a wing casing</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3446">a y'Goth's skull</a></td>
+			<td>220</td>
+			<td>treasure</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1667">an "Intro to Music" book</a></td>
+			<td>5</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1663">an edible mushroom</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/5851">an iron cauldron</a></td>
+			<td>6</td>
+			<td>drink-container</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4589">an obsidian halberd</a></td>
+			<td>75</td>
+			<td>weapon</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1682">an obsidian lance</a></td>
+			<td>80</td>
+			<td>weapon</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1669">an opera score</a></td>
+			<td>125</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1671">an orchestration manual</a></td>
+			<td>200</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1683">ebony nunchaku</a></td>
+			<td>110</td>
+			<td>weapon</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1674">fuzzy bunny slippers</a></td>
+			<td>45</td>
+			<td>clothing</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2712">Lord Glomus' key</a></td>
+			<td>241</td>
+			<td>key</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3565">Lord Glomus' throne</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1673">the "Music Form and Analysis" textbook</a></td>
+			<td>250</td>
+			<td>book</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2629">the blessed lance of Decara</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/676">the broom of Baba Yaga <span class="red">[OS]</span></a></td>
+			<td>90</td>
+			<td>furniture</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5842">the broom of Baba Yaga</a></td>
+			<td>90</td>
+			<td>furniture</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/5845">the head of a shabby-looking citizen</a></td>
+			<td>1</td>
+			<td>seed</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4525">the skull of a busy woman</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="statue" /> <a href="/item/6869">the statue of an unknown wizard</a></td>
+			<td>10</td>
+			<td>statue</td>
+			<td><a href="/area/66">Towne of Decara</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Towne of Decara</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5670">A bank teller</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6153">A bookkeeper</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3742">A brooding resident</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2454">A busy woman</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3737">A chaplain</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4121">A cheerful resident</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2055">A concerned citizen</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2039">A conjurer</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2054">A consultant</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2043">A content citizen</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2047">A courier</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2042">A Decara city guard</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2044">A depressed shopkeeper</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4039">A depressed worshipper</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5854">A drunken citizen</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3571">A dungeon guard</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4724">A frosty phantom</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3688">A glowing skull</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2398">A hideous y'Goth</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3572">A hopeless prisoner</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2031">A hungry catfish</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2035">A jogger</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5321">A laborer</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3812">A large black cat</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1751">A little arsonist</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3743">A lost youngster</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2037">A meditating mystic</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3568">A moaning spirit</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2028">A moon jelly</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3740">A mourning druid</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2034">A murderous houseplant</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3569">A mutant gremlin</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2030">A mutated sea bass</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2053">A nervous servant</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4036">A ninja</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4035">A palace guard</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2056">A patriotic citizen</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5899">A practice dummy</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2036">A privileged citizen</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4717">A psychic old man</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2870">A pugilist</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3687">A rabid child</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2058">A relaxing guard</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5323">A scavenger</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2050">A scientist</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2032">A sea urchin</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3739">A secretive shaman</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2033">A shabby-looking citizen</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2873">A shifty homemaker</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3857">A skeleton wizard</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3741">A starving citizen</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2871">A stonemason</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3165">A volcano spirit</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3570">A voodoo statue</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2038">A wise mage</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3170">Althea</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5322">An anthropologist</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2679">An Archon master</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3037">An Archon master</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5057">An elite Nezakommander</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2057">An injured guard</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5652">An injured Nezakommander</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2046">An ogre healer</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2040">An ogre homemaker</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5056">Baba Yaga</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4612">Baron Nezak</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2453">Cindee</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4038">Drijk</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2874">Indria</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2041">Keb-Shen</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3575">Lady Bane</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3164">Lord Glomus</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3314">Retired Admiral Jarvha</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4610">Robin the Shipwright</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5853">Shroom</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5914">Snarlpanther</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3099">The accountant</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4607">The balrog hunter</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5345">The captain of the Nezakommanders</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2048">The coroner</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5672">The dark master</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5324">The innkeeper</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1750">The keymaster</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3813">The loan officer</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2872">The mastermind</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5671">The mistress</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2051">The musicologist</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3320">The nefarious Dr. Gnekow</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2027">The ogre gateguard</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2059">The sergeant of the guard</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2049">The slaadi hunter</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2045">The y'Goth hunter</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2210">Trader Hubert</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3856">Vortex</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2052">Warbles</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1753">Whompface the guard</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5646">Your reflection</a></td>
+		<td><a href="/area/66">Towne of Decara</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/14993">Sparring Room</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/32713">A Chartreuse Tunnel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/32701">A Dark Tunnel</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/32716">A Hidden Pit</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/32711">A Lavender Tunnel</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/32720">An Indigo Tunnel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/14973">Loan Office</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26092">The Vault</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/14863">Performance Stage</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/14767">Decara Healer's Office</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:15 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

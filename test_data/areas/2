@@ -1,0 +1,1063 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/2">Atlantis</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Atlantis</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1988, 1306) in Alyria</td>
+			<td>No</td>
+			<td>Underw</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>an unusual swirling of water and some large bubbles</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1988, 1306]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1988, 1306],
+		className: 'textpointer',
+		html: "Atlantis",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(2, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1988&y=1306&plane=1&zoom=4">View Atlantis on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Atlantis</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/2023">a bottle of air bubbles</a></td>
+			<td>5</td>
+			<td>reagent-air</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/272">a bottle of Atlantian beer</a></td>
+			<td>20</td>
+			<td>drink-container</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/1869">a bottle of mermaids tears</a></td>
+			<td>5</td>
+			<td>reagent-water</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4567">a bowl of seaweed soup</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/727">a clamshell buckler</a></td>
+			<td>97</td>
+			<td>armor</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/787">a deep-forged spear</a></td>
+			<td>150</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2026">a deep-sea chess set</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/72">a dome guard's mace</a></td>
+			<td>95</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3717">a full length mirror</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/4815">a gem of Gath</a></td>
+			<td>10</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/751">a hellfire whip</a></td>
+			<td>200</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/45">a pair of shiny golden armplates</a></td>
+			<td>130</td>
+			<td>armor</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1911">a pair of shiny golden leggings</a></td>
+			<td>130</td>
+			<td>armor</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1910">a shiny golden breastplate</a></td>
+			<td>140</td>
+			<td>armor</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/2022">a single seashell</a></td>
+			<td>5</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/788">a suit of fire</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/1870">a volcanic rock</a></td>
+			<td>10</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2027">a wizard's staff</a></td>
+			<td>100</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/729">an Atlantian sponge</a></td>
+			<td>100</td>
+			<td>light</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1899">spectral fullplate</a></td>
+			<td>135</td>
+			<td>armor</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1877">the Avatar's glowing spear</a></td>
+			<td>150</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/525">the chief thief's dagger</a></td>
+			<td>130</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/524">the demons claw</a></td>
+			<td>165</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1868">the halberd of Nadazar</a></td>
+			<td>120</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1884">the holy hammer</a></td>
+			<td>125</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3937">the royal swordmaster's sword</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1872">the sceptre of King Triton</a></td>
+			<td>151</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1900">the spectral sabre</a></td>
+			<td>135</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/743">the trident of the royal guard</a></td>
+			<td>120</td>
+			<td>weapon</td>
+			<td><a href="/area/2">Atlantis</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Atlantis</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2713">A citizen of Atlantis</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2722">A deepspawn protector</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3512">A firedrake</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3515">A fury</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3513">A hell hound</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3819">A holy paladin</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5282">A holy priest</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3514">A lernaean</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3676">A mermaid</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2717">A merman</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2721">A merman thief</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3516">A morkoth</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2712">A poor merman</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4998">A royal merman guard</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3511">A sirine</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3863">A spectral shade</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5281">A sponge streetlight</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2709">A warrior whale</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2711">A white shark</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3864">An aboleth</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2719">An Atlantian merman</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2714">An Atlantis Dome guard</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2718">An octopus blacksmith</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3115">Atlantian priestess of Nadazar</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5921">Barnacle Bartholemeu</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4854">King Triton XVII</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2716">Marie the magic shop owner</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2715">Octavius the bartender</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3519">The Archmage of Fire</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2720">The chief thief of Atlantis</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3820">The holy Avatar</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5920">The Krakodon</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3821">The master paladin</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3518">The pit fiend</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/23">The royal court mage</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3822">The royal swordmaster</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4847">The spectral King</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2710">The sturgeon surgeon</a></td>
+		<td><a href="/area/2">Atlantis</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/22182">Eiram's Shop of Wonders</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22936">Gathered Goods &amp; Curiosities</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/25093">Marie's Shop of Wonders</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22199">The Fish's Forge</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/22385">A Downward Passage</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22164">A Strange Section of the Dome</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22729">An Enclosing Passage</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22748">Deep in the Bowels of the Volcano</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22734">East Lava Chamber</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22369">Inside the Crater</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22735">The End of the Eastern Branch</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22731">The End of the Western Passage</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22733">The Lava Chambers</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22736">The Tree of Lava</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22728">The Western Branch of the Lava Chambers</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22732">Walking towards the East</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22730">Western Branch</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/22305">A Hallway in the Palace</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22302">A Hallway in the Palace of the Merfolk</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22754">Almost to the End of the Eastern Passages</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22743">Along the Eastern "Branch" of the Lava Tree</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22739">Along the Western Branch</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22757">Along the Western Passageway</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22749">An Eastern Passage Deep Within the Volcano</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22745">Deeper into the Eastern Branch</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22363">Eastern Tunnel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22752">Further East in the Volcano</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22738">Inside the Western Branch</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22746">Near the End of the Eastern Branch</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22740">Near the End of the Western Passage</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22758">Nearing the End of the Western Chambers</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22366">Nearing the Mountain Summit</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22760">Next to the End of the Western Passages</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22341">Northern Passage</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22762">OOOOOHHHHHH NOOOOOOO! LAVA BATH!</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22356">Southern Passage</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22367">Summit of the Burning Mountain</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22368">The Crater</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22750">The Depths of the Volcano</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22742">The Eastern Branch of the Lava Tree</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22751">The Eastern Chambers of the Depths</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22304">The Eastern Hallway in the Palace</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22761">The End (Finally!) of the Western Passages</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22747">The End of the Eastern Branch</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22755">The End of the Eastern Passages</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22303">The End of the Hallway</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22741">The End of the Western Branch of the Lava Tree</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22306">The Hallway</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22301">The Hallway in the Palace</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22737">The Western "Branch" of the Lava Tree</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22756">The Western Passages</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22307">The Winding Passageway</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22744">Traversing Across the Eastern Branch</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22935">Vault of the Atlantian Thieves Guild</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22759">Very Close to the End of the Western Passages</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22753">Very Far East in the Volcano</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22332">Western Tunnel</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/22180">Atlantian Gold Depository</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/22186">The Atlantis Trainer's Hall</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/22251">The Temple of Nadazar</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/22251">The Temple of Nadazar</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:00 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

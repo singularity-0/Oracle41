@@ -1,0 +1,4264 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/75">The Towne of Xaventry</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>The Towne of Xaventry</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(603, 446) in Alyria</td>
+			<td>Yes</td>
+			<td>towne</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the large oak trees surrounding the heavily forested Towne of Xaventry</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([603, 446]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [603, 446],
+		className: 'textpointer',
+		html: "The Towne of Xaventry",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(75, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=603&y=446&plane=1&zoom=4">View The Towne of Xaventry on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area The Towne of Xaventry</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2035">a baked potato</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/993">a ball of colorful yarn</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/4875">a bartender shaped hanger</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1019">a beautiful daffodil</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1391">a black marble fountain</a></td>
+			<td>5</td>
+			<td>fountain</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/6484">a blackened ankh</a></td>
+			<td>15</td>
+			<td>ankh</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4468">a blessed axe of the wind</a></td>
+			<td>225</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4295">a blessed axe of the wind <span class="red">[OS]</span></a></td>
+			<td>225</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/683">a bracelet of the elements</a></td>
+			<td>220</td>
+			<td>jewelry</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1360">a brass ring</a></td>
+			<td>20</td>
+			<td>jewelry</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4063">a broken crystal</a></td>
+			<td>200</td>
+			<td>artifact</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1069">a bronze halberd</a></td>
+			<td>38</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/5825">a capsulated bit of seaweed</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/5595">a capsulated sprig of heather</a></td>
+			<td>15</td>
+			<td>pill</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6487">a ceramic dagger formerly belonging to Vortex</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1393">a ceramic fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1056">a ceramic key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1001">a ceramic seashell necklace</a></td>
+			<td>50</td>
+			<td>jewelry</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1386">a ceramic spear</a></td>
+			<td>36</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/1044">a charred brick</a></td>
+			<td>5</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/8460">a chronomancer's phasing goggles</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1361">a cloak of meditation</a></td>
+			<td>30</td>
+			<td>clothing</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/1002">a clump of dried seaweed</a></td>
+			<td>5</td>
+			<td>reagent-water</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5902">a copper-plated wooden key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1395">a coral trident</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1062">a courtroom key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5920">a crimson key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6780">a crystal key decorated with boulders</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6730">a crystal key decorated with cyclones</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6728">a crystal key decorated with flames</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6729">a crystal key decorated with nothingness</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6779">a crystal key decorated with waves</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6490">a culling scythe</a></td>
+			<td>45</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5889">a drow shaped hanger</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/8459">a fading fogbelt</a></td>
+			<td>220</td>
+			<td>clothing</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3951">a fiery red portal</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1376">a giant's platemail</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4986">a glass display case</a></td>
+			<td>150</td>
+			<td>container</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/998">a glass key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5904">a gold-plated wooden key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="writing-instrument" /> <a href="/item/1063">a golden pen</a></td>
+			<td>28</td>
+			<td>writing-instrument</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4328">a golden scythe</a></td>
+			<td>120</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/589">a golden tail ring</a></td>
+			<td>25</td>
+			<td>jewelry</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="tool" /> <a href="/item/1023">a grappling hook</a></td>
+			<td>5</td>
+			<td>tool</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/780">a gray spellbook</a></td>
+			<td>35</td>
+			<td>spellbook</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/1362">a green stick of dynamite</a></td>
+			<td>40</td>
+			<td>explosive</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8340">a heavy stone battlehammer</a></td>
+			<td>18</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1049">a holy ring of Maradas</a></td>
+			<td>50</td>
+			<td>jewelry</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/8329">a holy symbol of Dira</a></td>
+			<td>120</td>
+			<td>ankh</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/1933">a holy symbol of Dira <span class="red">[OS]</span></a></td>
+			<td>120</td>
+			<td>ankh</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/799">a holy symbol of Gath</a></td>
+			<td>142</td>
+			<td>ankh</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/2521">a holy symbol of Ithrilis</a></td>
+			<td>120</td>
+			<td>ankh</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/1055">a holy symbol of Maradas</a></td>
+			<td>120</td>
+			<td>ankh</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/6983">a holy symbol of Vandyne</a></td>
+			<td>120</td>
+			<td>ankh</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/2519">a holy symbol of Vandyne <span class="red">[OS]</span></a></td>
+			<td>120</td>
+			<td>ankh</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/559">a holy wing bracer</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4373">a large red oil can</a></td>
+			<td>5</td>
+			<td>treasure</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4871">a large wooden plaque</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2747">a large wooden sign</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5315">a large, revolving catapult</a></td>
+			<td>200</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1024">a length of rope</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4488">a lilac spider sphere</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1048">a magnificent pine</a></td>
+			<td>5</td>
+			<td>fountain</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6494">a massive obsidian lever</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/2739">a matchbook</a></td>
+			<td>20</td>
+			<td>container</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2520">a minx pelt cloak</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/1027">a page of vellum</a></td>
+			<td>6</td>
+			<td>parchment</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1366">a pair of copper gauntlets</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1064">a pair of eyeglasses</a></td>
+			<td>35</td>
+			<td>clothing</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2737">a pair of iron leggings</a></td>
+			<td>45</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1065">a pair of iron shackles</a></td>
+			<td>20</td>
+			<td>clothing</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1373">a pair of iron shackles</a></td>
+			<td>40</td>
+			<td>clothing</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/5495">a paper lunch bag</a></td>
+			<td>14</td>
+			<td>container</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/1060">a pearly orb</a></td>
+			<td>41</td>
+			<td>orb</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/988">a pendant of meditation</a></td>
+			<td>25</td>
+			<td>jewelry</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1017">a pink carnation</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1031">a plate of lasagna</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1033">a plate of linguini</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1029">a plate of roast beef au jus</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1030">a plate of smoked salmon</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1032">a plate of spinach ravioli</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1028">a plateful of stuffed mushrooms</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2719">a policeman's badge</a></td>
+			<td>25</td>
+			<td>clothing</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/997">a porcelain key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/5248">a powerful shot of blood-whiskey</a></td>
+			<td>120</td>
+			<td>drink-container</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2727">a prison cell key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1018">a purple orchid</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/1043">a quartz stone</a></td>
+			<td>5</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1382">a raindrop longbow</a></td>
+			<td>54</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2725">a raw salted herring</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5922">a ring enchanted by a champion of the Unity</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6489">a ring made of charred bone</a></td>
+			<td>40</td>
+			<td>jewelry</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1051">a ruby key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2518">a rusted iron key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1053">a sapphire key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1071">a set of iron platemail</a></td>
+			<td>45</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3201">a shiny brass key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2726">a shish kebab</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1390">a silver harp</a></td>
+			<td>35</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5903">a silver-plated wooden key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1067">a sling shot</a></td>
+			<td>10</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1378">a small brass key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1020">a small copper inn key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/1085">a small indicolite</a></td>
+			<td>20</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1021">a small inn key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1384">a small iron inn key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/994">a small iron thimble</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1377">a small lute</a></td>
+			<td>25</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="pick-axe" /> <a href="/item/2745">a small pick axe</a></td>
+			<td>25</td>
+			<td>pick-axe</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/1041">a small sparkling diamond</a></td>
+			<td>15</td>
+			<td>gem</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1050">a small temple key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/7845">a snare statue of a garden gnome</a></td>
+			<td>241</td>
+			<td>trap-kit</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/7849">a snare statue of a winged sylph</a></td>
+			<td>241</td>
+			<td>trap-kit</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/7853">a snared statue of a displacer beast</a></td>
+			<td>241</td>
+			<td>trap-kit</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/7854">a snared statue of a fiery salamander</a></td>
+			<td>241</td>
+			<td>trap-kit</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/7850">a snared statue of an undine</a></td>
+			<td>241</td>
+			<td>trap-kit</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/1374">a staff of a Gath shaman</a></td>
+			<td>50</td>
+			<td>staff</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="statue" /> <a href="/item/7172">a statue of the balance of justice</a></td>
+			<td>200</td>
+			<td>statue</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2722">a stone sign</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5494">a string of rock candy</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2732">a swirling black potion</a></td>
+			<td>241</td>
+			<td>potion</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2733">a swirling black potion</a></td>
+			<td>200</td>
+			<td>potion</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2734">a swirling black potion</a></td>
+			<td>150</td>
+			<td>potion</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2735">a swirling black potion</a></td>
+			<td>100</td>
+			<td>potion</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2736">a swirling black potion</a></td>
+			<td>50</td>
+			<td>potion</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/1045">a sylph in a bottle</a></td>
+			<td>5</td>
+			<td>reagent-air</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/985">a sylph wing</a></td>
+			<td>44</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/5247">a tall glass of bloodwine</a></td>
+			<td>60</td>
+			<td>drink-container</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1068">a thick broom</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1364">a thin longblade</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/995">a tiny needle</a></td>
+			<td>1</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2724">a trainer's whip</a></td>
+			<td>12</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4873">a tribal wall painting</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1365">a tunic of a gath follower</a></td>
+			<td>15</td>
+			<td>clothing</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1066">a vest made of leather</a></td>
+			<td>37</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/7895">a wand of instrument modification</a></td>
+			<td>241</td>
+			<td>wand</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1383">a wash cloth</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/1042">a white sapphire</a></td>
+			<td>5</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6483">a witch's whip, of drowish origin</a></td>
+			<td>12</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1385">a wooden inn key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1381">a wooden key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2748">a wooden sign</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4985">a wooden signpost</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2720">a wooden spear</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="archon-token" /> <a href="/item/2126">a wooden token</a></td>
+			<td>25</td>
+			<td>archon-token</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4870">an antique sword case</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3417">an Archbishop's zucchetto</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/5888">an authentic sacraficial altar</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4872">an elf shaped hanger</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4984">an elven huntress shaped hanger</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1052">an emerald key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/6486">an enchanted leather tunic</a></td>
+			<td>25</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2740">an enchanted match</a></td>
+			<td>5</td>
+			<td>light</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2528">an ice bola</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1022">an inn key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1070">an iron bracer</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1368">an iron gate key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2721">an obsidian key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/6431">an ogrehide spellbook</a></td>
+			<td>55</td>
+			<td>spellbook</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4874">an unflattering statue of Lord Vashir</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/6488">armbands of the accursed</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/6485">snowflake-tipped gloves</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6493">the fantastic wand of an omnipotent warlock</a></td>
+			<td>65</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/7106">the Fountain of Eternity</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1057">the fountain of life</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3950">the mace of the elements</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/2746">the Orb of Powers</a></td>
+			<td>180</td>
+			<td>orb</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="surge-protector" /> <a href="/item/6492">the preserved eye of an dracon magi on a string</a></td>
+			<td>60</td>
+			<td>surge-protector</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/6491">the reinforced ribcage of a sacrificed virgin</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3219">the spine of the condemned</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4578">the teacher's ruler</a></td>
+			<td>15</td>
+			<td>weapon</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2743">webbed boots</a></td>
+			<td>33</td>
+			<td>clothing</td>
+			<td><a href="/area/75">The Towne of Xaventry</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area The Towne of Xaventry</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5006">A 24-karat clockwork centaur</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3780">A black arachnid</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1541">A blacksmith's apprentice</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1561">A bored prison guard</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4721">A burly guard</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1562">A captured thief</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4623">A card dealer</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1266">A carrion crawler</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1620">A choir member</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1524">A colorful sylph</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1553">A commoner of the inn</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4931">A copper faerie dragon automaton</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1565">A court advisor</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1630">A dark naga</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1572">A dark ranger</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1501">A distracted school child</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1481">A dracon child</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1255">A drifting spirit</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1502">A druid instructor</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4622">A drunken bard</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1555">A drunken fat man</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1265">A dwarven worshipper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1633">A faerie dragon</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2687">A faith instructor</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1482">A field mouse</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1521">A filthy barkeep</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5849">A fire elemental</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2690">A fire-breathing salamander</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5848">A flaming mist</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4642">A follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4643">A follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1589">A foot soldier</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1479">A furry chipmunk</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1492">A gardener</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5619">A gnome mage</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1486">A gnome tout</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1483">A gnomish follower of Maradas</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4698">A gnomish school child</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1634">A gnomish servant</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4713">A grimy barkeeper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1567">A guilt-stricken defendant</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1560">A halfling banker</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1628">A harpy</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1576">A historian</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1569">A hungry gray rat</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1593">A kindly witch</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5272">A kitten</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1621">A lake trout</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1631">A large centaur</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1625">A large stirgen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5677">A mid-level psionic</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4722">A minotaur slave</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1526">A mute warlock</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1542">A northern mule</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4640">A novice adventuress</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1568">A patron of the courts</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3753">A peaceful druid</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1552">A performing bard</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1484">A policeman</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5894">A practice dummy</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1494">A priest of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1636">A priest of Maradas</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5055">A priest of Vandyne</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1619">A priestess of Ithrilis</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4636">A recently-retired adventurer</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5658">A representative from the Xaventry Tourism Board</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1547">A restaurant patron</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4723">A robed follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1493">A robed worshipper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5081">A rough-hewn stone robot</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1632">A satyr</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1623">A sea serpent</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4294">A shaman of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5834">A shining, colorful sylph</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/786">A sidhe herbalist</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2550">A sidhe school child</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2549">A silver stallion</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4932">A silver-plated robosatyr</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4641">A sloppy innkeeper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1575">A soldier</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1629">A spider gremlin</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4621">A stocky innkeeper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1635">A stone gargoyle</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1491">A stone golem</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/791">A store clerk</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1532">A store clerk</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1480">A street sweeper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1617">A templar</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5765">A totally inconspicuous man</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1564">A town clerk</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1546">A training soldier</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1587">A traveling merchant</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1626">A twisted neuron</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1574">A Vandyne guard</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1579">A Vandyne worshipper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5737">A venerable druid</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4488">A Viridian Military, Archery Division recruiter</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1293">A wandering minstrel</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1622">A water elemental</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1624">A watery undine</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1487">A weary adventurer</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1261">A wizened old monk</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4500">A wrinkled scholar</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1539">A Xaventry townsman</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1540">A Xaventry townswoman</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4679">A young orc child</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4644">Abendan, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4645">Adarewen, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4690">Adigohan, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4646">Adraliven, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4691">Agraliron, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1573">Aleo the shopkeeper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1507">Alford, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1615">Allijonlessa, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1519">Allizi, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1511">Amkayla, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1538">An absent-minded wizard</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1256">An aged sidhe</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1543">An animal trainer</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5753">An animate statue of the balance of justice</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1488">An apprentice monk</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3681">An avariel</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1529">An elderly grandmother</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1523">An elderly inkeeper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1588">An elven thief</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1489">An equine dryad</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3682">An ethereal shadow</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1609">An Ithrilis school child</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1596">An Ithrilis warrior</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4545">An Ithrix vanguard</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1556">An old maid</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1136">An old sage</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5814">Annyth, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4692">Aserradon, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1608">Ashlerelia, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1497">Ayan, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1559">Baluth</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4647">Begnus, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1599">Beludith, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4648">Benar, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/784">Biaron</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4652">Boino, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4649">Breeka, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4650">Breeza, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4651">Brennakielle, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1506">Brockon, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4667">Brookvonlee, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4654">Cadaerwen, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4659">Cadalimwen, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1601">Calidia, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4669">Camineeka, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1514">Caminetta, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1516">Camisha, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1498">Cassato, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1508">Cassland, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1603">Celarania, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1627">Cenara</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4664">Charennigan, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4677">Chedan, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4671">Chefay, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4682">Chunhan, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4672">Cyus, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4676">Dariausdan, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4678">Dejawneek, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4668">Delnayannon, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/783">Deminaus</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1503">Dudon, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1551">Duke</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4684">Dwaokon, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4670">Einashella, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1616">Eirdorquel, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4657">Eowerradien, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1594">Eowil, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4683">Ereragan, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1525">Fatlegs</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1604">Fernrietteaiqua, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1602">Fiodia, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4685">Frerajar, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1571">Galfien</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1550">Galvini</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1591">Gania, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1545">General Naveel</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/787">Georgia</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4706">Giani, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1513">Gilianna, monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4693">Glugnar, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2689">Graylth</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4620">Guluf</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4709">Gworehan, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4696">Gwydda, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3163">Heptheran the Demonic</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1549">Herald Longsworth</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1533">Illana</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4707">Iytrishwa, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1605">Jaidzhanay, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4708">Jaska, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1586">Javier</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4663">Jazjaunaly, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/788">Jeredy</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1495">Jonden, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1341">Judge Sherwood</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1606">Kannquetta, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1607">Karalera, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1510">Karara, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1614">Karijaydalyn, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1520">Karisha, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1584">Kelwin</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4710">Kode the Lonely</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1536">Korwyn</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4675">Kyham, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4662">Kylirellelee, a humble follower of Vandyne</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1490">Kyus, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3437">Lady Undya</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4686">Lareraron, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1485">Latarathus</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4703">Leetta, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4661">Legardowen, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1598">Legewen, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4687">Legirannon, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1548">Li</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1613">M'Ella, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1612">Madrhetquel, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1595">Malith, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4680">Maniaron, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4705">Marlazi, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1505">Mattlin, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4665">Mayikamal, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1581">Mikka</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4697">Monus, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1522">Morley</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4695">Mulir, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4712">Murley</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1611">Myfayiah, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1518">Nalia, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1554">Narcia</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1592">Nelinde, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4656">Onilacien, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4666">Pearldalyn, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1535">Rases</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1517">Rayndique, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/785">Regwold</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1534">Rylwyer</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4711">Sahilia</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3161">Sargrag the sinner</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4694">Sarin, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/789">Sedry</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1590">Sendra, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1512">Sharleena, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1515">Shaunetta, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1504">Shaymato, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1500">Shonsae, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4658">Siraswen, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4674">Skyinday, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4701">Sonus, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1509">Staniel, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4660">Taiqua, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5813">Tayigan, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4673">Taylery, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4700">Telin, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3752">The ageless one</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2538">The Archbishop of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2537">The Archbishop of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2536">The Archbishop of Ithrilis</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2535">The Archbishop of Maradas</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2539">The Archbishop of Vandyne</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1566">The attorney general</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1580">The barrack's cook</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4618">The brewmaster</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1585">The Captain of the Xaventry Guard</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1577">The clan master</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3237">The elemental hydra</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1610">The faith instructor</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1496">The friar of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3755">The friar of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1597">The friar of Ithrilis</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3756">The friar of Maradas</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3754">The friar of Vandyne</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1563">The giant bailiff</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/790">The halfling bartender</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1557">The head waitress of Jasperella</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1618">The High Priest of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1257">The High Priest of Ithrilis</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1637">The High Priest of Maradas</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2691">The High Priestess of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1254">The High Priestess of Vandyne</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1583">The innkeeper</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2725">The instructor</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1528">The master blacksmith</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1544">The master trainer</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4619">The one-eyed Monte</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5653">The resident priestess of Ithrilis</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1582">The store owner</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5051">The temple cook</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1530">The town butcher</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1558">The town mail clerk</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1570">The wrinkled librarian</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1600">Tinuviel, an Ithrilis follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3162">Torath the Damned</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3731">Tridion Van Pelt</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4704">Trishlor, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1537">Vecci</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4699">Verlin, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4702">Vofur, a Maradas citizen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4653">Wiciellan, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1531">Wylen</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1499">Yandon, a monk of Dira</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4688">Zarehar, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4681">Zevshondon, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4689">Zoegan, a follower of Gath</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4655">Zoeswen, a Vandyne follower</a></td>
+		<td><a href="/area/75">The Towne of Xaventry</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10157">Before the Mighty Fountain of Life</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28773">The Eternal Glade</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16110">The Fountain of Eternity</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10418">The Lobby of Towne Hall</a></td>
+		</tr>
+
+<tr><td><strong>Blood</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10271">A Shady Alcove</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28799">The Drow Exhibit</a></td>
+		</tr>
+
+<tr><td><strong>Post</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10228">The Xaventry Post Office</a></td>
+		</tr>
+
+<tr><td><strong>Bank</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10229">The Xaventry Goldsmithy</a></td>
+		</tr>
+
+<tr><td><strong>Locker</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10230">The Town Lockers</a></td>
+		</tr>
+
+<tr><td><strong>Clan</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10179">The Clan Mastery</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10227">A Bakery</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10160">A Bed and Breakfast House</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10718">A Cheap Inn on the Edge of Towne</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10842">A Dusty Old Tavern</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10217">A Dwarven Blacksmithy</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10360">A Fancy Inn on the Edge of Towne</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10359">A General Store</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10184">A General Trade Store</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10724">A General Trading Store</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10460">A Quaint Little Map Shoppe</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10717">A Run Down Tavern</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10832">A Small Inn</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10597">A Small Pub</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10723">A Traveller's Store</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10167">A Well Polished Mahogany Bar</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10866">Aleo's Apothecary</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10235">An Abandoned Antique Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10240">An Apothecary</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10200">Duke's Armoury</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10186">Galfien's Traveller Store</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10199">Galvini's Restaurant</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10162">Georgia's Florist Shop</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10871">Guluf's General Supplies</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10202">Herald Longsworth's Weapons</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10838">Herbs and More</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10457">Holy Supplies</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10224">Jasperella</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10932">Korwyn's Music Shop</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10203">Li's Diner</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10206">Rases's Herbs</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10459">Regwold's Antiques</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10211">Rylwyer's Armour Emporium</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10209">Rylwyer's Weapon Emporium</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10191">The Bar</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10212">The Broken Sheath Tavern</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10831">The Common Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10834">The Dusty Traveler</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10592">The Innkeeper's Office</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10259">The Pet Shoppe</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10214">The Towne Butcher</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10208">The Xaventry Magic Shoppe</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10357">The Yellow Bandit Tavern</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10456">Tridion Van Pelt's Reward Emporium</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10239">Vecci's Tent of Fortune</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10215">Wylen's Blacksmithy</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10218">Xaventry Arts and Crafts</a></td>
+		</tr>
+
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/28799">The Drow Exhibit</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/16450"></a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10920">A Balcony</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16280">A Bunkhouse</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10899">A Damp Lightless Hallway</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16401">A Dangerous Spiraling Staircase</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16475">A Darkened Cavern</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28800">A Forgotten Tomb</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16368">A Harmonic Choir</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10929">A Lightless Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10905">A Meeting Hall</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10928">A Room Full of Cobwebs</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10919">A Room with a Staircase</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10895">A Row of Kneeling Pews in the Sacraficial Chamber</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10868">A Sacrificial Altar of Gath</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16434">A Stairway Leading to the Heavens</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16319">A Watery Arena</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16427">Above a Fiery Abyss</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16373">Above a Magical Pool</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10869">Above the Temple</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16369">Among the Stars</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16278">An Empty Bunkhouse</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16366">An Orchard</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10930">At the Heavy Mahogany Doors</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10927">At the Peak</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16263">At the Top of the Oak Tree</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/30528">Before A Copper Door</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16409">Damnation</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10904">Dining Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16429">Hall of Gath</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16432">Heading Along a Cramped Tunnel</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10892">Heading down the Main Aisle</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16363">In the Mystical Pool</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16309">In the Tubes</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10903">Kitchen</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16404">Looking Over a Tiny Ledge</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10381">Meditation Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16364">Near a Shining Pool</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28794">Nirvana</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16357">Out on a Stone Spike</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16294">Peaceful Bliss</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10382">Priests Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16435">Room of Portals</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16433">Room of Sacrifice</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16467">Sacred Ground</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16378">Standing in Dense Fog</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10383">Study</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16437">The Amber Portal Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10901">The Base of the Northeast Tower</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10900">The Base of the Northwest Tower</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10902">The Base of the Southeast Tower</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10931">The Base of the Southwest Tower</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16264">The Bath Hut</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16436">The Crimson Portal Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16438">The Emerald Portal Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10872">The Entryway</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16365">The Garden of Paradise</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16439">The Indigo Portal Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16512">The Lost Caverns</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16265">The Mess Hall</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16402">The Pinnacle of the Tower</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10404">The Pool of Faith</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10896">The Sacrificial Altar to the Mighty Gath</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10867">The Shrine of Gath</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16370">The Stone Dwelling of Wisdom</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16367">The Walkway of Secrets</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10916">Tumbling Down a Waterfall</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16383">Walking Among Ethereal Shadows</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/16308">In the Tubes</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28798">Purity</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/16488">A Chapel of Maradas</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16482">A Hallway Made of Quartz</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16478">A Holy Sanctuary of Maradas</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16483">A Meditation Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10157">Before the Mighty Fountain of Life</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10483">Behind the Altar of Vandyne</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10311">Beside the Altar of Dira</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10861">In the Middle of the Courtroom</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10454">Lady Undya's Audience Chambers</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28795">Sanctuary</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10179">The Clan Mastery</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28773">The Eternal Glade</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10265">The General's Office</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10615">The High Altar of Vandyne</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10391">The Inner Sanctum of Ithrilis</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16487">The Instructors of Wisdom</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10296">The Seating Area Around the Altar</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/10811">The Shrine of Ithrilis</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16371">The Stone Dwelling of Faith</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10157">Before the Mighty Fountain of Life</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:17 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

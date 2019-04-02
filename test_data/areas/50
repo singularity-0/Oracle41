@@ -1,0 +1,999 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/50">Shadow Castle</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Shadow Castle</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Within <a href="/area/38">Mandrake Woods</a>.</td>
+			<td>No</td>
+			<td>Castle</td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([655, 365]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [655, 365],
+		className: 'textpointer',
+		html: "Shadow Castle",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(50, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=655&y=365&plane=1&zoom=4">View Shadow Castle on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Shadow Castle</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3614">a belt of onyx</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/3630">a bit of shadow</a></td>
+			<td>10</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3587">a bloody rusted flail</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/625">a cloak of shadows</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3932">a cold black stone brick</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4952">a cold black stone key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4079">a fuliginous scutum</a></td>
+			<td>232</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8337">a garrote</a></td>
+			<td>169</td>
+			<td>weapon</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/929">a large black pearl</a></td>
+			<td>10</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3936">a large bone key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/638">a master assassins dagger</a></td>
+			<td>62</td>
+			<td>weapon</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1918">a Midnight Breastplate</a></td>
+			<td>70</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/5120">a midnight pearl</a></td>
+			<td>10</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1932">a pair of Midnight Gauntlets</a></td>
+			<td>70</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4610">a palladium vambrace</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3146">a piece of a cloak</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/3670">a research paper on feline reactions to various stimuli</a></td>
+			<td>10</td>
+			<td>book</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3935">a rotting skeleton</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/3613">a sapphire figurine</a></td>
+			<td>70</td>
+			<td>figurine</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1919">a set of Midnight Leggings</a></td>
+			<td>70</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3636">a short iron pike</a></td>
+			<td>45</td>
+			<td>weapon</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3934">a skull of a humanoid</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/6182">a spade</a></td>
+			<td>20</td>
+			<td>spade</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3635">a staff of shadows</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3933">a table</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3612">a thick gold chain</a></td>
+			<td>50</td>
+			<td>jewelry</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/586">a woman's ebony circlet</a></td>
+			<td>50</td>
+			<td>jewelry</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/4611">a yellow, purple and blue block of a magic cube</a></td>
+			<td>241</td>
+			<td>toy</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/7497">a yuan-ti's silver band of domination</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3615">an amulet of silence</a></td>
+			<td>90</td>
+			<td>jewelry</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5777">an ancient holy mace</a></td>
+			<td>47</td>
+			<td>weapon</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3931">an ancient iron key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/632">an assassin's dagger</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/4050">an elemental sphere</a></td>
+			<td>229</td>
+			<td>toy</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/118">an onyx ring</a></td>
+			<td>70</td>
+			<td>jewelry</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/2474">an orb of power</a></td>
+			<td>80</td>
+			<td>orb</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4009">an orcish amulet</a></td>
+			<td>80</td>
+			<td>jewelry</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/768">an ugly jade idol</a></td>
+			<td>40</td>
+			<td>figurine</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/773">an unholy crown</a></td>
+			<td>85</td>
+			<td>treasure</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3691">black platemail</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3705">small ethereal key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/5335">some fuliginous chivarras</a></td>
+			<td>234</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/5045">something non-existent</a></td>
+			<td>240</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4383">the lich's phylactery</a></td>
+			<td>56</td>
+			<td>jewelry</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3994">the mighty sword of Abacax</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/506">the ring of fortitude</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8338">the scythe of decrepitude</a></td>
+			<td>88</td>
+			<td>weapon</td>
+			<td><a href="/area/50">Shadow Castle</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Shadow Castle</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4422">A camel spider</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3215">A carrion crawler</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3214">A coffer corpse</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3188">A council member</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5867">A Dark Stalker</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3204">A death knight statue</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4417">A halfcat</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4418">A levitating onyx sphinx</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4100">A lost dark creeper</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5009">A lurking arthropomancer</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5093">A mad woman</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3202">A maiden's head</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3205">A man-sized statue</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3176">A myconid</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3201">A neophyte assassin</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3189">A researching apprentice</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2631">A researching assassin</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3211">A revenant</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4419">A scarab beetle</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3175">A scarecrow</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3805">A shadow mist</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3206">A skeleton</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5259">A skeleton warrior</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3186">A small shadow</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3209">A sneaky dark creeper</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3208">A Son of Kyuss</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3177">A tangle vine</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3216">A threatening dark creeper</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3198">A training assassin</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3199">A training neophyte guilder</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3180">A violet fungus</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3207">A wraith</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3195">A young assassin</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3197">An acolyte of the Shadowguild</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3212">An apparition</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3191">An apprentice sorcerer</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3181">An assassin</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5260">An assassin</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5261">An assassin</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5262">An assassin</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3210">An eye killer</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3218">Reztreal, the elemental spectre</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3200">The cloaker</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5843">The crypt thing</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3193">The Dark Priest of the Shadows</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3203">The Guildmaster</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3297">The Lich</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3183">The master assassin</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4415">The mighty balrog, Abacax</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3213">The Shadow Demon</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3185">The Sorceress of Shadows</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3179">The tentamort</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3178">Whipweeds</a></td>
+		<td><a href="/area/50">Shadow Castle</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/3010">The Foyer of the Castle</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/3010">The Foyer of the Castle</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:10 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

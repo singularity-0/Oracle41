@@ -1,0 +1,2654 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/67">Towne of Rune</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Towne of Rune</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(695, 764) in Alyria</td>
+			<td>Yes</td>
+			<td>towne</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the graceful white marble towers and the walls of the towne of Rune</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([695, 764]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [695, 764],
+		className: 'textpointer',
+		html: "Towne of Rune",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(67, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=695&y=764&plane=1&zoom=4">View Towne of Rune on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Towne of Rune</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/98">a belt of silver chains</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2338">a big sombrero</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3">a black umbrella</a></td>
+			<td>12</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/583">a book of erotic poetry</a></td>
+			<td>5</td>
+			<td>book</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/519">a book titled 'The Legend of Baba Yaga' <span class="red">[OS]</span></a></td>
+			<td>50</td>
+			<td>book</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/5841">a book titled 'The Legend of Baba Yaga'</a></td>
+			<td>50</td>
+			<td>book</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/386">a bottle of soy sauce</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/4982">a bowl of Jake's gumbo</a></td>
+			<td>15</td>
+			<td>fountain</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/387">a bowl of rice</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2221">a brass key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1035">a brass saxophone</a></td>
+			<td>95</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/2102">a brightly-colored hurdy gurdy</a></td>
+			<td>65</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/119">a bronze figurine</a></td>
+			<td>40</td>
+			<td>orb</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4622">a camelhair paintbrush</a></td>
+			<td>20</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5849">a ceremonial mourning band</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/420">a chocolate truffle</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/832">a chromatic robe</a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/6439">a chromatic shield</a></td>
+			<td>157</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/5548">a cider jug</a></td>
+			<td>30</td>
+			<td>drink-container</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1267">a city guard signet ring</a></td>
+			<td>12</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4851">a contract for a 1-Room home <span class="red">[OS]</span></a></td>
+			<td>30</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4852">a contract for a 4-Room home <span class="red">[OS]</span></a></td>
+			<td>30</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/2228">a cross pendant made of an unknown alloy</a></td>
+			<td>75</td>
+			<td>ankh</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/7300">a DANGERCHANGER quiver <span class="red">[OS]</span></a></td>
+			<td>15</td>
+			<td>quiver</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2333">a dead frog</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8036">a decorative mural</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8076">a decorative mural</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/8037">a divining font</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4585">a doctor's stethoscope</a></td>
+			<td>80</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6721">a donation bucket</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/1154">a feather from a phoenix</a></td>
+			<td>55</td>
+			<td>artifact</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/243">a fine cigar</a></td>
+			<td>5</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6041">a fractured, counterfeit Darkland wish ring</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2340">a frayed noose</a></td>
+			<td>50</td>
+			<td>clothing</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3192">a gate pass</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/322">a glowing red pill</a></td>
+			<td>1</td>
+			<td>pill</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2339">a gold tiara</a></td>
+			<td>6</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2334">a golden key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2341">a gryphon feather</a></td>
+			<td>20</td>
+			<td>light</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3166">a heart-shaped hot tub</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3208">a large iron bell</a></td>
+			<td>100</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3244">a lightning bolt of static</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6275">a long wooden desk</a></td>
+			<td>60</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4584">a Louisiana hex symbol</a></td>
+			<td>45</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/2331">a Louisiana mojo bag</a></td>
+			<td>100</td>
+			<td>container</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="telescope" /> <a href="/item/3015">a massive telescope</a></td>
+			<td>10</td>
+			<td>telescope</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/2310">a metal harmonica</a></td>
+			<td>30</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/421">a minx pelt</a></td>
+			<td>40</td>
+			<td>clothing</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/2342">a mirror of oversight</a></td>
+			<td>25</td>
+			<td>orb</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2353">a monkey skull necklace</a></td>
+			<td>45</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3017">a mortar and pestle</a></td>
+			<td>100</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ward" /> <a href="/item/2344">a necklace made of quartz</a></td>
+			<td>25</td>
+			<td>ward</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2309">a necklace of tiny chain links</a></td>
+			<td>20</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4175">a pair of frogskin boots</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1271">a pair of standard issue boots</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1270">a pair of standard issue gloves</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2285">a pair of standard issue leggings</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1266">a pair of standard issue sleeves</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="lockpick" /> <a href="/item/4587">a pair of wirecutters</a></td>
+			<td>40</td>
+			<td>lockpick</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4375">a platinum tail ring</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1054">a portable hole</a></td>
+			<td>40</td>
+			<td>container</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3981">a portion of onion rings</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6847">a prescription bottle</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/7270">a RANGERCHANGER quiver <span class="red">[OS]</span></a></td>
+			<td>15</td>
+			<td>quiver</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/580">a ratty black bag</a></td>
+			<td>30</td>
+			<td>container</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2166">a ring made of bleached bone</a></td>
+			<td>65</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3013">a rusty bronze lever</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/389">a salmon skin roll</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5629">a shattered statuette</a></td>
+			<td>1</td>
+			<td>artifact</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/7260">a shimmering curtain of light</a></td>
+			<td>100</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4333">a silver-backed hand mirror</a></td>
+			<td>13</td>
+			<td>explosive</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/2128">a small leather pouch</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4992">a somber-looking incinerator</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3337">a sooty iron anvil</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/7068">a staff of thunder</a></td>
+			<td>60</td>
+			<td>staff</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1265">a standard issue belt</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4583">a standard issue bracer</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1264">a standard issue cape</a></td>
+			<td>6</td>
+			<td>clothing</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/619">a standard issue cloak</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4581">a standard issue dagger</a></td>
+			<td>10</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1269">a standard issue helmet</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2270">a standard issue shield</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1268">a standard issue sword</a></td>
+			<td>8</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4582">a standard issue vest</a></td>
+			<td>6</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5479">a standard room key</a></td>
+			<td>15</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2332">a steel bardiche</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2337">a steel chain mail hauberk</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/584">a steel cigar cutter</a></td>
+			<td>92</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1034">a steel harmonica</a></td>
+			<td>25</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2354">a tail warmer</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/7296">a tightly-rolled scroll</a></td>
+			<td>15</td>
+			<td>parchment</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8242">a timeless memorial</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/423">a token for Arcane passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/428">a token for Capture the Flag passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/426">a token for Desert Thorn passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/430">a token for Dungeon Wroth passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/432">a token for Giant's Keep passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/422">a token for Lowangen passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/424">a token for New Rigel passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7383">a token for passage to the Mayor's Destination</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/425">a token for Sigil Pier passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/427">a token for Tellerium passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/429">a token for Templeton passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/431">a token for Tower of Art passage</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/390">a tuna roll</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/978">a tunic of rags</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3311">a tyke's diaper</a></td>
+			<td>30</td>
+			<td>clothing</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/520">a vial filled with a black powder</a></td>
+			<td>50</td>
+			<td>explosive</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/2311">a voodoo doll of PLAYER-NAME</a></td>
+			<td>5</td>
+			<td>explosive</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/762">a wand with a skull on one end</a></td>
+			<td>55</td>
+			<td>wand</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/1272">a war banner</a></td>
+			<td>8</td>
+			<td>light</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4332">a well-balanced dart</a></td>
+			<td>232</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/99">a white china vase</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/560">a wingtip</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3537">an 'I love New Orleans' baseball cap</a></td>
+			<td>60</td>
+			<td>clothing</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/2563">an amulet of resurrection</a></td>
+			<td>10</td>
+			<td>amulet</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/877">an ancient book of astronomy</a></td>
+			<td>10</td>
+			<td>book</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2326">an antique helm</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/82">an antique longsword</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/741">an astral bauble</a></td>
+			<td>10</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/388">an avocado roll</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/2101">an enchanted flute</a></td>
+			<td>85</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8390">an illuminating scythe</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/3016">an iron cauldron</a></td>
+			<td>6</td>
+			<td>drink-container</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/434">an octarine cloak</a></td>
+			<td>25</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2345">an octarine pendant</a></td>
+			<td>10</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/2343">an octarine wand</a></td>
+			<td>20</td>
+			<td>wand</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2355">an octarine wristguard</a></td>
+			<td>12</td>
+			<td>jewelry</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/2103">an ornate music box</a></td>
+			<td>40</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1913">an oversized iron hammer</a></td>
+			<td>70</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2327">feathered boa staff</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4586">Frogslayer</a></td>
+			<td>72</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2325">Griffon Hotel Bridal Suite Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2324">Griffon Hotel Penthouse Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2312">Griffon Hotel Room #1 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2321">Griffon Hotel Room #10 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2322">Griffon Hotel Room #11 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2323">Griffon Hotel Room #12 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2313">Griffon Hotel Room #2 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2314">Griffon Hotel Room #3 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2315">Griffon Hotel Room #4 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2316">Griffon Hotel Room #5 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2317">Griffon Hotel Room #6 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2318">Griffon Hotel Room #7 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2319">Griffon Hotel Room #8 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2320">Griffon Hotel Room #9 Key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/link.png" width="13" height="13" alt="transmitter" /> <a href="/item/6501">one of Luzzardo Malvenu's little silver bells</a></td>
+			<td>125</td>
+			<td>transmitter</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/582">ornate, silver, heart-shaped key</a></td>
+			<td>25</td>
+			<td>key</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/2357">some black hoodoo powder</a></td>
+			<td>30</td>
+			<td>explosive</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/521">some green hoodoo powder</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/594">some orange hoodoo powder</a></td>
+			<td>20</td>
+			<td>pill</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/593">some purple hoodoo powder</a></td>
+			<td>20</td>
+			<td>pill</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/2356">some yellow hoodoo powder</a></td>
+			<td>30</td>
+			<td>pill</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clock.png" width="13" height="13" alt="clock" /> <a href="/item/6123">the clock tower</a></td>
+			<td>1</td>
+			<td>clock</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/321">the fountain of life's blood</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4588">the gavel of the high judge</a></td>
+			<td>200</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/5046">the last refuge of a scoundrel</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2329">the leather bullwhip</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/6561">the Rune Mayor's official top hat of office</a></td>
+			<td>0</td>
+			<td>armor</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/530">the Runic Library card</a></td>
+			<td>21</td>
+			<td>book</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2330">the slippers of the savant</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/7783">the ward of decay</a></td>
+			<td>241</td>
+			<td>amulet</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/326">the white marble fountain</a></td>
+			<td>5</td>
+			<td>fountain</td>
+			<td><a href="/area/67">Towne of Rune</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Towne of Rune</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/693">A bag lady</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/739">A beautiful horse</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/748">A clockwork jack</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/687">A deadly stirge</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/689">A deer</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5145">A domesticated rabbit</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5346">A doomed prisoner</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2876">A duck</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/692">A filthy beggar</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/763">A friendly entrepreneur</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4543">A fuzzy man with a bell</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5146">A hurrying squirrel</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5290">A large black cat</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/458">A minor priest</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5151">A musclebound guard</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5149">A pesky raccoon</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5147">A plump owl</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5895">A practice dummy</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3989">A psychic old man</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6149">A reunion organizer</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/727">A Rune city guard</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1876">A sidhe nightblade</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/701">A small green frog</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/746">A snarling beaver</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/778">A Sorceress of Zyll</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/738">A speckled pony</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/688">A stone gargoyle</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/691">A stray dog</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/777">A Venerable Seer</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/694">A very sexy woman</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/685">A white-robed cleric</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5148">A wild deer</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/775">A winged gryphon</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/704">A young thief</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/740">Alpheus Grimaldi</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/766">Ambarr Dark</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/102">An aging postmaster</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/708">An alley cat</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/774">An avenging angel</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5116">An election official for the Towne of Rune</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/776">An illuminated mage</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6264">Armanus Van Pelt</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5287">Balthazar</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/699">Banath</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/765">Bertrand the tailor</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/101">Dandrel</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/710">Dirgial, the armorer</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/703">Doctor Rune</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3368">Edric Van Pelt</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/753">Evelyn</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5961">Fayen the Noxious</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/721">Fedakinn</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/768">Flam</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/716">Frederick the Blacksmith</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/756">Ganuk</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/755">Ganuk Jr.</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/720">Gnak</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/717">Goran</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/744">Griffon Hotel Desk Clerk</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/696">Half of a gemhound</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/741">Iridana</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/754">Jacquard</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/714">Jambalaya Jake</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/722">Kanis</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/749">Kasan</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6100">Kaw Von Pelt</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5349">Luzzardo Malvenu the professional eccentric</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6104">Meru</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5967">Monsignor Karwan</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/463">Murmur</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/713">Raksann</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/725">Sathan</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6102">Seena Van Pelt</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/718">Slan</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/695">Tadamir, the guildsman</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/715">Thanak</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/719">Tharg</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/751">The ancient potion-brewer</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/104">The baker</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/736">The beagle</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/498">The beautiful cleric</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/724">The Butcher</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2877">The caretaker</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/709">The cartographer</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/781">The Chromatic Dragon</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/697">The drunk</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/780">The Everlasting Phoenix</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/700">The frog hunter</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/730">The Great Stone Gargoyle</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/723">The grocer</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/733">The growling lion</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/764">The hangman</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/729">The High Judge of Rune</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/773">The hyperactive tyke</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/705">The indentured servant</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/690">The janitor</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/743">The jeweler</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/782">The junior librarian</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/735">The kitten</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1848">The Lag Monster</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/726">The landless serf</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/752">The Master of Clans</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/658">The Minx</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/728">The Mortician</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/757">The motherly librarian</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/750">The museum guard</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/100">The Music Man</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/767">The old crone</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/742">The old wizard</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/731">The pet shop boy</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/732">The puppy</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/734">The rottweiler</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/698">The runaway child</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5115">The Rune Gate Guard</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/702">The salesman</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/761">The savant</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/771">The scarred mercenary</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/686">The secretary</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/759">The skinny researcher</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/712">The Towne Crier</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/760">The treasure hunter</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/706">The vagabond</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/762">The vassal of Lord Agrippa</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/707">The wandering minstrel</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/711">The weaponsmith</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/769">The wedding cleric</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/737">The wolf</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/758">The young student</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4441">Thumper Van Pelt</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6103">Tilos Van Pelt</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2163">Trader Dunston</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4206">Trevo</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5754">Uncle Spadge</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4314">Valan the Shipwright</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6101">Vanessa Van Pelt</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/745">Victoria Wurth</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/770">Zehn</a></td>
+		<td><a href="/area/67">Towne of Rune</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/4056">A Pond</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/3968">Rune Courtyard</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4307">Runic Temple</a></td>
+		</tr>
+
+<tr><td><strong>Blood</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/4345">Granite Hallway</a></td>
+		</tr>
+
+<tr><td><strong>Post</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/4104">Post Office</a></td>
+		</tr>
+
+<tr><td><strong>Bank</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/4310">The Bank of Rune</a></td>
+		</tr>
+
+<tr><td><strong>Locker</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/4092">Locker Rentals</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/4106">Agatha's Shoppe of Illusions</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4049">Antique Shoppe</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4046">Bertrand's Tailoring</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4100">Blacksmith Shoppe</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4091">Butcher's Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4374">Cartography, Ltd.</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4045">Dark's Emporium</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/3986">Dirgial's Armory</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4317">Edric Van Pelt's Reward Emporium</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4048">Flam's Steak House</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4061">Fortune Teller's Shoppe</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4098">General Store</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4311">Grimaldi Magick</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4063">Jewelry Shoppe</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4001">Kasan's Sushi Bar</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4318">Lucinda Van Pelt's Fine Home Furnishings</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4312">Solomon Road Apothecary</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4096">The Edible Loaf</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4058">The Pet Shoppe</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/31305">Thumper Van Pelt's Reward Emporium</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/3985">Weapons Shoppe</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4062">Yew Court Pharmaceuticals</a></td>
+		</tr>
+
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/26854">A Black Circle</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26860">A Blue Circle</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26859">A Red Circle</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26825">A Red Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26847">A White Circle</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26862">In The Arena</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26826">The Portal Room</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/4100">Blacksmith Shoppe</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4592">Combat Training</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4317">Edric Van Pelt's Reward Emporium</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4346">Health Services</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4318">Lucinda Van Pelt's Fine Home Furnishings</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4593">Magical Training</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/4338">Rune Chapel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4022">Rune Library</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/31305">Thumper Van Pelt's Reward Emporium</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/4307">Runic Temple</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:15 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

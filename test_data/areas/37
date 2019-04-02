@@ -1,0 +1,2428 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/37">Maldra Keep</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Maldra Keep</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1304, 1088) in Alyria</td>
+			<td>Yes</td>
+			<td>Keep</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the high, forboding granite walls of Maldra Keep</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1304, 1088]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1304, 1088],
+		className: 'textpointer',
+		html: "Maldra Keep",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(37, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1304&y=1088&plane=1&zoom=4">View Maldra Keep on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Maldra Keep</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/951">a belt of skulls</a></td>
+			<td>230</td>
+			<td>clothing</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3197">a belt of the Red Hand</a></td>
+			<td>230</td>
+			<td>clothing</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4981">a black fur hat</a></td>
+			<td>100</td>
+			<td>clothing</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/7700">a black key</a></td>
+			<td>220</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/3125">a blood fountain</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4609">a blue key</a></td>
+			<td>150</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/290">a bottle of booze</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2046">a bowl of pasta alfredo</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3162">a bracelet of eyes</a></td>
+			<td>210</td>
+			<td>jewelry</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2851">a bracelet of inner strength</a></td>
+			<td>235</td>
+			<td>jewelry</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/3120">a camel skin pouch</a></td>
+			<td>60</td>
+			<td>drink-container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2532">a chaise lounge</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2037">a chocolate pie</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4238">a cloud key</a></td>
+			<td>200</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/3270">a coalescence tool</a></td>
+			<td>241</td>
+			<td>wand</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1873">a cockatrice beak necklace</a></td>
+			<td>200</td>
+			<td>jewelry</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4234">a copper key</a></td>
+			<td>200</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3123">a cosmetic box</a></td>
+			<td>15</td>
+			<td>container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6335">a crystal key</a></td>
+			<td>65</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2036">a cupcake</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3874">a dagger of the Red Hand</a></td>
+			<td>190</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3195">a devil key</a></td>
+			<td>20</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4804">a draconian hammer</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2816">a fine pair of silk gloves</a></td>
+			<td>200</td>
+			<td>clothing</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2889">a firbolg spear</a></td>
+			<td>210</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/2620">a fire opal</a></td>
+			<td>50</td>
+			<td>gem</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5013">a garlic-stuffed pepper</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/7735">a genteel dueling slug-thrower</a></td>
+			<td>85</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/3111">a ghost essence</a></td>
+			<td>20</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2530">a highly-polished marble throne</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/7872">a keycard</a></td>
+			<td>90</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4064">a lava robe</a></td>
+			<td>235</td>
+			<td>armor</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4227">a lead key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2531">a leather recliner</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/266">a lemonade blaster</a></td>
+			<td>20</td>
+			<td>drink-container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/5297">a magiphone</a></td>
+			<td>12</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/3126">a marble fountain</a></td>
+			<td>50</td>
+			<td>fountain</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4255">a meteorite</a></td>
+			<td>200</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/3781">a mug of rum</a></td>
+			<td>20</td>
+			<td>drink-container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1130">a pair of yeti hide leggings</a></td>
+			<td>225</td>
+			<td>armor</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4228">a paper key</a></td>
+			<td>200</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3119">a pasteboard box</a></td>
+			<td>20</td>
+			<td>container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/3316">a pegakorn tear</a></td>
+			<td>90</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="telescope" /> <a href="/item/6334">a platinum telescope</a></td>
+			<td>10</td>
+			<td>telescope</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/5295">a red and white block of a magic cube</a></td>
+			<td>241</td>
+			<td>toy</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/5364">a reed whistle</a></td>
+			<td>241</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5027">a resiliensphere</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3110">a scalpel</a></td>
+			<td>80</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/3114">a sea monkey</a></td>
+			<td>10</td>
+			<td>reagent-water</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/5655">a semi-precious stone</a></td>
+			<td>166</td>
+			<td>gem</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3506">a sharp tourmaline lance</a></td>
+			<td>239</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/265">a shot of tequila</a></td>
+			<td>20</td>
+			<td>drink-container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5355">a skeleton key</a></td>
+			<td>100</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2044">a slice of cheesecake</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5465">a small bone key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4229">a small keycard</a></td>
+			<td>200</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/3118">a strange mirror</a></td>
+			<td>65</td>
+			<td>explosive</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3124">a string of beads</a></td>
+			<td>135</td>
+			<td>jewelry</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="lockpick" /> <a href="/item/1153">a strong lockpick</a></td>
+			<td>60</td>
+			<td>lockpick</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8374">a sturdy oak nunchaku</a></td>
+			<td>104</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2623">a syringe</a></td>
+			<td>150</td>
+			<td>potion</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2812">a thick steel key</a></td>
+			<td>200</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3507">a tourmaline broadaxe</a></td>
+			<td>122</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5004">a Tyrannosaurus Rex tooth bracelet</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/3121">a unit of blood</a></td>
+			<td>30</td>
+			<td>drink-container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4230">a vase</a></td>
+			<td>120</td>
+			<td>trash</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/3113">a vial of neon</a></td>
+			<td>10</td>
+			<td>reagent-air</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/3115">a volcanic rock</a></td>
+			<td>10</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4647">a wand of imperceptibility</a></td>
+			<td>120</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4748">a weathervane</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/3122">a white candle</a></td>
+			<td>20</td>
+			<td>light</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6333">a wooden chest</a></td>
+			<td>50</td>
+			<td>container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4235">a wooden key</a></td>
+			<td>200</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/7734">a yellow key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/5186">an Altaar mask</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6294">an emerald</a></td>
+			<td>100</td>
+			<td>treasure</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4239">an icicle</a></td>
+			<td>200</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/3116">an ivory staff</a></td>
+			<td>60</td>
+			<td>staff</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6480">an obsidian fulcrumbox</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/3117">an obsidian wand</a></td>
+			<td>100</td>
+			<td>wand</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4237">an unholy medallion</a></td>
+			<td>100</td>
+			<td>jewelry</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4348">cadaver leggings</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4968">gorgon scale shield</a></td>
+			<td>235</td>
+			<td>armor</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4384">Lady Maldra's throne</a></td>
+			<td>220</td>
+			<td>furniture</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5003">Psiclopalypse, the neurotoxic voulge</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/3112">some earthworm innards</a></td>
+			<td>10</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5598">the emergency kennel chain</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1132">the filigree robe of Raymatus</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1205">the genie's shoes</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4919">the helm of brainpower</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2713">the rat king's cloak</a></td>
+			<td>125</td>
+			<td>armor</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4410">the spider key</a></td>
+			<td>60</td>
+			<td>key</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2811">the thumb ring of Beltane Altaar</a></td>
+			<td>235</td>
+			<td>jewelry</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8512">the tourmaline dragon's talon</a></td>
+			<td>185</td>
+			<td>weapon</td>
+			<td><a href="/area/37">Maldra Keep</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Maldra Keep</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4342">A baby</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3660">A baby intellect devourer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4535">A bandaged clanmaster noviciate</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3653">A banshee</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4611">A bearded old hag</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4341">A brain mole</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5878">A brass androsphinx</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3684">A burly nurse</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3535">A carrion crawler</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3411">A centaur wanderer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1269">A chef's assistant</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5877">A cleric</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3534">A cockatrice</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5293">A cocotte</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2142">A couatl</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4437">A crippled gypsy woman</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3408">A dancer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2124">A dark naga</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5299">A death insurance salesman</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3327">A demoness</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3831">A dirty rat</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4108">A draconian architect</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5010">A face of vapor</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4349">A fey bard</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4334">A fey noble</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3536">A firbolg</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3538">A firbolg guard</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3537">A firbolg shaman</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2122">A fire elemental</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5298">A fire giant</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2123">A fire jelly</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4343">A frantic nurse</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3643">A frost giant</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4329">A ghost child</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4494">A ghost pet</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3608">A giant grell</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3367">A giant yeti</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4335">A giggling child</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5295">A gigolo</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2119">A gith</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2134">A gloomwing</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2708">A gnome cleric</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5012">A goblin in waders</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3607">A grell</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4529">A grell-shaped elemental</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5292">A guest</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2136">A harpy</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3648">A hecuva</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2120">A hellhound</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3867">A huge tourmaline dragon</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2147">A janni</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4333">A kender vagrant</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3659">A ki-ryn</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5856">A lab rat</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3647">A large fire giant</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2121">A lava mephit</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6260">A levitating eyeball</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3649">A lich</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4331">A little bird</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3650">A living wall</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3410">A local patron</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4468">A long shadow</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5857">A mad scientist</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2145">A marid</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3757">A mean librarian</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3675">A medusa</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5964">A mind flayer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3747">A mold man</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5965">A mongrel man</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4348">A monk</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3531">A mudman</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4444">A pain-stricken bat</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2139">A peryton</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4344">A plague victim</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3616">A polar bear</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3412">A poltergeist</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1829">A postal worker</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5893">A practice dummy</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4323">A prophet</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3662">A quaggoth</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3606">A red abishai</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3644">A remorhaz</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3539">A roper</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2125">A rust monster</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5294">A sexy man</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5296">A sexy woman</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3613">A shadow</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3614">A shadow assassin</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5966">A shambling mound</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3664">A shedu</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4536">A short-sighted gardener</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4443">A sonic squirrel</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4510">A stoic castle guard</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3665">A strangle weed</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3666">A strangle weed</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3667">A strangle weed</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3668">A strangle weed</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3669">A strangle weed</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3670">A strangle weed</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3671">A strangle weed</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3657">A su-monster</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5752">A tall, burly bouncer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3652">A vampire</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4616">A vampire adept</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3612">A wemic</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2143">A winged snake</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3654">A wraith</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3656">A yellow mold</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2138">A young wyvern</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3935">An aggressive thief</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2140">An air elemental</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3409">An alert castle guard</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3646">An ankheg</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3530">An earth elemental</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2144">An efreeti</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4350">An elven mage</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6259">An embassy security officer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2135">An eyewing</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3610">An ice elemental</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3611">An ice toad</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3609">An ice troll</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5731">An incandescent mushroofalo</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4615">An infected mindflayer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3661">An intellect devourer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5011">An irritated, disappearing elemental</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4345">An old woman</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5191">An orc woman</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4328">An undead adventurer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4339">An undead puppy</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1824">Andorin</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3637">Aquarius</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3634">Aries</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4095">Belial</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1831">Belnadia</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1639">Beltane Altaar</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4347">Bret Slatewell</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3633">Cancer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3631">Capricorn</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1827">Cyan Template</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3619">Death</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3685">Doctor Gonzo</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1826">Dunbar</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3636">Gemini</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3621">Judgement</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3934">Keeper of the Keys</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3763">Lady Maldra</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1823">Laurie Cavott</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3632">Leo</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1822">Logan Halfmoon</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1821">Lord Maldra</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4094">Lucifer</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1832">Lymandra</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1825">Mama Lois</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1828">Moe</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3858">Mr. Humphries</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5257">Nivke Percey, Innkeeper</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3630">Pisces</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3239">Preacher Dan</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3629">Sagittarius</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3628">Scorpio</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4337">Shadoe</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1830">Snipper Slit-throat</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3635">Taurus</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3622">Temperance</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3642">The catoblepas</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3624">The chariot driver</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3936">The clan leader</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3627">The Composite</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3114">The Cruelty of Miannas</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2148">The crystal dragon</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2146">The dao</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3663">The doll golem</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3533">The elder galeb duhr</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3523">The eyestalk</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3525">The eyestalk</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3626">The Fool</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3526">The gauth</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3313">The gorgon</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3655">The greater mummy</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4544">The half-beast monstrosity</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3625">The hanged man</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2137">The harpy queen</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3620">The Hierophant</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3524">The hive mother</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3658">The kirre</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3617">The magician</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3532">The minor galeb duhr</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3645">The morkoth</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3312">The otyugh</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3407">The rat king</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4346">The receptionist</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3618">The solemn High Priestess</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3623">The Star</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3615">The tanar'ri</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3540">The tarrasque</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4537">The zombie Tyrannosaurus</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4392">Thornstang Glyffrukk</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5858">Valentino, the skeletal manifestation of loneliness</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2141">Vampiric mist</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3638">Virgo</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5850">Wierus, the Maldra Keep Chandler</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6263">Yi the animalmaster</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1833">Zach Trighton</a></td>
+		<td><a href="/area/37">Maldra Keep</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Post</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17559">Post Office</a></td>
+		</tr>
+
+<tr><td><strong>Bank</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17717">The Bank</a></td>
+		</tr>
+
+<tr><td><strong>Quest</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17741">Lord Maldra's Throne Room</a></td>
+		</tr>
+
+<tr><td><strong>Locker</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17556">Locker Room</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17557">Barber Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17565">General Store</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17576">Mama Lois's Bakery</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17563">Moe's Tavern</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17573">Open Market</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17577">Tobacco Shop</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17638">Ye Olde Blacksmithe Shoppe</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17557">Barber Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/30543">Damp Passage</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/30542">Dark Passageway</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17565">General Store</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17556">Locker Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17741">Lord Maldra's Throne Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17576">Mama Lois's Bakery</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17563">Moe's Tavern</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17559">Post Office</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17769">Storage Closet</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17562">Storage Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17717">The Bank</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17577">Tobacco Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17638">Ye Olde Blacksmithe Shoppe</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/26175">Hidden Alcove</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17536">Sinking in a Lava Pool</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28801">Surprise!</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26183">Terra Ophellium's Study</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17766">Sanctuary</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17769">Storage Closet</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17766">Sanctuary</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:05 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

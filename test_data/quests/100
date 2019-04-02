@@ -1,0 +1,406 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/quest/">Quests</a></li>
+	<li><a class="breadcrumb" href="/quest/100">Count My Lucky Stars</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Quest: Count My Lucky Stars</h2>
+
+
+<div id="qsearch">
+	<form method="get" action="/quest/search/">
+		<table>
+			<tr>
+				<td>Search Type</td>
+				<td>Keywords</td>
+				<td>Sorted by</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>
+					<select name="search" tabindex="1">
+						<option value="quest">Quest</option>
+						<option value="phase">Phase</option>
+						<option value="master">Quest master</option>
+					</select>
+				</td>
+				<td>
+					<input type="text" name="keyword" size="30" maxlength="30" value="" tabindex="2" />
+				</td>
+				<td>
+					<select name="sort" tabindex="3">
+						<option value="questname">Quest Name</option>
+						<option value="questid">Quest ID</option>
+						<option value="pracreward">Practices</option>
+						<option value="qpreward">Quest Points</option>
+						<option value="questmaster">Quest Master</option>
+					</select>
+				</td>
+				<td><input type="submit" value="Search" /></td>
+			</tr>
+		</table>
+	</form>
+</div>
+
+<script type="text/javascript">
+function togPhase(n) {
+	var e = document.getElementById('phasehint' + n);
+	e.style.display = e.style.display == 'none' ? 'block' : 'none';
+}
+function togAllPhases(display) {
+	for (var i = 1; i <= 50; i++) {
+		var e = document.getElementById('phasehint' + i);
+		if (!e) break;
+		e.style.display = display;
+	}
+}
+function addHint(n) {
+	var e = document.getElementById('phase');
+	for (var i = 0; i < e.childNodes.length; i++) {
+		e.childNodes[i].selected = e.childNodes[i].value == n ? 'selected' : '';
+	}
+	e = document.getElementById('text');
+	e.focus();
+	e.select();
+}
+</script>
+
+<div class="mm white">
+This quest  is called '<span class="yellow">Count My Lucky Stars</span>',<br/>
+for Adventurers levels <span class="yellow">120</span> to <span class="yellow">180</span>.<br />
+
+
+<span class="hg"><a href="/npc/3438">Lord Vashir</a> [<a href="/area/61">The Towne of New Rigel</a>] is the master in charge of this quest.</span><br />
+
+This is a lady I saw in a dream.  Her name is Iridana, and my advisors<br />
+tell me she is a fortune teller and that this dream of her is an ill omen. <br />
+I fear that my luck is running out, and I want you to ask her what she sees<br />
+in my future.  Please recover some lucky items for me also so that perhaps I<br />
+can avoid whatever plight is headed my way.  For your assistance I will<br />
+reward you greatly upon your speedy return.<br />
+
+<span class="hy">Upon successful completion of this quest you can receive:</span><br />
+
+<span class="hm">*</span>Up to <span class="yellow">63</span> quest points, <span class="yellow">6</span> practice points, <span class="yellow">36,000</span> experience points,<br/>
+&nbsp;<span class="yellow">0</span> build points, <span class="yellow">0</span> piety, and <span class="yellow">14,000</span> gold pieces.<br />
+
+
+You have <span class="yellow">300</span> minutes remaining to complete this quest.<br />
+
+Count My Lucky Stars consists of:<br />
+
+
+	<div class="phase" id="phase1">
+
+
+		<a class="hints" href="javascript:togPhase(1);">Phase 1</a>: Recover <a href="/item/5571">a dented, rusty horseshoe</a>. 		
+		<div class="phasehints" id="phasehint1" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/4786">Williamson Castaway</a> (shop #17) [<a href="/room/29762/">A Castaway's Hovel</a>, <a href="/area/140" class="white">Aequtus</a>].</div>
+
+
+			<div class="phasehint">
+				Hidden in the wilds.  you MUST have detect hidden (Maldra's pendant) for this phase or you MUST use the bazaar.				&mdash;
+				Drahylin							</div>
+
+
+			<div class="phasehint">
+				Found 1 hidden on the Great North Road. Without a Maldra pendant.				&mdash;
+				Daercyn							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase2">
+
+
+		<a class="hints" href="javascript:togPhase(2);">Phase 2</a>: Locate and deliver <a href="/item/25">Maldra's specialty</a> to <a href="/npc/741">Iridana</a>. 		
+		<div class="phasehints" id="phasehint2" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/5633">The bartender</a> (shop #5) [<a href="/area/165" class="white">A Ghost Town</a>],<br /><a href="/npc/3354">Finn</a> (shop #5) [<a href="/room/14229/">Finn's Tavern</a>, <a href="/area/98" class="white">A Hill Giant Refuge</a>],<br /><a href="/npc/4834">Octavius the bartender</a> (shop #5) [<a href="/room/29955/">A Dark Corner of the Salty Shark</a>, <a href="/area/140" class="white">Aequtus</a>],<br /><a href="/npc/323">A frog barkeep</a> (shop #5) [<a href="/room/13470/">The Forgotten Frog</a>, <a href="/area/3" class="white">Arcane Archipelago</a>],<br /><a href="/npc/2715">Octavius the bartender</a> (shop #5) [<a href="/room/22188/">The Main Room of The Salty Shark Tavern</a>, <a href="/area/2" class="white">Atlantis</a>],<br /><a href="/npc/5869">Boulderarse, the bartender</a> (shop #5) [<a href="/room/19561/">The Old World Cafe</a>, <a href="/area/7" class="white">Chat Rooms</a>],<br /><a href="/npc/5799">Gluugrah, the bartender</a> (shop #5) [<a href="/area/193" class="white">Darksea</a>],<br /><a href="/npc/4454">Adarmus, the bartender</a> (shop #5) [<a href="/room/28918/">Pigs in Stover</a>, <a href="/area/130" class="white">Gilvery</a>],<br /><a href="/npc/4088">Sam the Barkeep</a> (shop #5) [<a href="/room/25249/">The Bar at the Longbranch</a>, <a href="/area/114" class="white">Human Outpost</a>],<br /><a href="/npc/1311">Ug</a> (shop #5) [<a href="/room/16837/">The Skewered Dragon</a>, <a href="/area/28" class="white">Irda Isle</a>],<br /><a href="/npc/70">A grumpy bartender</a> (shop #5) [<a href="/room/2409/">Orc Death Tavern</a>, <a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/38">Rex</a> (shop #5) [<a href="/room/2304/">Shining Light Tavern</a>, <a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/3763">Lady Maldra</a>  [<a href="/room/17742/">A Throne Room</a>, <a href="/area/37" class="white">Maldra Keep</a>],<br /><a href="/npc/1828">Moe</a> (shop #4) [<a href="/room/17563/">Moe's Tavern</a>, <a href="/area/37" class="white">Maldra Keep</a>],<br /><a href="/npc/1102">Ahab</a> (shop #5) [<a href="/room/1388/">Ahab's Cabaret</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/1098">Largos</a> (shop #5) [<a href="/room/1379/">Black Thunder Tavern</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/1098">Largos</a> (shop #5) [<a href="/room/1502/">The Watering Hole</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/1094">Lark</a> (shop #5) [<a href="/room/1503/">Lark's Beer and Brothel</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/1084">Sparky</a> (shop #5) [<a href="/room/1300/">Sparky's Tavern</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/627">Jonathan Barromere</a> (shop #5) [<a href="/room/31355/">The MoonMist Tavern</a>, <a href="/area/48" class="white">Runic Castle</a>],<br /><a href="/npc/53">Bruno, the bartender</a> (shop #5) [<a href="/room/5110/">The Boar and Sickle</a>, <a href="/area/51" class="white">Sigil</a>],<br /><a href="/npc/77">Chumsley, the bartender</a> (shop #5) [<a href="/room/5124/">Sotted Sow Bar</a>, <a href="/area/51" class="white">Sigil</a>],<br /><a href="/npc/80">Tabert</a> (shop #5) [<a href="/room/14332/">Tabert's Inn</a>, <a href="/area/206" class="white">Tabert's Inn</a>],<br /><a href="/npc/2605">Bartender Ramgleg</a> (shop #5) [<a href="/room/14743/">Trackers' Bar</a>, <a href="/area/55" class="white">Tavern of the Boars</a>],<br /><a href="/npc/531">Bovel, the barkeep</a> (shop #5) [<a href="/room/6598/">Peachtree Tavern</a>, <a href="/area/56" class="white">Tellerium</a>],<br /><a href="/npc/5686">Aeolin</a> (shop #5) [<a href="/room/18918/">The Laughing Prickear</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/891">Grundel</a> (shop #5) [<a href="/room/7318/">Fisherman's Cafe</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/851">Jonny</a> (shop #5) [<a href="/room/7020/">The Harbor Maid</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/1001">Shady</a> (shop #5) [<a href="/room/7175/">Fool's Gold Tavern</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/1473">Elba</a> (shop #5) [<a href="/room/779/">Elba's Tavern</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/2888">Galdung</a> (shop #5) [<a href="/room/954/">Galdung's Pub</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/1461">Marham, the bartender</a> (shop #5) [<a href="/room/766/">The Drunken Warrior</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/1584">Kelwin</a> (shop #5) [<a href="/room/10831/">The Common Room</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4618">The brewmaster</a> (shop #5) [<a href="/room/10597/">A Small Pub</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/2311">Telgan, the bartender</a> (shop #5) [<a href="/room/24487/">Telgan's Tavern</a>, <a href="/area/33" class="white">The Village of Lasler</a>],<br /><a href="/npc/101">Dandrel</a> (shop #5) [<a href="/room/3988/">The Perplexed Otter</a>, <a href="/area/67" class="white">Towne of Rune</a>].</div><div class="phaseinfomob">in <a href="/area/67">Towne of Rune</a>.</div>
+
+
+			<div class="phasehint">
+				Rune: Perplexed Otter for the specialty.
+Rune: Yew Court: Fortune Teller's Shop for Iridana.				&mdash;
+				Pugnacious							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase3">
+
+
+		<a class="hints" href="javascript:togPhase(3);">Phase 3</a>: Recover <a href="/item/564">a bloodstone pendant</a>. 		
+		<div class="phasehints" id="phasehint3" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/1714">A fanged hellhound</a>  [<a href="/area/20" class="white">Focault's Residence</a>].</div>
+
+
+			<div class="phasehint">
+				On the fanged hellhounds, second floor of Focault in Rune				&mdash;
+				Killerbeez							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase4">
+
+
+		<a class="hints" href="javascript:togPhase(4);">Phase 4</a>: Recover <a href="/item/1629">headband of luck</a>. 		
+		<div class="phasehints" id="phasehint4" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/19">A desert soldier</a>  [<a href="/area/10" class="white">Desert of Thorn</a>].</div>
+
+
+			<div class="phasehint">
+				Desert Thorne: Soldier				&mdash;
+				Pugnacious							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase5">
+
+
+		<a class="hints" href="javascript:togPhase(5);">Phase 5</a>: Recover <a href="/item/385">a pearl ring</a>. 		
+		<div class="phasehints" id="phasehint5" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/123">A pious woman</a>  [<a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/105">Tsa</a> (shop #3) [<a href="/room/2325/">Tsa's Rings</a>, <a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/1088">Volkmar</a> (shop #3) [<a href="/room/1305/">Ring Shop</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/63">A buxom shopkeeper</a> (shop #3) [<a href="/room/5149/">The Whaler's Gift</a>, <a href="/area/51" class="white">Sigil</a>],<br /><a href="/npc/75">The jeweler</a> (shop #3) [<a href="/room/5143/">Sigil Estate Jewelers</a>, <a href="/area/51" class="white">Sigil</a>],<br /><a href="/npc/743">The jeweler</a> (shop #3) [<a href="/room/4063/">Jewelry Shoppe</a>, <a href="/area/67" class="white">Towne of Rune</a>].</div>
+
+
+			<div class="phasehint">
+				Tsas Rings:Lowangen.				&mdash;
+				Pugnacious							</div>
+
+
+			<div class="phasehint">
+				Also dropped by a pious woman, in the Temple of Praios (Lowangen)				&mdash;
+				Daercyn							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase6">
+
+
+		<a class="hints" href="javascript:togPhase(6);">Phase 6</a>: Visit <a href="/npc/2245">A sneaky leprechaun</a>. 		
+		<div class="phasehints" id="phasehint6" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/room/3577">A Weeping Willow</a>, <a href="/area/46">Rune Forest</a>.</div>
+
+
+			<div class="phasehint">
+				Can be found in Rune Forest				&mdash;
+				Killerbeez							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase7">
+
+
+		<a class="hints" href="javascript:togPhase(7);">Phase 7</a>: Recover <a href="/item/914">a fallen star</a>. 		
+		<div class="phasehints" id="phasehint7" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/364">The frost giant queen</a>  [<a href="/room/15978/">The Giantess Throne Room</a>, <a href="/area/21" class="white">Frost Giant's Keep</a>].</div>
+
+
+			<div class="phasehint">
+				Off of the Frost Giant queen in FGK				&mdash;
+				Drahylin							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="quest-toggle">
+		<a href="javascript:togAllPhases('block');">[+] Expand all</a>&nbsp;&nbsp;<br />
+		<a href="javascript:togAllPhases('none');">[-] Collapse all</a>
+	</div>
+
+</div>
+
+
+<ul class="toolbar">
+		<li><a href="/quest/100/fix/"><img src="/img/ico/script_edit.png" height="16" width="16" alt="edit quest" /> <span>fix ambiguous phases</span></a></li>
+</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 13:12:10 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

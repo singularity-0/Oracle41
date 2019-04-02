@@ -1,0 +1,352 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/quest/">Quests</a></li>
+	<li><a class="breadcrumb" href="/quest/6">Rescue the Couatl</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Quest: Rescue the Couatl</h2>
+
+
+<div id="qsearch">
+	<form method="get" action="/quest/search/">
+		<table>
+			<tr>
+				<td>Search Type</td>
+				<td>Keywords</td>
+				<td>Sorted by</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>
+					<select name="search" tabindex="1">
+						<option value="quest">Quest</option>
+						<option value="phase">Phase</option>
+						<option value="master">Quest master</option>
+					</select>
+				</td>
+				<td>
+					<input type="text" name="keyword" size="30" maxlength="30" value="" tabindex="2" />
+				</td>
+				<td>
+					<select name="sort" tabindex="3">
+						<option value="questname">Quest Name</option>
+						<option value="questid">Quest ID</option>
+						<option value="pracreward">Practices</option>
+						<option value="qpreward">Quest Points</option>
+						<option value="questmaster">Quest Master</option>
+					</select>
+				</td>
+				<td><input type="submit" value="Search" /></td>
+			</tr>
+		</table>
+	</form>
+</div>
+
+<script type="text/javascript">
+function togPhase(n) {
+	var e = document.getElementById('phasehint' + n);
+	e.style.display = e.style.display == 'none' ? 'block' : 'none';
+}
+function togAllPhases(display) {
+	for (var i = 1; i <= 50; i++) {
+		var e = document.getElementById('phasehint' + i);
+		if (!e) break;
+		e.style.display = display;
+	}
+}
+function addHint(n) {
+	var e = document.getElementById('phase');
+	for (var i = 0; i < e.childNodes.length; i++) {
+		e.childNodes[i].selected = e.childNodes[i].value == n ? 'selected' : '';
+	}
+	e = document.getElementById('text');
+	e.focus();
+	e.select();
+}
+</script>
+
+<div class="mm white">
+This quest <span class="blue">[<span class="yellow">1650</span>]</span> is called '<span class="yellow">Rescue the Couatl</span>',<br/>
+for Adventurers levels <span class="yellow">90</span> to <span class="yellow">120</span>.<br />
+
+
+<span class="hg"><a href="/npc/647">Lord Agrippa</a> [<a href="/area/48">Runic Castle</a>] is the master in charge of this quest.</span><br />
+
+The effects of Semiramis's escape were tragic.  I am still saddened when<br />
+I think of that demon defiling my church.  In addition to the great evil of<br />
+creating undead and slaughtering countless innocents, the legendary Couatl<br />
+was said to be killed during the demon's escape.  After all this time, I<br />
+think we should see what happened to that noble creature.  Be careful, and<br />
+be prepared I hear there are some cave-ins that are nearly impassable.  Good<br />
+luck and may the Powers protect you as you journey forth!<br />
+
+<span class="hy">Upon successful completion of this quest you can receive:</span><br />
+
+<span class="hm">*</span>Up to <span class="yellow">59</span> quest points, <span class="yellow">6</span> practice points, <span class="yellow">55,000</span> experience points,<br/>
+&nbsp;<span class="yellow">0</span> build points, <span class="yellow">0</span> piety, and <span class="yellow">11,000</span> gold pieces.<br />
+
+
+You have <span class="yellow">300</span> minutes remaining to complete this quest.<br />
+
+Rescue the Couatl consists of:<br />
+
+
+	<div class="phase" id="phase1">
+
+
+		<a class="hints" href="javascript:togPhase(1);">Phase 1</a>: Recover <a href="/item/175">an iron pick axe</a>. 		
+		<div class="phasehints" id="phasehint1" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/4472">A tired peddler</a> (shop #3) [<a href="/room/28946/">A General Store</a>, <a href="/area/131" class="white">A Disturbed Pyramid</a>],<br /><a href="/npc/3350">A young hill giant</a>  [<a href="/room/14216/">A Hill Giant Refuge</a>, <a href="/area/98" class="white">A Hill Giant Refuge</a>],<br /><a href="/npc/4786">Williamson Castaway</a> (shop #5) [<a href="/room/29762/">A Castaway's Hovel</a>, <a href="/area/140" class="white">Aequtus</a>],<br /><a href="/npc/5040">A not-so-wealthy merchant</a> (shop #3) [<a href="/area/1" class="white">Alyria</a>],<br /><a href="/npc/679">Glarunz the fey shopkeeper</a> (shop #3) [<a href="/room/1785/">Glarunz's General Goods</a>, <a href="/area/6" class="white">Cavhfail</a>],<br /><a href="/npc/5526">A wounded adventurer</a> (shop #3) [<a href="/room/35799/">Under a Huge Tent</a>, <a href="/area/160" class="white">Genauras</a>],<br /><a href="/npc/4450">Pheemus, the general store owner</a> (shop #3) [<a href="/room/28920/">General Store</a>, <a href="/area/130" class="white">Gilvery</a>],<br /><a href="/npc/4089">A bored shopkeeper</a> (shop #2) [<a href="/room/25255/">An Understocked General Store</a>, <a href="/area/114" class="white">Human Outpost</a>],<br /><a href="/npc/2085">The company clerk</a> (shop #3) [<a href="/room/14528/">The Jalur Company Store</a>, <a href="/area/31" class="white">Jalur Lumber Camp</a>],<br /><a href="/npc/57">Memphis</a> (shop #3) [<a href="/room/2412/">Memphis' General Goods</a>, <a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/3590">Gintlee</a> (shop #3) [<a href="/room/22576/">A General Merchant</a>, <a href="/area/71" class="white">Mount Vesuvius</a>],<br /><a href="/npc/2996">A gray woman</a> (shop #3) [<a href="/room/2091/">Vergil's Generic Products and Average Goods</a>, <a href="/area/11" class="white">Palace of Diocletian</a>],<br /><a href="/npc/1103">A young shopkeeper</a> (shop #3) [<a href="/room/1391/">General Goods</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/6108">A resourceful gnome</a> (shop #3) [<a href="/area/46" class="white">Rune Forest</a>],<br /><a href="/npc/585">Jithox</a> (shop #3) [<a href="/room/4595/">Inside the Gates of the Seelie Castle</a>, <a href="/area/49" class="white">Seelie Castle</a>],<br /><a href="/npc/54">A dracon shopkeeper</a> (shop #3) [<a href="/room/5109/">Sigil Mercantile</a>, <a href="/area/51" class="white">Sigil</a>],<br /><a href="/npc/4634">An apathetic shopkeep</a> (shop #3) [<a href="/area/139" class="white">Takhtin</a>],<br /><a href="/npc/527">Onita</a> (shop #8) [<a href="/room/6290/">Onita's Conservatory</a>, <a href="/area/56" class="white">Tellerium</a>],<br /><a href="/npc/474">The shopkeeper</a> (shop #3) [<a href="/room/6270/">Tellerium General Goods</a>, <a href="/area/56" class="white">Tellerium</a>],<br /><a href="/npc/5912">Deek</a> (shop #3) [<a href="/room/7840/">Deek's Supplies</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/895">The grocer</a> (shop #3) [<a href="/room/7823/">Templeton General Goods</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/1835">A stoop-shouldered wizard</a> (shop #1) [<a href="/area/43" class="white">The Proving Grounds</a>],<br /><a href="/npc/3116">Bartel</a> (shop #3) [<a href="/room/389/">New Rigel Supplies</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/1886">Rolly</a> (shop #3) [<a href="/room/933/">The Full Backpack</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/791">A store clerk</a> (shop #3) [<a href="/room/10184/">A General Trade Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/1571">Galfien</a> (shop #2) [<a href="/room/10186/">Galfien's Traveller Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4620">Guluf</a> (shop #3) [<a href="/room/10871/">Guluf's General Supplies</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/1522">Morley</a> (shop #3) [<a href="/room/10359/">A General Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4712">Murley</a> (shop #2) [<a href="/room/10723/">A Traveller's Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4711">Sahilia</a> (shop #3) [<a href="/room/10724/">A General Trading Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4619">The one-eyed Monte</a> (shop #3) [<a href="/room/10590/">A Traveller's Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/1582">The store owner</a> (shop #2) [<a href="/room/10834/">The Dusty Traveler</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/3520">Mama Kjarlow</a> (shop #2) [<a href="/room/25516/">Mama Kjarlow's</a>, <a href="/area/63" class="white">The Village of Colyon</a>],<br /><a href="/npc/2299">Rangart</a> (shop #3) [<a href="/room/24453/">General Store</a>, <a href="/area/33" class="white">The Village of Lasler</a>],<br /><a href="/npc/723">The grocer</a> (shop #3) [<a href="/room/4098/">General Store</a>, <a href="/area/67" class="white">Towne of Rune</a>],<br /><a href="/npc/5474">An elderly troglodyte store owner</a> (shop #2) [<a href="/room/35588/">Troglodyte Trade Post</a>, <a href="/area/166" class="white">Troglodyte Village</a>],<br /><a href="/npc/1374">The Grocer</a> (shop #3) [<a href="/room/9594/">The General Store</a>, <a href="/area/73" class="white">Vospire</a>],<br /><a href="/npc/5212">A short fey vendor</a> (shop #3) [<a href="/area/156" class="white">Xalt, Unseelie Outpost</a>].</div>
+
+
+			<div class="phasehint">
+				Bought in the General Store				&mdash;
+				Crush							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase2">
+
+
+		<a class="hints" href="javascript:togPhase(2);">Phase 2</a>: Recover <a href="/item/176">a wood and iron spade</a>. 		
+		<div class="phasehints" id="phasehint2" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/4472">A tired peddler</a> (shop #2) [<a href="/room/28946/">A General Store</a>, <a href="/area/131" class="white">A Disturbed Pyramid</a>],<br /><a href="/npc/4786">Williamson Castaway</a> (shop #6) [<a href="/room/29762/">A Castaway's Hovel</a>, <a href="/area/140" class="white">Aequtus</a>],<br /><a href="/npc/5040">A not-so-wealthy merchant</a> (shop #4) [<a href="/area/1" class="white">Alyria</a>],<br /><a href="/npc/679">Glarunz the fey shopkeeper</a> (shop #4) [<a href="/room/1785/">Glarunz's General Goods</a>, <a href="/area/6" class="white">Cavhfail</a>],<br /><a href="/npc/5526">A wounded adventurer</a> (shop #4) [<a href="/room/35799/">Under a Huge Tent</a>, <a href="/area/160" class="white">Genauras</a>],<br /><a href="/npc/4450">Pheemus, the general store owner</a> (shop #4) [<a href="/room/28920/">General Store</a>, <a href="/area/130" class="white">Gilvery</a>],<br /><a href="/npc/4089">A bored shopkeeper</a> (shop #3) [<a href="/room/25255/">An Understocked General Store</a>, <a href="/area/114" class="white">Human Outpost</a>],<br /><a href="/npc/2085">The company clerk</a> (shop #4) [<a href="/room/14528/">The Jalur Company Store</a>, <a href="/area/31" class="white">Jalur Lumber Camp</a>],<br /><a href="/npc/57">Memphis</a> (shop #4) [<a href="/room/2412/">Memphis' General Goods</a>, <a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/3590">Gintlee</a> (shop #4) [<a href="/room/22576/">A General Merchant</a>, <a href="/area/71" class="white">Mount Vesuvius</a>],<br /><a href="/npc/2996">A gray woman</a> (shop #4) [<a href="/room/2091/">Vergil's Generic Products and Average Goods</a>, <a href="/area/11" class="white">Palace of Diocletian</a>],<br /><a href="/npc/1103">A young shopkeeper</a> (shop #4) [<a href="/room/1391/">General Goods</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/6108">A resourceful gnome</a> (shop #4) [<a href="/area/46" class="white">Rune Forest</a>],<br /><a href="/npc/585">Jithox</a> (shop #4) [<a href="/room/4595/">Inside the Gates of the Seelie Castle</a>, <a href="/area/49" class="white">Seelie Castle</a>],<br /><a href="/npc/54">A dracon shopkeeper</a> (shop #4) [<a href="/room/5109/">Sigil Mercantile</a>, <a href="/area/51" class="white">Sigil</a>],<br /><a href="/npc/4634">An apathetic shopkeep</a> (shop #4) [<a href="/area/139" class="white">Takhtin</a>],<br /><a href="/npc/527">Onita</a> (shop #7) [<a href="/room/6290/">Onita's Conservatory</a>, <a href="/area/56" class="white">Tellerium</a>],<br /><a href="/npc/474">The shopkeeper</a> (shop #4) [<a href="/room/6270/">Tellerium General Goods</a>, <a href="/area/56" class="white">Tellerium</a>],<br /><a href="/npc/535">Garosh the miner</a>  [<a href="/area/58" class="white">Temple Crypt</a>],<br /><a href="/npc/5912">Deek</a> (shop #4) [<a href="/room/7840/">Deek's Supplies</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/895">The grocer</a> (shop #4) [<a href="/room/7823/">Templeton General Goods</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/1835">A stoop-shouldered wizard</a> (shop #2) [<a href="/area/43" class="white">The Proving Grounds</a>],<br /><a href="/npc/3116">Bartel</a> (shop #4) [<a href="/room/389/">New Rigel Supplies</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/1886">Rolly</a> (shop #4) [<a href="/room/933/">The Full Backpack</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/791">A store clerk</a> (shop #4) [<a href="/room/10184/">A General Trade Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/1571">Galfien</a> (shop #3) [<a href="/room/10186/">Galfien's Traveller Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4620">Guluf</a> (shop #4) [<a href="/room/10871/">Guluf's General Supplies</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/1522">Morley</a> (shop #4) [<a href="/room/10359/">A General Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4712">Murley</a> (shop #3) [<a href="/room/10723/">A Traveller's Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4711">Sahilia</a> (shop #4) [<a href="/room/10724/">A General Trading Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4619">The one-eyed Monte</a> (shop #4) [<a href="/room/10590/">A Traveller's Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/1582">The store owner</a> (shop #3) [<a href="/room/10834/">The Dusty Traveler</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/3520">Mama Kjarlow</a> (shop #3) [<a href="/room/25516/">Mama Kjarlow's</a>, <a href="/area/63" class="white">The Village of Colyon</a>],<br /><a href="/npc/2338">A gnome prospector</a>  [<a href="/area/33" class="white">The Village of Lasler</a>],<br /><a href="/npc/2299">Rangart</a> (shop #4) [<a href="/room/24453/">General Store</a>, <a href="/area/33" class="white">The Village of Lasler</a>],<br /><a href="/npc/723">The grocer</a> (shop #4) [<a href="/room/4098/">General Store</a>, <a href="/area/67" class="white">Towne of Rune</a>],<br /><a href="/npc/5474">An elderly troglodyte store owner</a> (shop #3) [<a href="/room/35588/">Troglodyte Trade Post</a>, <a href="/area/166" class="white">Troglodyte Village</a>],<br /><a href="/npc/1374">The Grocer</a> (shop #4) [<a href="/room/9594/">The General Store</a>, <a href="/area/73" class="white">Vospire</a>],<br /><a href="/npc/5212">A short fey vendor</a> (shop #4) [<a href="/area/156" class="white">Xalt, Unseelie Outpost</a>].</div>
+
+
+			<div class="phasehint">
+				Bought in the General Store				&mdash;
+				Crush							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase3">
+
+
+		<a class="hints" href="javascript:togPhase(3);">Phase 3</a>: Visit <a href="/npc/1938">A beckoning will o'wisp</a>. 		
+		<div class="phasehints" id="phasehint3" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/47">Rune Graveyard</a>.</div>
+
+
+			<div class="phasehint">
+				In the Rune Graveyard Crypts, after the sarcophagus go 2 or 3 west, 6 or so south and bash/magic unlock east follow the path, it will be on a northeast, after getting visit go back sw as east is a DT				&mdash;
+				Crush							</div>
+
+
+			<div class="phasehint">
+				To get into the crypts, you have to get four seperate keys. One from the high priest, one from the ogran player, and one from the guard inside the locked down, west of the church entrance. And one from the undead shade of Zakarius.				&mdash;
+				Keely							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase4">
+
+
+		<a class="hints" href="javascript:togPhase(4);">Phase 4</a>: Visit <a href="/npc/1931">The legendary couatl</a>. 		
+		<div class="phasehints" id="phasehint4" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/room/21901">Lair of the Legendary Couatl</a>, <a href="/area/47">Rune Graveyard</a>.</div>
+
+
+			<div class="phasehint">
+				Follow the path from where Phase 3, at the end dig, its a burried exit to the east				&mdash;
+				Crush							</div>
+
+
+			<div class="phasehint">
+				More clearly, go BACK southwest ONE room from the Will o'wisp.  Do not go east and do not go all the way back to the end of the serpentine path.  Pick the southeast path this time and follow it to the easterly end, then dig to find the hidden exit east to the coautl.				&mdash;
+				Elynril							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="quest-toggle">
+		<a href="javascript:togAllPhases('block');">[+] Expand all</a>&nbsp;&nbsp;<br />
+		<a href="javascript:togAllPhases('none');">[-] Collapse all</a>
+	</div>
+
+</div>
+
+
+<ul class="toolbar">
+		<li><a href="/quest/6/fix/"><img src="/img/ico/script_edit.png" height="16" width="16" alt="edit quest" /> <span>fix ambiguous phases</span></a></li>
+</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 13:10:30 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

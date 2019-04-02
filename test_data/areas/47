@@ -1,0 +1,1278 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/47">Rune Graveyard</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Rune Graveyard</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Within <a href="/area/46">Rune Forest</a>.</td>
+			<td>No</td>
+			<td></td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([686, 672]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [686, 672],
+		className: 'textpointer',
+		html: "Rune Graveyard",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(47, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=686&y=672&plane=1&zoom=4">View Rune Graveyard on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Rune Graveyard</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2025">a black onyx dagger</a></td>
+			<td>76</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2024">a black onyx key</a></td>
+			<td>15</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/932">a blazing black longsword</a></td>
+			<td>110</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1923">a blessed blade</a></td>
+			<td>125</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2004">a blood-smeared apron</a></td>
+			<td>35</td>
+			<td>clothing</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/882">a bracelet of aged ivory</a></td>
+			<td>80</td>
+			<td>jewelry</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3616">a bracelet of aged onyx</a></td>
+			<td>90</td>
+			<td>jewelry</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/7317">a bride's wedding veil</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/238">a brilliant white marble fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/241">a broken wagon wheel</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3513">a cold ice axe</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2008">a comfortable bed</a></td>
+			<td>15</td>
+			<td>furniture</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/2003">a crystal decanter</a></td>
+			<td>15</td>
+			<td>drink-container</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/7573">a cumbersome musket</a></td>
+			<td>36</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/2029">a dusty old chest</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2028">a faceted mithril key</a></td>
+			<td>45</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2001">a freshly buried corpse</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2014">a gleaming chainmail shirt</a></td>
+			<td>45</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2018">a gold sarcophagus</a></td>
+			<td>15</td>
+			<td>furniture</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2005">a gold-trimmed robe of the high priest</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/8212">a key providing roof access</a></td>
+			<td>241</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5860">a Manari cameo</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1915">a Manari crest</a></td>
+			<td>84</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1924">a Manari lance</a></td>
+			<td>80</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3818">a memorial cross</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6404">a memorial statue of the Everlasting Phoenix</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2879">a monkey's paw</a></td>
+			<td>25</td>
+			<td>clothing</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3898">a pair of mountain climbing boots</a></td>
+			<td>40</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2011">a polished white longsword</a></td>
+			<td>61</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2006">a priestess' halberd</a></td>
+			<td>121</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/8201">a quiver of crucifix-shaped bolts</a></td>
+			<td>240</td>
+			<td>quiver</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2010">a shimmering key</a></td>
+			<td>15</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/930">a silver broadsword</a></td>
+			<td>45</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2013">a silver flail</a></td>
+			<td>70</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2007">a silver-trimmed priestess' robe</a></td>
+			<td>45</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/6277">a silvery reflecting pool</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2000">a skeletal corpse</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2002">a slightly rotted corpse</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7303">a small bouquet of flowers drenched in blood</a></td>
+			<td>205</td>
+			<td>treasure</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/239">a small crystal skull</a></td>
+			<td>15</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/650">a small silver key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6276">a statue of a small girl</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/653">a stone key</a></td>
+			<td>15</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2030">a sturdy white banded staff</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2012">a suit of burnished silver platemail</a></td>
+			<td>55</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/654">a tarnished copper key</a></td>
+			<td>15</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/7492">a uniform belonging to a cadet in the demon armies</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/4842">a white block of a magic cube</a></td>
+			<td>241</td>
+			<td>toy</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/708">a white shield of the holy</a></td>
+			<td>65</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3927">a wisp of fog</a></td>
+			<td>241</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8213">a wooden longbow</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2009">a wooden organ</a></td>
+			<td>15</td>
+			<td>furniture</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/652">a worn iron key</a></td>
+			<td>15</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2352">an 'I killed the revenant' t-shirt</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2019">an enslaved will o'wisp</a></td>
+			<td>70</td>
+			<td>light</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1999">an iron crowbar</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/3620">an old dirty staff</a></td>
+			<td>30</td>
+			<td>orb</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4224">an old wooden sign</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/3369">pipes of haunting</a></td>
+			<td>60</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/261">the black horns of Semiramis</a></td>
+			<td>90</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8258">the bobbly headplume of a magnificent couatl</a></td>
+			<td>241</td>
+			<td>treasure</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6919">the corpse of Reverend Suddard</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/262">the flaming tongue of Semiramis</a></td>
+			<td>110</td>
+			<td>weapon</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/260">the foul carcass of a fish</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/8257">the massive talon of a magnificent couatl</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2021">the rainbow colored wings of a couatl</a></td>
+			<td>70</td>
+			<td>armor</td>
+			<td><a href="/area/47">Rune Graveyard</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Rune Graveyard</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1938">A beckoning will o'wisp</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3143">A black bat</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3929">A blood bloom</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3785">A blue mist wraith</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1937">A burrowing centipede</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2265">A courageous paladin guard</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2749">A crying infant</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2763">A death knight</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3930">A fiery red garden snake</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1932">A ghast</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3928">A gopher ghast</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2278">A grimy necromancer</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2864">A haggard undead necromancer</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1930">A huge rattlesnake</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2748">A huge white maggot</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2758">A lesser angel</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2275">A lesser angel</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2754">A lost ghost</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2262">A maggot eaten corpse</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2270">A man deep in prayer</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3298">A Manari hero</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5949">A manifestation of Tazil, the Witch Shepherd of the Dead</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3931">A meat-eating snapdragon</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2271">A mourning widow</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2266">A paladin guard</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1934">A poltergeist</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2273">A priest</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2272">A priestess</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2747">A rabid black rat</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4187">A revolting grave robber</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2263">A shrieking ghost</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2759">A smiling guardian angel</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6160">A steel-eyed archer</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5762">A succubi adherent of Lust</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1933">A vengeful revenant</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2755">A vigilant skeleton</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2280">A waiting shadow</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1936">A wavering shadow</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2760">A weeping willow limb</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2756">A writhing mass of snakes</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2279">A writhing tendril of fog</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3932">An animated jack-o-lantern</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2264">An animated skeleton</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3144">An organ player</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1935">An undead corpse</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2277">Captain Raymore</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2751">Grandfather</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2752">Grandmother</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2753">Junior</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5761">Mourdul, Throne of Pain</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6038">Ryndrasa, the missing druid</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6161">The captain of the Manari huntresses</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2750">The Caretaker</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5910">The caretaker's wife</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1929">The cobra king</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2746">The crypt thing</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2757">The drow assassin</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2761">The friar of Life</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2551">The hunchback</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1931">The legendary couatl</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6159">The legendary couatl queen</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2762">The maiden of anguish, Semiramis</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2060">The posthumous memorial hawker</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2268">The temple healer</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2269">The temple healer's apprentice</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2267">The temple librarian</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5736">The undead shade of Reverend Suddard</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2276">The undead shade of Zakarius</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2274">The weary High Priest</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6039">Tirisil, the missing mage</a></td>
+		<td><a href="/area/47">Rune Graveyard</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/3670">Crossroads at a Fountain</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/3905">A Hollowed Out Tombstone</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/3906">A Huge Cavern of Flame</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/21851">A Sink Hole in the Bog!!!!!</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/3670">Crossroads at a Fountain</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/3668">On a Trail Before a Rusty Iron Gate</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/3668">On a Trail Before a Rusty Iron Gate</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:09 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

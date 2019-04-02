@@ -1,0 +1,787 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/55">Tavern of the Boars</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Tavern of the Boars</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(797, 444) in Alyria</td>
+			<td>Yes</td>
+			<td>Inn</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>a small wooden structure well lit with burning torches</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([797, 444]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [797, 444],
+		className: 'textpointer',
+		html: "Tavern of the Boars",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(55, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=797&y=444&plane=1&zoom=4">View Tavern of the Boars on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Tavern of the Boars</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4165">a blue arena token</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5886">a bouncers billy club</a></td>
+			<td>150</td>
+			<td>weapon</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/5693">a crystal lamp</a></td>
+			<td>25</td>
+			<td>light</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3651">a crystalized piece of honey</a></td>
+			<td>100</td>
+			<td>weapon</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/4232">a dented spade</a></td>
+			<td>150</td>
+			<td>spade</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4740">a double-deckered bed</a></td>
+			<td>20</td>
+			<td>furniture</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4639">a dragon's talon</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3650">a hammered copper tray</a></td>
+			<td>100</td>
+			<td>treasure</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4739">a king-size bed</a></td>
+			<td>15</td>
+			<td>furniture</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/7667">a long oaken table</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3527">a mangled hardhat</a></td>
+			<td>65</td>
+			<td>armor</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4738">a marble shower tub</a></td>
+			<td>15</td>
+			<td>furniture</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3652">a pair of faded leather pants</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/5885">a sexy maid uniform</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3462">a sharpened honey-covered stick</a></td>
+			<td>102</td>
+			<td>weapon</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3546">a skeletal sabre</a></td>
+			<td>113</td>
+			<td>weapon</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3648">a slab of honey covered bark</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2837">a small silver key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6252">a small wooden box</a></td>
+			<td>25</td>
+			<td>container</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3649">a thin whip studded with razor wire</a></td>
+			<td>100</td>
+			<td>weapon</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4160">a trash can</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1931">the gloves of dementia</a></td>
+			<td>125</td>
+			<td>armor</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4462">the legendary knife of Kinchu</a></td>
+			<td>110</td>
+			<td>weapon</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1867">the queen bee's woven crown</a></td>
+			<td>115</td>
+			<td>armor</td>
+			<td><a href="/area/55">Tavern of the Boars</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Tavern of the Boars</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4904">A battle hardened man</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3401">A bone worm</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3599">A burly minotaur</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3727">A displacer beast</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2607">A drunk dwarf</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3728">A fire elemental</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3762">A fuzzy rat</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4903">A huge hairy yeti</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3964">A huge rock golem</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4902">A hyperactive hobbit</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3962">A manscorpion</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2628">A massive drone bee</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2611">A master rogue</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2609">A menacing rogue</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2621">A mutant rat</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3597">A satanic wraith</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2600">A sexy chamber maid</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3725">A short goblin</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2606">A skeletal worker</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2619">A stable boy</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2614">A sturdy brown horse</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2618">A swift stallion</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2623">A tangle vine</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3600">A terrifying griffon</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3726">A unicorn</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4880">A wandering adventurer</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2617">A wild-eyed stallion</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3984">A winged snake</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2625">A worker bee</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2622">A worker shade</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2604">A young tavern waitress</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3963">An elven summoner</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3598">An evil djinn</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2626">An irate worker bee</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2608">An ogre barbarian</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3985">Arciana, the young huntress</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2605">Bartender Ramgleg</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2624">Delphina, the Master Chef</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6084">Doc, the genius sister</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2610">Johnny the Arena Master</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3956">Maar the Elder Dragon</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2601">Master Laron</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2620">The foreman of the damned</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2627">The queen bumblebee</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3758">The stablemaster</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2602">The tavern storyteller</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2603">Thigo, the Tavern Bouncer</a></td>
+		<td><a href="/area/55">Tavern of the Boars</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/14749">A Vibrant Atrium</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/14750">A Vine-Covered Gazebo</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/14719">Before The Tavern</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:12 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

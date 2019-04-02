@@ -1,0 +1,382 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/quest/">Quests</a></li>
+	<li><a class="breadcrumb" href="/quest/51">Nemesis</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Quest: Nemesis</h2>
+
+
+<div id="qsearch">
+	<form method="get" action="/quest/search/">
+		<table>
+			<tr>
+				<td>Search Type</td>
+				<td>Keywords</td>
+				<td>Sorted by</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>
+					<select name="search" tabindex="1">
+						<option value="quest">Quest</option>
+						<option value="phase">Phase</option>
+						<option value="master">Quest master</option>
+					</select>
+				</td>
+				<td>
+					<input type="text" name="keyword" size="30" maxlength="30" value="" tabindex="2" />
+				</td>
+				<td>
+					<select name="sort" tabindex="3">
+						<option value="questname">Quest Name</option>
+						<option value="questid">Quest ID</option>
+						<option value="pracreward">Practices</option>
+						<option value="qpreward">Quest Points</option>
+						<option value="questmaster">Quest Master</option>
+					</select>
+				</td>
+				<td><input type="submit" value="Search" /></td>
+			</tr>
+		</table>
+	</form>
+</div>
+
+<script type="text/javascript">
+function togPhase(n) {
+	var e = document.getElementById('phasehint' + n);
+	e.style.display = e.style.display == 'none' ? 'block' : 'none';
+}
+function togAllPhases(display) {
+	for (var i = 1; i <= 50; i++) {
+		var e = document.getElementById('phasehint' + i);
+		if (!e) break;
+		e.style.display = display;
+	}
+}
+function addHint(n) {
+	var e = document.getElementById('phase');
+	for (var i = 0; i < e.childNodes.length; i++) {
+		e.childNodes[i].selected = e.childNodes[i].value == n ? 'selected' : '';
+	}
+	e = document.getElementById('text');
+	e.focus();
+	e.select();
+}
+</script>
+
+<div class="mm white">
+This quest  is called '<span class="yellow">Nemesis</span>',<br/>
+for Adventurers levels <span class="yellow">120</span> to <span class="yellow">180</span>.<br />
+
+
+<span class="hg"><a href="/npc/647">Lord Agrippa</a> [<a href="/area/48">Runic Castle</a>] is the master in charge of this quest.</span><br />
+
+I am very disturbed by the news coming to me from Town Hall.  Officials<br />
+there are telling me that an old nemesis may be planting spies in the City<br />
+of Rune who are reporting back to him with information that could be used<br />
+against me in a secret plot.  I need your assistance to fulfill a<br />
+clandestine and dangerous mission.  Journey to the continent of Beltane, and<br />
+there you will find the dreaded Maldra Keep.  Under the guise of a<br />
+messenger, you will attempt to ascertain whether or not I should be<br />
+concerned for my safety by thoroughly investigating the area.  Your success<br />
+in this mission will not only preserve the security of my Court, but it<br />
+could very well save my life!  I bid you speed and safety as you complete<br />
+this mission!<br />
+
+<span class="hy">Upon successful completion of this quest you can receive:</span><br />
+
+<span class="hm">*</span>Up to <span class="yellow">66</span> quest points, <span class="yellow">6</span> practice points, <span class="yellow">54,000</span> experience points,<br/>
+&nbsp;<span class="yellow">0</span> build points, <span class="yellow">0</span> piety, and <span class="yellow">11,000</span> gold pieces.<br />
+
+
+You have <span class="yellow">500</span> minutes remaining to complete this quest.<br />
+
+Nemesis consists of:<br />
+
+
+	<div class="phase" id="phase1">
+
+
+		<a class="hints" href="javascript:togPhase(1);">Phase 1</a>: Journey to <a href="/room/4118">The Court of Rune</a>. 		
+		<div class="phasehints" id="phasehint1" style="display: none;">
+
+<div class="phaseinforoom">in <a href="/area/67">Towne of Rune</a>.</div>
+
+
+			<div class="phasehint">
+				Rune, North of rowan.				&mdash;
+				Biggles							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase2">
+
+
+		<a class="hints" href="javascript:togPhase(2);">Phase 2</a>: Locate and deliver <a href="/item/504">a page of parchment</a> to <a href="/npc/3763">Lady Maldra</a>. 		
+		<div class="phasehints" id="phasehint2" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/5040">A not-so-wealthy merchant</a> (shop #5) [<a href="/area/1" class="white">Alyria</a>],<br /><a href="/npc/301">A yak postal worker</a> (shop #2) [<a href="/room/13404/">Kulah Post Office</a>, <a href="/area/3" class="white">Arcane Archipelago</a>],<br /><a href="/npc/6230">A postmanscorpion</a> (shop #2) [<a href="/area/157" class="white">Arien'dyth</a>],<br /><a href="/npc/4894">Cluricaun</a> (shop #2) [<a href="/room/33790/">Cluricaun's Correspondence</a>, <a href="/area/6" class="white">Cavhfail</a>],<br /><a href="/npc/679">Glarunz the fey shopkeeper</a> (shop #5) [<a href="/room/1785/">Glarunz's General Goods</a>, <a href="/area/6" class="white">Cavhfail</a>],<br /><a href="/npc/5526">A wounded adventurer</a> (shop #5) [<a href="/room/35799/">Under a Huge Tent</a>, <a href="/area/160" class="white">Genauras</a>],<br /><a href="/npc/5530">Postmaster Freddricks</a> (shop #2) [<a href="/room/35752/">Post Master's Office</a>, <a href="/area/160" class="white">Genauras</a>],<br /><a href="/npc/4450">Pheemus, the general store owner</a> (shop #5) [<a href="/room/28920/">General Store</a>, <a href="/area/130" class="white">Gilvery</a>],<br /><a href="/npc/4089">A bored shopkeeper</a> (shop #4) [<a href="/room/25255/">An Understocked General Store</a>, <a href="/area/114" class="white">Human Outpost</a>],<br /><a href="/npc/1318">An aging postmaster</a> (shop #2) [<a href="/area/28" class="white">Irda Isle</a>],<br /><a href="/npc/2085">The company clerk</a> (shop #5) [<a href="/room/14528/">The Jalur Company Store</a>, <a href="/area/31" class="white">Jalur Lumber Camp</a>],<br /><a href="/npc/127">A postmaster</a> (shop #2) [<a href="/room/2430/">Post Office</a>, <a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/57">Memphis</a> (shop #5) [<a href="/room/2412/">Memphis' General Goods</a>, <a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/1829">A postal worker</a> (shop #2) [<a href="/room/17559/">Post Office</a>, <a href="/area/37" class="white">Maldra Keep</a>],<br /><a href="/npc/3590">Gintlee</a> (shop #5) [<a href="/room/22576/">A General Merchant</a>, <a href="/area/71" class="white">Mount Vesuvius</a>],<br /><a href="/npc/2996">A gray woman</a> (shop #5) [<a href="/room/2091/">Vergil's Generic Products and Average Goods</a>, <a href="/area/11" class="white">Palace of Diocletian</a>],<br /><a href="/npc/2995">A postman</a> (shop #2) [<a href="/room/2087/">Parcel Retrieval and Delivery</a>, <a href="/area/11" class="white">Palace of Diocletian</a>],<br /><a href="/npc/1103">A young shopkeeper</a> (shop #5) [<a href="/room/1391/">General Goods</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/1111">The postmaster</a> (shop #2) [<a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/4430">Eolande</a> (shop #2) [<a href="/area/45" class="white">Rahdiyr</a>],<br /><a href="/npc/5898">The postman automaton</a> (shop #2) [<a href="/area/79" class="white">Random Clanhall</a>],<br /><a href="/npc/6108">A resourceful gnome</a> (shop #5) [<a href="/area/46" class="white">Rune Forest</a>],<br /><a href="/npc/585">Jithox</a> (shop #5) [<a href="/room/4595/">Inside the Gates of the Seelie Castle</a>, <a href="/area/49" class="white">Seelie Castle</a>],<br /><a href="/npc/54">A dracon shopkeeper</a> (shop #5) [<a href="/room/5109/">Sigil Mercantile</a>, <a href="/area/51" class="white">Sigil</a>],<br /><a href="/npc/86">The Sigil postmaster</a> (shop #2) [<a href="/area/51" class="white">Sigil</a>],<br /><a href="/npc/4634">An apathetic shopkeep</a> (shop #5) [<a href="/area/139" class="white">Takhtin</a>],<br /><a href="/npc/428">A postal clerk</a> (shop #2) [<a href="/room/5988/">Tellerium Parcel Service</a>, <a href="/area/56" class="white">Tellerium</a>],<br /><a href="/npc/474">The shopkeeper</a> (shop #5) [<a href="/room/6270/">Tellerium General Goods</a>, <a href="/area/56" class="white">Tellerium</a>],<br /><a href="/npc/5912">Deek</a> (shop #5) [<a href="/room/7840/">Deek's Supplies</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/895">The grocer</a> (shop #5) [<a href="/room/7823/">Templeton General Goods</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/947">The postmaster</a> (shop #2) [<a href="/room/7180/">Templeton Post Office</a>, <a href="/area/57" class="white">Templeton</a>],<br /><a href="/npc/3116">Bartel</a> (shop #5) [<a href="/room/389/">New Rigel Supplies</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/1886">Rolly</a> (shop #5) [<a href="/room/933/">The Full Backpack</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/1454">The postmaster</a> (shop #2) [<a href="/room/740/">New Rigel Post Office</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/791">A store clerk</a> (shop #5) [<a href="/room/10184/">A General Trade Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4620">Guluf</a> (shop #5) [<a href="/room/10871/">Guluf's General Supplies</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/1522">Morley</a> (shop #5) [<a href="/room/10359/">A General Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4711">Sahilia</a> (shop #5) [<a href="/room/10724/">A General Trading Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/4619">The one-eyed Monte</a> (shop #5) [<a href="/room/10590/">A Traveller's Store</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/1558">The town mail clerk</a> (shop #2) [<a href="/room/10228/">The Xaventry Post Office</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/3520">Mama Kjarlow</a> (shop #4) [<a href="/room/25516/">Mama Kjarlow's</a>, <a href="/area/63" class="white">The Village of Colyon</a>],<br /><a href="/npc/6005">Malbo</a> (shop #2) [<a href="/area/33" class="white">The Village of Lasler</a>],<br /><a href="/npc/2299">Rangart</a> (shop #5) [<a href="/room/24453/">General Store</a>, <a href="/area/33" class="white">The Village of Lasler</a>],<br /><a href="/npc/2047">A courier</a> (shop #2) [<a href="/room/14852/">Decara Delivery Services</a>, <a href="/area/66" class="white">Towne of Decara</a>],<br /><a href="/npc/102">An aging postmaster</a> (shop #2) [<a href="/room/4104/">Post Office</a>, <a href="/area/67" class="white">Towne of Rune</a>],<br /><a href="/npc/723">The grocer</a> (shop #5) [<a href="/room/4098/">General Store</a>, <a href="/area/67" class="white">Towne of Rune</a>],<br /><a href="/npc/686">The secretary</a>  [<a href="/room/19445/">Reception Area</a>, <a href="/area/67" class="white">Towne of Rune</a>],<br /><a href="/npc/914">Svindite</a> (shop #2) [<a href="/room/9391/">A Messenger's Office</a>, <a href="/area/70" class="white">Unseelie Castle</a>],<br /><a href="/npc/1810">Grauloth, the postmaster</a> (shop #2) [<a href="/room/15563/">Vir Parcel Services</a>, <a href="/area/72" class="white">Vir</a>],<br /><a href="/npc/1388">An ogre postmaster</a> (shop #2) [<a href="/room/9655/">The Vospire Post Office</a>, <a href="/area/73" class="white">Vospire</a>],<br /><a href="/npc/1374">The Grocer</a> (shop #5) [<a href="/room/9594/">The General Store</a>, <a href="/area/73" class="white">Vospire</a>],<br /><a href="/npc/5212">A short fey vendor</a> (shop #5) [<a href="/area/156" class="white">Xalt, Unseelie Outpost</a>].</div><div class="phaseinfomob">in <a href="/room/17742">A Throne Room</a>, <a href="/area/37">Maldra Keep</a>.</div>
+
+
+			<div class="phasehint">
+				Parchment from any post office, Lady Maldra west of Lord Maldra in keep.				&mdash;
+				Biggles							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase3">
+
+
+		<a class="hints" href="javascript:togPhase(3);">Phase 3</a>: Journey to <a href="/room/17725">The Nest</a>. <span class="hr">[Ambiguous] (database link may be wrong)</span>		
+		<div class="phasehints" id="phasehint3" style="display: none;">
+
+<div class="phaseinforoom">in <a href="/area/37">Maldra Keep</a>.</div>
+
+
+			<div class="phasehint">
+				Maldra's Keep from the entrance its 2 north, 5 east, and 1 south				&mdash;
+				Bimpzig							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase4">
+
+
+		<a class="hints" href="javascript:togPhase(4);">Phase 4</a>: Visit <a href="/npc/4350">An elven mage</a>. 		
+		<div class="phasehints" id="phasehint4" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/37">Maldra Keep</a>.</div>
+
+
+			<div class="phasehint">
+				Upstairs in maldras. must pass through cpk				&mdash;
+				Kirali							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase5">
+
+
+		<a class="hints" href="javascript:togPhase(5);">Phase 5</a>: Journey to <a href="/room/17696">Laurie's Magic Shop</a>. 		
+		<div class="phasehints" id="phasehint5" style="display: none;">
+
+<div class="phaseinforoom">in <a href="/area/37">Maldra Keep</a>.</div>
+
+
+			<div class="phasehint">
+				Maldra's Keep, southeastern side.				&mdash;
+				Illyria							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase6">
+
+
+		<a class="hints" href="javascript:togPhase(6);">Phase 6</a>: Visit <a href="/npc/649">The knight, Sir Tristan</a>. 		
+		<div class="phasehints" id="phasehint6" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/48">Runic Castle</a>.</div>
+
+
+			<div class="phasehint">
+				Wanders Rune Castle, normally near Lord Agrippa.				&mdash;
+				Nemix							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="quest-toggle">
+		<a href="javascript:togAllPhases('block');">[+] Expand all</a>&nbsp;&nbsp;<br />
+		<a href="javascript:togAllPhases('none');">[-] Collapse all</a>
+	</div>
+
+</div>
+
+
+<ul class="toolbar">
+		<li><a href="/quest/51/fix/"><img src="/img/ico/script_edit.png" height="16" width="16" alt="edit quest" /> <span>fix ambiguous phases</span></a></li>
+</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 13:11:58 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

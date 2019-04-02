@@ -1,0 +1,690 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/86">Van Pelt's Emporium</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Van Pelt's Emporium</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(669, 757) in Alyria</td>
+			<td>No</td>
+			<td>      </td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>a small discrete building just off to the west of the Towne of Rune's farmlands</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([669, 757]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [669, 757],
+		className: 'textpointer',
+		html: "Van Pelt's Emporium",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(86, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=669&y=757&plane=1&zoom=4">View Van Pelt's Emporium on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Van Pelt's Emporium</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5088">a beanbag chair</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5086">a beautiful sundial</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4753">a bunkbed</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5095">a canopy bed</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/5104">a cherub in a fountain</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/5105">a cherub in a fountain</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/5106">a cherub in a fountain</a></td>
+			<td>50</td>
+			<td>fountain</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/5107">a cherub in a fountain</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5115">a comfortable cat bed</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5103">a comfy couch</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/5097">a desk lamp</a></td>
+			<td>10</td>
+			<td>light</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5091">a double bed</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5099">a fine bureau</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/5083">a flickering lantern</a></td>
+			<td>50</td>
+			<td>light</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5085">a guestbook</a></td>
+			<td>1</td>
+			<td>treasure</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5094">a king bed</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5096">a large marble desk</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5100">a low nightstand</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5101">a massive armoire</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5113">a pet door</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5114">a pet door</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5109">a piece of generic furniture to be AT</a></td>
+			<td>50</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5110">a piece of generic furniture to be IN</a></td>
+			<td>50</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5108">a piece of generic furniture to be ON</a></td>
+			<td>50</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5111">a polished-white ceramic latrine</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5093">a queen bed</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5092">a single bed</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5081">a small service bell</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5090">a stately executive desk</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clock.png" width="13" height="13" alt="clock" /> <a href="/item/5087">a stately grandfather clock</a></td>
+			<td>10</td>
+			<td>clock</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5084">a statue</a></td>
+			<td>50</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5098">a velvet loveseat</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4756">a water bed</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5089">a wooden stool</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5116">a worn scratching post</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5102">an ottoman</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/5112">Lucinda's closet</a></td>
+			<td>20</td>
+			<td>container</td>
+			<td><a href="/area/86">Van Pelt's Emporium</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Van Pelt's Emporium</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3332">A flustered imp</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2530">A growling, muzzled dog</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2529">A rehabilitated stray dog</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3333">A tubby woman</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2528">A young minotaur shelter worker</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3334">An alley cat</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4426">An alley cat</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2527">An elven shelter volunteer</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3331">Devan Van Pelt</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3329">Emile</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2525">Eve, the animal shelter receptionist</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5913">Kelpie</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4425">Lucinda Van Pelt</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2524">Meowsington</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2526">Pawsington</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6126">Rambunctious Van Pelt</a></td>
+		<td><a href="/area/86">Van Pelt's Emporium</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:19 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

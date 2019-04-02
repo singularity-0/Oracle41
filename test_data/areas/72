@@ -1,0 +1,2873 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/72">Vir</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Vir</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1433, 1056) in Underground</td>
+			<td>Yes</td>
+			<td>Towne</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>rising plumes of smoke from a series of chimneys chiseled into the rocky hillside</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(2);
+	vmap.setCenterPos([1433, 1056]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1433, 1056],
+		className: 'textpointer',
+		html: "Vir",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(72, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1433&y=1056&plane=2&zoom=4">View Vir on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Vir</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/933">a baldric of mauling</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/1786">a banner of Vir</a></td>
+			<td>76</td>
+			<td>light</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1709">a basilisk horn</a></td>
+			<td>165</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/1718">a bat's wing</a></td>
+			<td>5</td>
+			<td>reagent-air</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3609">a beastmaster's whip</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1707">a bent steel key</a></td>
+			<td>40</td>
+			<td>key</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3305">a black spider's egg sac</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1727">a blind flounder</a></td>
+			<td>20</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/306">a bloody malt</a></td>
+			<td>80</td>
+			<td>drink-container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/303">a bottle of polish</a></td>
+			<td>85</td>
+			<td>drink-container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3676">a breastplate of the flaming wing</a></td>
+			<td>139</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3529">a bucket</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3969">a buckler of the flaming wing</a></td>
+			<td>188</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1714">a build your own dracon wings kit</a></td>
+			<td>25</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1787">a carving knife</a></td>
+			<td>108</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3091">a cell key</a></td>
+			<td>120</td>
+			<td>key</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/1762">a certificate of achievement</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1768">a charred black herb</a></td>
+			<td>145</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/1716">a charred branch</a></td>
+			<td>5</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1743">a cherry topped float</a></td>
+			<td>75</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1740">a chocolate brownie</a></td>
+			<td>30</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1746">a chocolate covered mushroom</a></td>
+			<td>85</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="pick-axe" /> <a href="/item/1752">a clawed pick</a></td>
+			<td>66</td>
+			<td>pick-axe</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3087">a clump of moss</a></td>
+			<td>30</td>
+			<td>trash</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1772">a crown of teeth</a></td>
+			<td>113</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5339">a crystal key</a></td>
+			<td>240</td>
+			<td>key</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1765">a dark green herb</a></td>
+			<td>120</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1751">a deep dweller's bag</a></td>
+			<td>125</td>
+			<td>container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/2717">a deep forged drum</a></td>
+			<td>235</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1785">a dented shield</a></td>
+			<td>123</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1760">a diamond shackle</a></td>
+			<td>103</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/3398">a diamond stud</a></td>
+			<td>25</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/1696">a dracon firestick</a></td>
+			<td>170</td>
+			<td>wand</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/309">a dracon wine</a></td>
+			<td>80</td>
+			<td>drink-container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1777">a draconian lash</a></td>
+			<td>125</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1756">a draconian throwing star</a></td>
+			<td>140</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/2850">a dragon breath bracer</a></td>
+			<td>225</td>
+			<td>amulet</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4745">a dragon firestick</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1792">a faerie belt</a></td>
+			<td>125</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1793">a faerie mask</a></td>
+			<td>147</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7054">a fallen star of nefarious black</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="statue" /> <a href="/item/6642">a fertility statue</a></td>
+			<td>10</td>
+			<td>statue</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/280">a festival mug</a></td>
+			<td>80</td>
+			<td>drink-container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5369">a figurine of the Queen</a></td>
+			<td>90</td>
+			<td>key</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3455">a fire token</a></td>
+			<td>80</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3263">a fire wizard's cape</a></td>
+			<td>164</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1736">a fluffy yellow dahlia</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1748">a frosted cake</a></td>
+			<td>85</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2888">a giant dragon's skull</a></td>
+			<td>241</td>
+			<td>light</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1757">a giant pearl necklace</a></td>
+			<td>97</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/1770">a glass of underground water</a></td>
+			<td>80</td>
+			<td>drink-container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1783">a glistening vial</a></td>
+			<td>45</td>
+			<td>potion</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="money" /> <a href="/item/4045">a gold stash</a></td>
+			<td>15</td>
+			<td>money</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="telescope" /> <a href="/item/2886">a golden telescope</a></td>
+			<td>150</td>
+			<td>telescope</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1712">a guide to the underground</a></td>
+			<td>65</td>
+			<td>book</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4579">a half-eaten head</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4723">a hatchling key</a></td>
+			<td>125</td>
+			<td>key</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4948">a helm of imprisonment</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3524">a helmet of the flaming wing</a></td>
+			<td>185</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1710">a jade tambourine</a></td>
+			<td>180</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1700">a jaded pike</a></td>
+			<td>106</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1925">a jeweled sceptre of Vir</a></td>
+			<td>185</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1251">a jingling hat</a></td>
+			<td>200</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1728">a kobold sandwich</a></td>
+			<td>80</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6043">a kobudo of the faithless</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1732">a large black orchid</a></td>
+			<td>120</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6906">a large iron-worked gate</a></td>
+			<td>30</td>
+			<td>furniture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4028">a large mithril forge</a></td>
+			<td>5</td>
+			<td>container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1766">a light green herb</a></td>
+			<td>120</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3085">a looting sack</a></td>
+			<td>241</td>
+			<td>container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6453">a magnificent statue</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/6506">a magnificent statue</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1791">a maid's uniform</a></td>
+			<td>65</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5847">a manrikigusari</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1702">a matron's halberd</a></td>
+			<td>235</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1731">a meatball sandwich</a></td>
+			<td>60</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5401">a mithril colored metal mold</a></td>
+			<td>85</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="sextant" /> <a href="/item/1750">a mithril sextant</a></td>
+			<td>90</td>
+			<td>sextant</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/1753">a mithril spade</a></td>
+			<td>125</td>
+			<td>spade</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/4276">a moose-in-the-box</a></td>
+			<td>20</td>
+			<td>toy</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3548">a ninja starfish</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/1725">a pair of cuticle clippers</a></td>
+			<td>200</td>
+			<td>artifact</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1773">a pair of scaled gauntlets</a></td>
+			<td>138</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/1723">a pair of talon clippers</a></td>
+			<td>79</td>
+			<td>artifact</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3741">a pair of whispering boots</a></td>
+			<td>223</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4832">a palladium pick</a></td>
+			<td>60</td>
+			<td>key</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1739">a peach colored potted plant</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3419">a piece of mithril wing armor</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/698">a pogo stick</a></td>
+			<td>150</td>
+			<td>furniture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/807">a polearm called 'Cosmos'</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4814">a polearm christened 'Cosmos'</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/1706">a porous pill</a></td>
+			<td>70</td>
+			<td>pill</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1764">a potion of healing</a></td>
+			<td>180</td>
+			<td>potion</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1771">a prosthetic dracon tail</a></td>
+			<td>125</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4177">a ragged square of cloth</a></td>
+			<td>60</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1737">a rainbow colored daisy</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1769">a rainbow colored herb</a></td>
+			<td>240</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1734">a red and white rose</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5352">a refined piece of iron</a></td>
+			<td>75</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5896">a rice paper ringlet from the master of the drunken monkey</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3307">a ring of persuasion</a></td>
+			<td>179</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1789">a rolling pin</a></td>
+			<td>87</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1693">a rothe leg</a></td>
+			<td>25</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1729">a rotisserie rothe leg</a></td>
+			<td>32</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/1705">a royal invitation</a></td>
+			<td>25</td>
+			<td>parchment</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1758">a ruby anklet</a></td>
+			<td>100</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/1775">a rune inscribed egg</a></td>
+			<td>110</td>
+			<td>artifact</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4746">a rune-inscribed ring</a></td>
+			<td>200</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6454">a rusty steel handle</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6455">a rusty steel handle</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1776">a sacrificial bone dagger</a></td>
+			<td>123</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1741">a scoop of vanilla</a></td>
+			<td>75</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/7523">a semi-automatic slug-thrower</a></td>
+			<td>198</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1774">a set of banded leggings</a></td>
+			<td>123</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1711">a set of dracon cymbals</a></td>
+			<td>195</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/706">a set of poisoned nails</a></td>
+			<td>125</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1778">a set of standard issue boots of Vir</a></td>
+			<td>105</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1782">a set of standard issue gloves of Vir</a></td>
+			<td>114</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1794">a shadow amulet</a></td>
+			<td>78</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1784">a shimmering wing</a></td>
+			<td>116</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1763">a shining herbal mixture</a></td>
+			<td>120</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4113">a shroud of stars</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3306">a signet ring of Vir</a></td>
+			<td>200</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1250">a silk tie</a></td>
+			<td>88</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5350">a silver metal mold</a></td>
+			<td>85</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1738">a silver rose</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1726">a slug platter</a></td>
+			<td>35</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5351">a small bit of iron ore</a></td>
+			<td>85</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1735">a small bouquet of violets</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4735">a small golden bomb</a></td>
+			<td>30</td>
+			<td>explosive</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/1715">a small guppy</a></td>
+			<td>5</td>
+			<td>reagent-water</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1767">a soft violet herb</a></td>
+			<td>180</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1749">a sour sucker</a></td>
+			<td>85</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1698">a spider shaped dagger</a></td>
+			<td>165</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1733">a spray of small orchids</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1742">a sprinkle covered cake</a></td>
+			<td>75</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1747">a sprinkled snail</a></td>
+			<td>85</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6988">a staff called 'avenger'</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/1876">a staff of the flaming wing</a></td>
+			<td>140</td>
+			<td>staff</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1788">a stained apron</a></td>
+			<td>111</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1755">a stalactite</a></td>
+			<td>100</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1779">a standard issue band of Vir</a></td>
+			<td>105</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3082">a standard issue belt of Vir</a></td>
+			<td>100</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1781">a standard issue bracer of Vir</a></td>
+			<td>110</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1780">a standard issue helmet of Vir</a></td>
+			<td>110</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3080">a standard issue pike of Vir</a></td>
+			<td>103</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3081">a standard issue shield of Vir</a></td>
+			<td>102</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1695">a steamed bat</a></td>
+			<td>20</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/310">a steel cup of liquor</a></td>
+			<td>80</td>
+			<td>drink-container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/493">a string of rock candy</a></td>
+			<td>85</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/1724">a talon file</a></td>
+			<td>65</td>
+			<td>artifact</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/308">a talon twister</a></td>
+			<td>80</td>
+			<td>drink-container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1745">a tart lollipop</a></td>
+			<td>85</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="lockpick" /> <a href="/item/3084">a thief's key</a></td>
+			<td>88</td>
+			<td>lockpick</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/8435">a thief's purse</a></td>
+			<td>100</td>
+			<td>container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1704">a tigress hook</a></td>
+			<td>235</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/3469">a tome titled, 'Inferno'</a></td>
+			<td>241</td>
+			<td>spellbook</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/4178">a vial of pleasure oil</a></td>
+			<td>55</td>
+			<td>drink-container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/7824">a wand of instrument reinforcement</a></td>
+			<td>241</td>
+			<td>wand</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/4204">a wand of nothingness</a></td>
+			<td>240</td>
+			<td>wand</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2718">a ward of fire bane</a></td>
+			<td>220</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/3371">a Watcher's notepad</a></td>
+			<td>80</td>
+			<td>book</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1699">a whip of fangs</a></td>
+			<td>125</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/939">a wingtip of the flaming wing</a></td>
+			<td>185</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1713">an 'I went to Vir and all I got was this lousy t-shirt' shirt</a></td>
+			<td>85</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3283">an aerodynamic Unseelie morphbeast</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/4225">an ankh of the flaming wing</a></td>
+			<td>122</td>
+			<td>ankh</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1730">an assorted meat salami</a></td>
+			<td>60</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1694">an eel pie</a></td>
+			<td>20</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1754">an elbow brace</a></td>
+			<td>50</td>
+			<td>clothing</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/1719">an essence of the source</a></td>
+			<td>5</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1761">an ice blue towel</a></td>
+			<td>15</td>
+			<td>trash</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1759">an ice dragon's ring</a></td>
+			<td>156</td>
+			<td>jewelry</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/1691">an ice shard</a></td>
+			<td>110</td>
+			<td>explosive</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/4947">an invocation of the Source</a></td>
+			<td>130</td>
+			<td>book</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="writing-instrument" /> <a href="/item/3078">an ivory pen</a></td>
+			<td>35</td>
+			<td>writing-instrument</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4600">an obsidian spear</a></td>
+			<td>135</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/1703">an orb of darkness</a></td>
+			<td>120</td>
+			<td>orb</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/1717">an underground fungus</a></td>
+			<td>5</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/307">an underground ulcer</a></td>
+			<td>80</td>
+			<td>drink-container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3528">armbands of the flaming wing</a></td>
+			<td>185</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1701">bolelgg</a></td>
+			<td>97</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3544">bonedragon kurokote</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3370">dracon dentures</a></td>
+			<td>123</td>
+			<td>treasure</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1692">dracon rations</a></td>
+			<td>30</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3971">leggings of the flaming wing</a></td>
+			<td>185</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1744">Sith's special</a></td>
+			<td>75</td>
+			<td>food</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1697">the black blade of disaster</a></td>
+			<td>115</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3032">the bleeder</a></td>
+			<td>125</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/3220">the candle of illumination</a></td>
+			<td>85</td>
+			<td>light</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/4406">the command of the Source</a></td>
+			<td>130</td>
+			<td>book</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/761">the crown of Vir</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4830">the fire key</a></td>
+			<td>89</td>
+			<td>key</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3392">the guildmaster's sash</a></td>
+			<td>168</td>
+			<td>container</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4183">the leggings of a young dragon</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5147">the protector of Vir</a></td>
+			<td>223</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/3083">the Rune ambassador's dispatch</a></td>
+			<td>80</td>
+			<td>parchment</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3143">the scythe of corruptors</a></td>
+			<td>185</td>
+			<td>weapon</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/4520">the teachings of the Source</a></td>
+			<td>130</td>
+			<td>book</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="house-key" /> <a href="/item/3089">the underside of a massive, complex key</a></td>
+			<td>10</td>
+			<td>house-key</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1127">the wings of Tiarmis</a></td>
+			<td>124</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3880">white hand wraps</a></td>
+			<td>220</td>
+			<td>armor</td>
+			<td><a href="/area/72">Vir</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Vir</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4123">A banquet guest</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3860">A black dragon statue</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2467">A bucket</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2684">A burly thug</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1776">A busy citizen</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1796">A busy maid</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3291">A chained guardian</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1816">A chanting priest</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5328">A comfortable resident</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1792">A common criminal</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3465">A crippled dracon prisoner</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1649">A dashing dancer</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3294">A decaying dracon</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3467">A defiant warrior</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3462">A despondent sidhe</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3461">A destitute halfling</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3309">A dracon apprentice</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1799">A dracon bather</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1817">A dracon fanatic</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1842">A dracon gate guard</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1756">A dracon hoodlum</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3308">A dracon miner</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1812">A dracon page</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1781">A drow ambassador</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4516">A drow assassin</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3460">A dust maid</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1780">A fey ambassador</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3456">A flustered servant</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4126">A golem sentinel</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1777">A gray bat</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1787">A guild thief</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3605">A handmaiden</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2462">A handmaiden-in-waiting</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1807">A housekeeper</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1769">A juvenile dracon</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1647">A kitchen drudge</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2464">A lady in waiting</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5268">A liveried servant</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1648">A lovely dancer</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3466">A mad dwarf</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3307">A magma beast</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5351">A meditating dracon</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1784">A nervous customer</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1786">A novice thief</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5100">A palace wizard</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3468">A personal masseuse</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1767">A pitiful beggar</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1768">A pitiful slave</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1773">A plump dracon</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1814">A poor dracon resident</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5900">A practice dummy</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1791">A quick thief</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5270">A royal baker</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1646">A royal cook</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4122">A royal guard</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5269">A royal guest</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1813">A scavenger</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1766">A scruffy mercenary</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4166">A shadow</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4124">A simpering servant</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1788">A skittering cockroach</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1754">A spy of Vir</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3463">A suffering minotaur</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3292">A summoned defender</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1815">A summoned glabrezu</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4515">A thief instructor</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4125">A tidy maid</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1793">A tired citizen</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3459">A tortured prisoner</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3464">A tortured spy</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3293">A translucent cube</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1794">A Vir town guard</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4165">A wandering wraith</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1778">A wealthy dracon resident</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1790">A worm</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1782">A young dracon</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5618">An academy instructor</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1760">An academy student</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1775">An albino rat</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1779">An ambassador of Lord Maldra</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1811">An ancient monk</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5196">An aspiring apprentice</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1797">An avaricious minotaur</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1806">An elderly dracon</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1803">An elite guard</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5855">An elite palace guard</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3458">An emaciated elf</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1789">An unhappy hobgoblin</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2461">Anthas, advisor to the queen</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2681">B'nal</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1757">Balanath, the dwarven barkeep</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2460">Belial, advisor to the queen</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2118">Beltrim, the fool</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3290">Beyonder, guardian of the source</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1809">Braeden</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1200">Cheldean the shopkeeper</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1805">Cyruss the blacksmith</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1772">Dastelia, the deli vendor</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3310">Deragaz, the metalsmith</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1761">Faedra, the herb vendor</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3470">Farquar, the ferret</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1785">Fil, the tattoo artist</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1771">Frassor, academy headmaster</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1808">Gleeb the junk collector</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1810">Grauloth, the postmaster</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1804">Illithuran, the music shopkeeper</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1762">Illitztralli</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1765">Kahlemaz, the harlot</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1763">Kahzeem, vendor of religious items</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1800">Korenna, vendor of sweets</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2458">Krandal, advisor to the queen</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1783">Lileen, the piercing artist</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1770">Marwin, academy secretary</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1798">Maurees</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1818">Meridel the cook</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1795">Naria</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5095">Neesa</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2683">Noelani, the concubine</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1755">Rastal the general store shopkeeper</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2399">Raviv the souvenir vendor</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3287">Rikko, sergeant of the elite guard</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5094">Shoehorn</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1801">Sith, the ice cream vendor</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1802">Skoritz</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2682">Tadeas, the criminal leader</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1774">The assistant cook</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3289">The Captain of the Vir Guard</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3457">The dungeon master</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2455">The master of agony</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3306">The mine foreman</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2457">Tinia, the Queen's pet dragon</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5693">Tiree, purveyor of exquisite flowers</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1758">Trigos, the manicurist</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2471">Vauldroth, the Kung Fu dracon</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2076">Vextrinas, Priestess of Fire</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2456">Viridis, Queen of Dracons</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1764">Vriztak, the banker</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1759">Waagz, the magic shopkeeper</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2459">Xerva, the fire wizard</a></td>
+		<td><a href="/area/72">Vir</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/15557">Gleeb's This N' That</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/15559">Implements of Destruction</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/15270">Pharmacy</a></td>
+		</tr>
+
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/15295">Great Vir Arena</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/26032">A Heat-Blasted Hallway</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26066">A Noise-Filled Hallway</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26028">A Scorched Landing</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26046">A Small Break Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26033">A Three-Way Intersection</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26043">Before an Iron Door</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26034">Bend in the Corridor</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26061">Bridge Over the Pit</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26027">Climbing Down the Tunnel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26047">Cramped Storage Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26062">East End of the Bridge</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26050">Foreman's Office</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/15296">Great Vir Arena</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26072">Inside the Forge</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26037">Path into the Pit</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/26077">Rim Encircling the Pit</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/26059">Unstable Portion of the Bridge</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/26091">In the Lava Pit</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/26044">A Small Break Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/15604">Entrance to the Refinery</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/15268">Healer's Room</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:16 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

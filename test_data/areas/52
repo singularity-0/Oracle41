@@ -1,0 +1,3145 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/52">Stock</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Stock</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Unknown</td>
+			<td>No</td>
+			<td></td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+
+<h3>Items in area Stock</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/257">a baguette</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6937">a bar of admantite</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/2632">a bar of copper</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/2634">a bar of electrum</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/2635">a bar of gold</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7291">a bar of mithril</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7665">a bar of octarine-gold</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/2636">a bar of palladium</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/2637">a bar of platinum</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/2633">a bar of silver</a></td>
+			<td>15</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1087">a batch of chocolate chip cookies</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2723">a battle axe</a></td>
+			<td>7</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/941">a beautiful crystal prism</a></td>
+			<td>10</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/112">a beautiful red rose</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/111">a beautiful white rose</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/186">a big pot pie</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/70">a black leather quiver</a></td>
+			<td>5</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/124">a black potion</a></td>
+			<td>15</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/7680">a blessed ankh of Dira</a></td>
+			<td>50</td>
+			<td>ankh</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/71">a blue leather quiver</a></td>
+			<td>30</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/97">a blue orb</a></td>
+			<td>15</td>
+			<td>orb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/252">a blueberry danish</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1431">a blueberry pie</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/8306">a boiled potato</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/127">a bottle of antidote</a></td>
+			<td>20</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/32">a bottle of beer</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/23">a bottle of Beltane red beer</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/29">a bottle of brandy</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/31">a bottle of cabernet</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/30">a bottle of cognac</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/34">a bottle of firebreather</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/35">a bottle of local specialty</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/36">a bottle of Lowangen's Finest</a></td>
+			<td>160</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/27">a bottle of sparkling champagne</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/26">a bottle of vodka</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/24">a bottle of white wine</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1708">a boulder</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/57">a bow</a></td>
+			<td>10</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/886">a bowl of beef stew</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2073">a bowl of chicken noodle soup</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2075">a bowl of clam chowder</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/8305">a bowl of frumenty</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/565">a box</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/611">a brassiere of power</a></td>
+			<td>25</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/256">a breadstick</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/6923">a bright ball of light</a></td>
+			<td>1</td>
+			<td>light</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6531">a bright green herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6535">a bright yellow herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5547">a bright, shiny red apple</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/3972">a brown leather quiver</a></td>
+			<td>175</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/242">a browning mandrake leaf</a></td>
+			<td>10</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/5570">a cattail</a></td>
+			<td>10</td>
+			<td>light</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7438">a certificate of achievement</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/397">a chain mail coif</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3391">a chicken's egg</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/251">a cinnamon roll</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent" /> <a href="/item/352">a clear focusing crystal</a></td>
+			<td>10</td>
+			<td>reagent</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/63">a club</a></td>
+			<td>10</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/610">a codpiece of power</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/450">a cold glass of milk</a></td>
+			<td>15</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/566">a copper lantern</a></td>
+			<td>10</td>
+			<td>light</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/3425">a crimson leather quiver</a></td>
+			<td>175</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/2086">a cup of cinnamon coffee</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/2085">a cup of tea</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/66">a dagger</a></td>
+			<td>12</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6526">a dark purple herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6522">a dark red herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/114">a diamond wedding ring</a></td>
+			<td>10</td>
+			<td>jewelry</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/7754">a faerie ring</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6530">a faint yellow herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/247">a feather from a roc</a></td>
+			<td>10</td>
+			<td>reagent-air</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/59">a flail</a></td>
+			<td>5</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent" /> <a href="/item/7286">a flint firestriker</a></td>
+			<td>6</td>
+			<td>reagent</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/7356">a fragment of obsidian</a></td>
+			<td>10</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/3344">a full-grown varia plant</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/7293">a geode</a></td>
+			<td>75</td>
+			<td>gem</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/7373">a geode</a></td>
+			<td>75</td>
+			<td>gem</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/28">a glass of champagne</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/21">a glass of chardonnay</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/293">a glass of spiced wine</a></td>
+			<td>20</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6527">a glimmering white herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6538">a glittering black herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/3341">a glossy black seed</a></td>
+			<td>10</td>
+			<td>seed</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1409">a gold wedding band</a></td>
+			<td>10</td>
+			<td>jewelry</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/378">a goria root</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="mortar-and-pestle" /> <a href="/item/366">a granite mortar and pestle</a></td>
+			<td>1</td>
+			<td>mortar-and-pestle</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/7620">a gray, weathered megalith</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/551">a green leather quiver</a></td>
+			<td>45</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/336">a greenish-yellow glass vial</a></td>
+			<td>30</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/61">a hand axe</a></td>
+			<td>10</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/41">a hard leather cap</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/42">a hard leather jerkin</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/330">a hardroll</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2087">a haunch of mutton</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3196">a heavy carpet of flying</a></td>
+			<td>60</td>
+			<td>furniture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/2100">a heavy oak staff</a></td>
+			<td>15</td>
+			<td>staff</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2088">a honey cake</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1957">a huge boulder</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/184">a hunk of cheese</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/333">a hunk of ground beef</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6684">a jar full of angry bees</a></td>
+			<td>128</td>
+			<td>trash</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/335">a juicy beef flank</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/7289">a jusquianus root</a></td>
+			<td>1</td>
+			<td>plant</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/1273">a large acorn</a></td>
+			<td>20</td>
+			<td>seed</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4159">a large hailstone</a></td>
+			<td>133</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/402">a large metal shield</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/328">a large torch</a></td>
+			<td>10</td>
+			<td>light</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent" /> <a href="/item/7287">a leaf pouch of acid</a></td>
+			<td>6</td>
+			<td>reagent</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/567">a leather backpack</a></td>
+			<td>5</td>
+			<td>container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/50">a leather belt</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/51">a leather bracer</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/47">a leather cap</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/49">a leather girdle</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/48">a leather jerkin</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="tool" /> <a href="/item/7518">a leather powder horn</a></td>
+			<td>5</td>
+			<td>tool</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/570">a leather water skin</a></td>
+			<td>1</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6525">a light blue herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/183">a loaf of bread</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="lockpick" /> <a href="/item/343">a lockpick</a></td>
+			<td>5</td>
+			<td>lockpick</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/398">a long chain mail skirt</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/393">a long scale mail skirt</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/64">a long sword</a></td>
+			<td>7</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/62">a mace</a></td>
+			<td>6</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6720">a magic mouth</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/6415">a magical fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/8324">a magical golden spring</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/8327">a magical golden spring</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/7548">a magical honey-colored spring</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/7621">a magical spring</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6537">a malevolent magenta herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/375">a mandrake root</a></td>
+			<td>20</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="map" /> <a href="/item/539">a map of Lowangen</a></td>
+			<td>30</td>
+			<td>map</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="map" /> <a href="/item/545">a map of New Rigel</a></td>
+			<td>5</td>
+			<td>map</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="map" /> <a href="/item/538">a map of Rune</a></td>
+			<td>1</td>
+			<td>map</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="map" /> <a href="/item/6962">a map of Sepharia</a></td>
+			<td>5</td>
+			<td>map</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="map" /> <a href="/item/540">a map of Sigil</a></td>
+			<td>1</td>
+			<td>map</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="map" /> <a href="/item/174">a map of Tellerium</a></td>
+			<td>1</td>
+			<td>map</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="map" /> <a href="/item/542">a map of Templeton</a></td>
+			<td>1</td>
+			<td>map</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="map" /> <a href="/item/543">a map of Vospire</a></td>
+			<td>10</td>
+			<td>map</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="map" /> <a href="/item/537">a map of Xaventry</a></td>
+			<td>10</td>
+			<td>map</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/629">a motion bomb trap kit</a></td>
+			<td>10</td>
+			<td>trap-kit</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2076">a mutton pot pie</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6976">a New Rigelian dagger</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/255">a nice piranha filet</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/2090">a nightshade mushroom</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/569">a normal ration</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/504">a page of parchment</a></td>
+			<td>6</td>
+			<td>parchment</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/400">a pair of chain mail gauntlets</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/401">a pair of chain mail sleeves</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/39">a pair of hard leather boots</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/38">a pair of hard leather gloves</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/40">a pair of hard leather pants</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/37">a pair of hard leather sleeves</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/399">a pair of iron-bound boots</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/44">a pair of leather gloves</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/46">a pair of leather pants</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/43">a pair of leather sleeves</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4490">a pair of platinum shinguards</a></td>
+			<td>220</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/394">a pair of reinforced boots</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/395">a pair of reinforced gloves</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/396">a pair of scale mail sleeves</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6529">a pale blue herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2170">a peanut butter cookie</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1433">a pecan pie</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="sextant" /> <a href="/item/96">a pewter sextant</a></td>
+			<td>60</td>
+			<td>sextant</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7297">a piece of edible cactus</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1025">a pile of bones</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/245">a pinch of sulfur</a></td>
+			<td>10</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/476">a plain ankh</a></td>
+			<td>50</td>
+			<td>ankh</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/887">a plate of roast beef and potatoes</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1520">a plum</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/630">a poison needle trap kit</a></td>
+			<td>10</td>
+			<td>trap-kit</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="stamp" /> <a href="/item/505">a postage stamp</a></td>
+			<td>5</td>
+			<td>stamp</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/123">a potion of armor</a></td>
+			<td>20</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/126">a potion of cure blindness</a></td>
+			<td>20</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/125">a potion of cure critical wounds</a></td>
+			<td>25</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/130">a potion of cure light wounds</a></td>
+			<td>15</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/129">a potion of cure serious wounds</a></td>
+			<td>20</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/492">a potion of detect illusion</a></td>
+			<td>70</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2112">a potion of haste</a></td>
+			<td>15</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/121">a potion of levitation</a></td>
+			<td>25</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/122">a potion of negation</a></td>
+			<td>30</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/3815">a potion of refresh</a></td>
+			<td>15</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/128">a potion of sanctuary</a></td>
+			<td>20</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2619">a potion of surprise</a></td>
+			<td>150</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/120">a potion of true sight</a></td>
+			<td>25</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2467">a prime rib</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6539">a pulsating orange herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/8087">a purple potion</a></td>
+			<td>30</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="writing-instrument" /> <a href="/item/404">a quill pen</a></td>
+			<td>6</td>
+			<td>writing-instrument</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/550">a red leather quiver</a></td>
+			<td>75</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6524">a reddish herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/484">a ripe kiwi</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2765">a ripe orange</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2043">a roast chicken</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/392">a scale mail coif</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/391">a scale mail jerkin</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6532">a shimmering copper herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/246">a shimmering white fish scale</a></td>
+			<td>10</td>
+			<td>reagent-water</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/22">a shot of whiskey</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="ammunition-pouch" /> <a href="/item/7519">a shoulder-sack of aerodynamic pebbles</a></td>
+			<td>10</td>
+			<td>ammunition-pouch</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/3281">a silver leather quiver</a></td>
+			<td>160</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/353">a silver runestone</a></td>
+			<td>10</td>
+			<td>gem</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6523">a silvery herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/345">a skin full of lamb's blood</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4212">a small acid bomb</a></td>
+			<td>241</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4503">a small acid bomb</a></td>
+			<td>60</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7375">a small amount of edible moss</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4216">a small bomb</a></td>
+			<td>241</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4487">a small bomb</a></td>
+			<td>60</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/563">a small canvas bag</a></td>
+			<td>5</td>
+			<td>container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/338">a small flash bomb</a></td>
+			<td>30</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4505">a small flash bomb</a></td>
+			<td>60</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7077">a small flash bomb</a></td>
+			<td>241</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4213">a small ice bomb</a></td>
+			<td>241</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4214">a small lightning bomb</a></td>
+			<td>241</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4504">a small lightning bomb</a></td>
+			<td>60</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/1260">a small negation bomb</a></td>
+			<td>241</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/2608">a small orb made of bone</a></td>
+			<td>70</td>
+			<td>orb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/1000">a small piece of hematite</a></td>
+			<td>1</td>
+			<td>ore</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4217">a small poison bomb</a></td>
+			<td>241</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4486">a small poison bomb</a></td>
+			<td>60</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/337">a small smoke bomb</a></td>
+			<td>30</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/65">a small sword</a></td>
+			<td>10</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/403">a small wooden shield</a></td>
+			<td>10</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5362">a snare trap</a></td>
+			<td>240</td>
+			<td>trash</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/631">a snare trap kit</a></td>
+			<td>10</td>
+			<td>trap-kit</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6534">a sparkling gold herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/60">a spear</a></td>
+			<td>5</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/515">a spellbook bound in blue leather</a></td>
+			<td>55</td>
+			<td>spellbook</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/2092">a spellbook bound in green leather</a></td>
+			<td>45</td>
+			<td>spellbook</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/360">a spellbook bound in red leather</a></td>
+			<td>15</td>
+			<td>spellbook</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/219">a spellbook bound in white leather</a></td>
+			<td>1</td>
+			<td>spellbook</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/2093">a spellbook bound in yellow leather</a></td>
+			<td>35</td>
+			<td>spellbook</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/374">a sprig of celidonia</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/373">a sprig of centaures</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/372">a sprig of eliotropia</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/371">a sprig of jusquianus</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/1291">a sprig of lillium</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/592">a sprig of lingua canis</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/370">a sprig of mepeta</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/1292">a sprig of milisopholos</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/141">a sprig of provinca</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/369">a sprig of queri</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/1039">a sprig of rosa</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/1290">a sprig of salvia</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/1898">a sprig of sedum rosea</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/1037">a sprig of serpentina</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/367">a sprig of urtica</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/1289">a sprig of usicur</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/368">a sprig of verbena</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="herb" /> <a href="/item/1038">a sprig of virga pastoris</a></td>
+			<td>1</td>
+			<td>herb</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1138">a steamed lobster</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1689">a steaming puddle of vomit</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/342">a stick of dynamite</a></td>
+			<td>10</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6533">a sticky magenta herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/33">a stout of ale</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/377">a strange red fruit</a></td>
+			<td>15</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1434">a strawberry pie</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/334">a string of pork sausage</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/562">a strong oaken box</a></td>
+			<td>15</td>
+			<td>container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/354">a summoning stone</a></td>
+			<td>1</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/362">a sunstone</a></td>
+			<td>10</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/359">a swirling black potion</a></td>
+			<td>20</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/361">a swirling green potion</a></td>
+			<td>15</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2858">a swirling silver potion</a></td>
+			<td>50</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/2427">a swirling silver potion</a></td>
+			<td>100</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/5788">a swirling silver potion</a></td>
+			<td>175</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/331">a T-bone steak</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1274">a tall moon oak tree</a></td>
+			<td>25</td>
+			<td>furniture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/3901">a tarot card</a></td>
+			<td>150</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/253">a tender turnip</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/340">a throwing knife</a></td>
+			<td>5</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/3191">a tightly-rolled scroll</a></td>
+			<td>15</td>
+			<td>parchment</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2367">a torch</a></td>
+			<td>5</td>
+			<td>light</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/628">a tranquilizer needle trap kit</a></td>
+			<td>10</td>
+			<td>trap-kit</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1140">a tuna steak</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/339">a vial of exploding oil</a></td>
+			<td>5</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/1441">a vial of flame sauce</a></td>
+			<td>20</td>
+			<td>explosive</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1026">a vial of holy water</a></td>
+			<td>20</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/9">a vial of lamp oil</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/479">a vial of unblessed water</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/131">a violet potion</a></td>
+			<td>10</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/358">a wand of magic darts</a></td>
+			<td>10</td>
+			<td>wand</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6536">a warm blue herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/6528">a warm brown herbal mixture</a></td>
+			<td>0</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/627">a warning bell trap kit</a></td>
+			<td>10</td>
+			<td>trap-kit</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/254">a waybread</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1115">a weathered hitching post</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/3723">a white leather quiver</a></td>
+			<td>125</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/477">a white lily</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1166">a whole chicken</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3390">a whole pig</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/176">a wood and iron spade</a></td>
+			<td>5</td>
+			<td>spade</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/69">a wooden lance</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/58">a wooden staff</a></td>
+			<td>5</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7374">a yellow banana</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1523">a yellow banana</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/2502">a yellow leather quiver</a></td>
+			<td>165</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1442">a yellow potion</a></td>
+			<td>10</td>
+			<td>potion</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/7350">a young moon oak sapling</a></td>
+			<td>25</td>
+			<td>seed</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/3343">a young varia plant</a></td>
+			<td>10</td>
+			<td>seed</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/7238">a young, low-slung tree</a></td>
+			<td>25</td>
+			<td>seed</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/6870">an action figure of the legendary LEGEND</a></td>
+			<td>30</td>
+			<td>figurine</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="trap-kit" /> <a href="/item/7564">an anaphylaxis trap kit</a></td>
+			<td>10</td>
+			<td>trap-kit</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="telescope" /> <a href="/item/1016">an antique bronze telescope</a></td>
+			<td>120</td>
+			<td>telescope</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/329">an apple pie</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/2061">an apple tree</a></td>
+			<td>60</td>
+			<td>plant</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1521">an avocado</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/486">an ear of corn</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/link.png" width="13" height="13" alt="transmitter" /> <a href="/item/6248">an enchanted mirror</a></td>
+			<td>10</td>
+			<td>transmitter</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/8307">an entire fried bass</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/anchor.png" width="13" height="13" alt="resource" /> <a href="/item/5589">an ingot of gold ore</a></td>
+			<td>1</td>
+			<td>resource</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2813">an iron bracer</a></td>
+			<td>18</td>
+			<td>armor</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="pick-axe" /> <a href="/item/175">an iron pick axe</a></td>
+			<td>5</td>
+			<td>pick-axe</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/568">an iron ration</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/344">an iron throwing axe</a></td>
+			<td>10</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/341">an oak stake</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/3422">an octarine leather quiver</a></td>
+			<td>180</td>
+			<td>quiver</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/2060">an orange tree</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/132">an orb of Vandemaar</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3011">an orb of Vandemaar</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7111">an orb of Vandemaar</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/376">an orris root</a></td>
+			<td>15</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/link.png" width="13" height="13" alt="portal" /> <a href="/item/209">an oval energy portal</a></td>
+			<td>10</td>
+			<td>portal</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/25">Maldra's specialty</a></td>
+			<td>20</td>
+			<td>drink-container</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3286">pieces of a shattered boulder</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/332">pork chops</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1141">scallops</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/250">several juicy clams</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1139">snapper fillets</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/2089">some blood moss</a></td>
+			<td>15</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/379">some bluish herbs</a></td>
+			<td>15</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7288">some edible seaweed</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/381">some grayish herbs</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/382">some orangish herbs</a></td>
+			<td>11</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/485">some red grapes</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/380">some reddish herbs</a></td>
+			<td>13</td>
+			<td>pill</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2074">steamed pudding</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7703">the arm of %s</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/7702">the head of %s</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7701">the leg of %s</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7704">the tail of %s</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7705">the wing of %s</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2529">the worldgate</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/8206">the wreckage of a ship</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/52">Stock</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Stock</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6114">A coyote totem</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/449">A cyclonic column of air</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5330">A deadly rattlesnake</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6185">A djinn slavewarden</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3680">A ferocious dragon wolf</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5087">A fierce rakshasa</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/448">A fire elemental</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5915">A fire mephit</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3760">A friendly gray dolphin</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3686">A large black bat</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3242">A large black dog</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/493">A large black rat</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3036">A large clay golem</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3507">A large yellow wasp</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3243">A medium-sized skunk</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2678">A shadow golem</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2677">A shadow imp</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4375">A small, red-tailed fox</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/450">A water sprite</a></td>
+		<td><a href="/area/52">Stock</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:12 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

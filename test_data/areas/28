@@ -1,0 +1,1388 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/28">Irda Isle</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Irda Isle</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1300, 688) in Alyria</td>
+			<td>No</td>
+			<td>Isle</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>some dangerous looking reefs surrounding a mountainous island</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1300, 688]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1300, 688],
+		className: 'textpointer',
+		html: "Irda Isle",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(28, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1300&y=688&plane=1&zoom=4">View Irda Isle on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Irda Isle</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4272">a bag of bits o fish</a></td>
+			<td>30</td>
+			<td>food</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8441">a Baron's brosh</a></td>
+			<td>1</td>
+			<td>treasure</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8385">a Baron's kippo</a></td>
+			<td>1</td>
+			<td>treasure</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8384">a Baron's kottke</a></td>
+			<td>1</td>
+			<td>treasure</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8386">a Baron's shmekzel</a></td>
+			<td>1</td>
+			<td>treasure</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/2610">a bit of condensed cloud</a></td>
+			<td>10</td>
+			<td>reagent-air</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2831">a Bloodbane Family ring</a></td>
+			<td>120</td>
+			<td>jewelry</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3590">a bracer of destruction <span class="red">[OS]</span></a></td>
+			<td>140</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/7016">a bracer of destruction</a></td>
+			<td>140</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1110">a bright colored fishing lure</a></td>
+			<td>20</td>
+			<td>trash</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6201">a bubbling hot tub</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2602">a castle city dagger</a></td>
+			<td>31</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2601">a dagger of thievery</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8341">a demon pirhana's fierce jaw</a></td>
+			<td>157</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5387">a demon's tooth</a></td>
+			<td>110</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1151">a demonhide cloak</a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/3030">a diamond gemstone</a></td>
+			<td>10</td>
+			<td>warp-stone</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4026">a dragon bone ring</a></td>
+			<td>200</td>
+			<td>jewelry</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4021">a dragon jaw helmet</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5139">a dragon's claw</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4300">a faded blue sash</a></td>
+			<td>240</td>
+			<td>clothing</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2604">a flaming broadsword</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/3840">a fragmentation bomb</a></td>
+			<td>81</td>
+			<td>explosive</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/1218">a gem of Ithrilis</a></td>
+			<td>241</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3744">a griffon mane helmet</a></td>
+			<td>190</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4925">a grinning skull</a></td>
+			<td>15</td>
+			<td>trash</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5551">a large oriental rug</a></td>
+			<td>15</td>
+			<td>trash</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2116">a man-sized fish hook</a></td>
+			<td>103</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/2609">a marble orb of protection</a></td>
+			<td>60</td>
+			<td>orb</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6202">a painting of Caeser's</a></td>
+			<td>15</td>
+			<td>trash</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2605">a pair of demon boots</a></td>
+			<td>160</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2603">a pair of demonscale leggings</a></td>
+			<td>160</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3136">a pair of green dragonscale sleeves</a></td>
+			<td>220</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/2611">a piece of dragon gizzard</a></td>
+			<td>10</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5366">a ram's head symbol</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/2612">a roughly hewn gem</a></td>
+			<td>10</td>
+			<td>gem</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2534">a rust covered sword</a></td>
+			<td>15</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2615">a satanic key</a></td>
+			<td>60</td>
+			<td>key</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/690">a set of overlord armor</a></td>
+			<td>190</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/956">a shadow dagger</a></td>
+			<td>110</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/508">a small golden feather</a></td>
+			<td>20</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3903">a small stone key</a></td>
+			<td>40</td>
+			<td>key</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1106">a statue of the overlord</a></td>
+			<td>15</td>
+			<td>furniture</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5344">a suicide contraption</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2598">a suit of castle combat armor</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/3441">a summoning pentagram</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2600">a sword of demonslaying</a></td>
+			<td>130</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4921">a tornado amulet</a></td>
+			<td>150</td>
+			<td>jewelry</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4320">a tornado bracelet</a></td>
+			<td>150</td>
+			<td>jewelry</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/2613">a vial of rose water</a></td>
+			<td>15</td>
+			<td>reagent-water</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/6456">a wooden trough</a></td>
+			<td>20</td>
+			<td>fountain</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/3128">an ambrodian flower</a></td>
+			<td>10</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4822">an ancient statue</a></td>
+			<td>15</td>
+			<td>trash</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6441">an incredibly ugly statue</a></td>
+			<td>15</td>
+			<td>furniture</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1108">an intricately carved fountain</a></td>
+			<td>15</td>
+			<td>fountain</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5633">an ivy-covered key</a></td>
+			<td>40</td>
+			<td>key</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4924">some old bones</a></td>
+			<td>15</td>
+			<td>trash</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6200">the altar of the Mad Overlord</a></td>
+			<td>15</td>
+			<td>furniture</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/4319">the aura of destruction</a></td>
+			<td>199</td>
+			<td>light</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1883">the Bloodbane combat gloves</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1938">the leggings of an elder dragon</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1889">the mighty sword of Bloodbane</a></td>
+			<td>201</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2599">the Overlord's helm</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2614">the Overlord's necklace of protection</a></td>
+			<td>200</td>
+			<td>jewelry</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2596">the skull of Riga</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="statue" /> <a href="/item/6821">the statue of a girl riding a pony</a></td>
+			<td>10</td>
+			<td>statue</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1183">the True Excalibur</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/28">Irda Isle</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Irda Isle</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3811">A battle hardened adventurer</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1323">A blacksmith</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3708">A blind witch</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1308">A brown spotted hawk</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1326">A busy servant</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1334">A castle advisor</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1310">A castle citizen</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1314">A castle peasant</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3150">A crazy hermit</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4266">A deadly aboleth</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4542">A deadly ghost hawk</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4922">A demon piranha</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4923">A doomweaver</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4572">A dragon spider</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1307">A dragonfly</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1316">A dusty child</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1320">A dusty traveler</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1319">A false prophet</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4269">A fierce water elemental</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4270">A fierce wind elemental</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3096">A ghostly child</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1330">A greater demon</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3814">A grizzled old merchant</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1324">A guest</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4920">A hellbent demon</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3709">A hungry wolf</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3705">A large deer</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1305">A lynx</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1339">A mama dragon</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4926">A massive leviathan</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4921">A minolar mind-slug</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4925">A mutant alligator</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1325">A palace functionary</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1329">A palace servant</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1312">A receptionist</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1327">A seasoned explorer</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4924">A shadowspawn</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1337">A small baby dragon</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3704">A small groundhog</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1303">A small horse</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1338">A small magical owl</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3706">A small rabbit</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1304">A stable boy</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1328">A stupid peon</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4267">A tornado spirit</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6243">A towering hellbent demon</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3707">A unicorn</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3703">A vicious mountain cat</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1302">A viper plant</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1313">A wandering castle guard</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1309">A war pig</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3702">A werewolf scout</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1318">An aging postmaster</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3713">An angry ghost</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4927">An angry nymph</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4271">An animated skeleton</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4268">An electric eel</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1333">An elite guard</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1306">An iguana</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3714">An undead mayor</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1336">Chives</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1315">Fain Flinn</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3712">Fisherman Joe</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5696">Franz</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1331">Mava</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4485">Nyno'Hoj Sepedlaep</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1317">Talam</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1321">Tallon</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1332">The Baron Simon Bloodbane</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3474">The Lady of the Lake</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5620">The statue of Ithrilis</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1335">The true cleric</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1322">Thelme</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1311">Ug</a></td>
+		<td><a href="/area/28">Irda Isle</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/16833">A Small Stable</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16910">At the Courtyard Fountain</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16830">Inside the Stables</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16831">The Stable Boy's Room</a></td>
+		</tr>
+
+<tr><td><strong>Locker</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/16836">Safety's Lockers</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/16920">An Apothecary's Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16843">The Castle Bakery</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16915">The Chipped Anvil</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16918">The Dented Breastplate</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16917">The Rusty Blade</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17304">A Small Grassy Plateau</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17302">Climbing a Small Pass</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16931">Standing in the Massive Throne Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17297">The Castle Moat</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/16944">ARGHH!!! LANDSLIDE!!!!!</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17296">Before the Waterfall</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17064">In the Valley lake</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28994">The Makeshift Headquarters of the Slayer Army</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/16920">An Apothecary's Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/16897">The Castle Treasury</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/16923">The Temple of the Mad Overlord</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/16923">The Temple of the Mad Overlord</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:03 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

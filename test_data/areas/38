@@ -1,0 +1,875 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/38">Mandrake Woods</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Mandrake Woods</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(655, 365) in Alyria</td>
+			<td>Yes</td>
+			<td>Forest</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the ancient trees of Mandrake Woods</em>.</td>
+		</tr>
+				<tr>
+			<td colspan="3">Everyone, please, calm down. On the vmap, the building south of the entrance to Mandrake Woods represents Shadow Castle.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([655, 365]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [655, 365],
+		className: 'textpointer',
+		html: "Mandrake Woods",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(38, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=655&y=365&plane=1&zoom=4">View Mandrake Woods on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Mandrake Woods</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/3702">a blank scroll</a></td>
+			<td>15</td>
+			<td>parchment</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4601">a blazing campfire</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/8313">a bone parashu's shaft</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/3684">a charred sliver of wood</a></td>
+			<td>25</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/3699">a choker vine</a></td>
+			<td>200</td>
+			<td>plant</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/624">a dark green druid's robe</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5337">a grinning human skull</a></td>
+			<td>25</td>
+			<td>artifact</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3701">a head-shaped juicer</a></td>
+			<td>241</td>
+			<td>container</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8500">a hefty, sharpened tree branch</a></td>
+			<td>33</td>
+			<td>weapon</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/920">a long skinning knife</a></td>
+			<td>75</td>
+			<td>weapon</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3681">a long, sharp stick</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2472">a primitive stone club</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3682">a rotten old tree branch</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/7698">a rusty prison key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6190">a scented apple</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/922">a shining silver lance</a></td>
+			<td>75</td>
+			<td>weapon</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6189">a small pile of bones</a></td>
+			<td>25</td>
+			<td>trash</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8352">a small wooden bridge</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5603">a small wooden bridge</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/3680">a smooth river rock</a></td>
+			<td>25</td>
+			<td>reagent-water</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/2145">a sprig of medicinal herbs</a></td>
+			<td>25</td>
+			<td>pill</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3683">a steel longsword</a></td>
+			<td>75</td>
+			<td>weapon</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5728">a tall tree with low branches</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/8514">a wolverinepelt cloak</a></td>
+			<td>185</td>
+			<td>armor</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4409">an elven ring</a></td>
+			<td>65</td>
+			<td>jewelry</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/655">an iron key</a></td>
+			<td>15</td>
+			<td>key</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/3689">an oak leaf</a></td>
+			<td>25</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/8515">sharpened wolverine claws</a></td>
+			<td>183</td>
+			<td>armor</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8335">the bridge guardian's trollwhacker</a></td>
+			<td>80</td>
+			<td>weapon</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2471">the hide of a stone troll</a></td>
+			<td>45</td>
+			<td>armor</td>
+			<td><a href="/area/38">Mandrake Woods</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Mandrake Woods</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3920">A black wolf</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3910">A blue-banded hawk</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4184">A bronze gelding</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2675">A crazed elderly man</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3796">A dracon shaman</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3918">A dryad of the forest</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3377">A female forest troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3105">A fey pharmacist</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3916">A fire salamander</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3371">A flying squirrel</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3917">A forest troll cub</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3375">A giant forest troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3919">A giant water troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3912">A giant, multicolored butterfly</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4186">A gigantic stone troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3372">A grey fox</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3471">A grim ranger</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3911">A harmless garter snake</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4185">A large stone troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3922">A living thornbush</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3369">A long-eared bat</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3380">A male forest troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3436">A mountain imp</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2632">A powerful human barbarian</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3434">A screech owl</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3381">A shambling forest troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5194">A silver-maned stallion</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3379">A skeletal warrior</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3378">A small forest troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3373">A small raccoon</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3376">A timid brown rabbit</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3384">A tiny forest troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6295">A tiny wolverine kit</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3890">A tired elven paladin</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3382">A water sprite</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3383">A water troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3435">A wild mountain lion</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3679">A withered, mummified skeleton</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3385">A young white-tailed deer</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3923">An ancient druid</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3913">An arboreal troll</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3921">An elusive will o'wisp</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3748">Glamdrung, father of all trolls</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6296">The feral wolverine mother</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3374">The firebrat</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3370">The forest wight</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3914">The guardian of the bridge</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3915">The lurking tree</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4183">The two-headed ettin</a></td>
+		<td><a href="/area/38">Mandrake Woods</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/11001">A Large Trollish Cavern</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11003">A Rather Small Cave</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/11002">A Small Tunnel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11005">A Small, Dark Cave</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/10992">Entrance to a Large Trollish Cavern</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/20878">A Cramped Prison Cell</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/2747">The Abandoned Campsite</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/2556">A Small Forest Path</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:05 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

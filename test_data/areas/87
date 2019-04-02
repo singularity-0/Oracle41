@@ -1,0 +1,783 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/87">Verity Isle</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Verity Isle</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Unknown</td>
+			<td>No</td>
+			<td></td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+
+<h3>Items in area Verity Isle</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5676">a broken arrow</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/6839">a burbling brook</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4133">a cactus flower</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/4140">a cloud fragment</a></td>
+			<td>5</td>
+			<td>reagent-air</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/4148">a clump of crimson moss</a></td>
+			<td>5</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6837">a crocodile tooth</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4080">a fallen branch</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6832">a fallen vine</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/4135">a firefly lantern</a></td>
+			<td>5</td>
+			<td>light</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/4082">a fragment of amethyst</a></td>
+			<td>5</td>
+			<td>gem</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4138">a goose feather</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/6831">a goria root</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4141">a green toadstool</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6833">a lily pad</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4146">a melting snowball</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4144">a mushroom</a></td>
+			<td>7</td>
+			<td>food</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4131">a piece of a statue</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6834">a rotting tree branch</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4145">a shard of broken glass</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4147">a sharp icicle</a></td>
+			<td>5</td>
+			<td>weapon</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4142">a skeletal finger</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4137">a spiral shell</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6838">a swamp weed</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4086">a thorny plant</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6835">a torn piece of cloth</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/4088">a vial of goat's blood</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/4085">a volcanic rock</a></td>
+			<td>5</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4134">a voodoo rock</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6836">a wagon wheel</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4139">an ariel feather</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4132">an edible root</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4136">an oak leaf</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/4150">some blackish herbs</a></td>
+			<td>19</td>
+			<td>pill</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/4152">some bluish herbs</a></td>
+			<td>15</td>
+			<td>pill</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/4151">some grayish herbs</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4143">some purple berries</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/4149">some purplish herbs</a></td>
+			<td>15</td>
+			<td>pill</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/4153">some reddish herbs</a></td>
+			<td>13</td>
+			<td>pill</td>
+			<td><a href="/area/87">Verity Isle</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Verity Isle</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2545">A bald eagle</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2543">A basalt golem</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2555">A centaur mercenary</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2553">A cyclops berserker</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2544">A cyclops bounty hunter</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3423">A dark gnome</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3414">A fey druid</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3415">A foul minion</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3418">A frost giant</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3421">A gargoyle assassin</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2554">A granite golem</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3422">A hideous gorgon</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3417">A hideous hydra</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5636">A lake kraken</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5233">A mighty roc</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3430">A minotaur nomad</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2556">A mountain lion</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5234">A mud golem</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3413">A rabid wolf</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5638">A rusalki maiden</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3431">A sand wyrm</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5637">A savage kelpie</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3425">A skeletal pegasus</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5635">A swamp leech</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2546">A swamp wyrm</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2547">A venomous lurker</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3432">A wailing banshee</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3420">A werepenguin</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3419">A white phoenix</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3336">An animated yew</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3429">An ariel archer</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3416">An ariel elder</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3426">An ariel necromancer</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3424">An ariel skyknight</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3428">An ariel warlord</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3427">An illusionary falcon</a></td>
+		<td><a href="/area/87">Verity Isle</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:19 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

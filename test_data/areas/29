@@ -1,0 +1,1053 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/29">Irda Isle Caverns</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Irda Isle Caverns</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Within <a href="/area/28">Irda Isle</a>.</td>
+			<td>No</td>
+			<td></td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1300, 688]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1300, 688],
+		className: 'textpointer',
+		html: "Irda Isle Caverns",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(29, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1300&y=688&plane=1&zoom=4">View Irda Isle Caverns on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Irda Isle Caverns</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3550">a battle master's ring</a></td>
+			<td>65</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ward" /> <a href="/item/4449">a binding pendant against darkness</a></td>
+			<td>180</td>
+			<td>ward</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4049">a blood covered key</a></td>
+			<td>30</td>
+			<td>key</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2892">a bloody hunk of arm</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5144">a bloody meat cleaver</a></td>
+			<td>190</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8401">a brute guard's pike</a></td>
+			<td>208</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3069">a castle forged sword</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/5007">a dark prayer book</a></td>
+			<td>60</td>
+			<td>spellbook</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/7749">a faerie fetish</a></td>
+			<td>229</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5343">a faerie's fetish</a></td>
+			<td>230</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3816">a feathered cage key</a></td>
+			<td>50</td>
+			<td>key</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5163">a fey's favorite fetish</a></td>
+			<td>227</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5038">a fey's fetish</a></td>
+			<td>221</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5165">a fey's wrist guard</a></td>
+			<td>224</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5162">a fey's wristguard</a></td>
+			<td>222</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4264">a hollow-edge kudamono parer</a></td>
+			<td>194</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2891">a hunk of bloody meat</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/5609">a large crate</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/721">a large dwarven war axe</a></td>
+			<td>70</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1404">a large emerald</a></td>
+			<td>30</td>
+			<td>treasure</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="money" /> <a href="/item/4321">a large pile of gold</a></td>
+			<td>1</td>
+			<td>money</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/4271">a large pile of ore</a></td>
+			<td>25</td>
+			<td>ore</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1107">a pile of rags</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1105">a pile of rope</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2385">a razor claw sword</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3641">a ring of sublime evil</a></td>
+			<td>80</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2890">a rotting slab of beef</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3429">a shadow axe</a></td>
+			<td>200</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3642">a slave masters whip</a></td>
+			<td>80</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3643">a small bracer</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="statue" /> <a href="/item/7073">a small statue of Azathoth</a></td>
+			<td>120</td>
+			<td>statue</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/818">a sword named Stormchyld</a></td>
+			<td>210</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3644">a whirlpool beast's scale</a></td>
+			<td>40</td>
+			<td>armor</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4612">a wristguard belonging to a fey</a></td>
+			<td>223</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3070">dark paladin armor</a></td>
+			<td>40</td>
+			<td>armor</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/3743">some iron ore</a></td>
+			<td>20</td>
+			<td>ore</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/4278">the ankh of malevolent shadows</a></td>
+			<td>240</td>
+			<td>ankh</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1119">the belt of the master craftsman</a></td>
+			<td>200</td>
+			<td>clothing</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2894">the dark paladin's sword</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4894">the favorite fetish of a fey</a></td>
+			<td>228</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2896">the hammer of Klin</a></td>
+			<td>200</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3067">the mighty sword of azathoth</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/3415">the orb of Raymatus</a></td>
+			<td>240</td>
+			<td>artifact</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/800">the shield of war</a></td>
+			<td>210</td>
+			<td>armor</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5384">the wrist guard of a fey</a></td>
+			<td>226</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5164">the wristguard of a fey</a></td>
+			<td>225</td>
+			<td>jewelry</td>
+			<td><a href="/area/29">Irda Isle Caverns</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Irda Isle Caverns</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2838">A blacksmith apprentice</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2911">A bored guard</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2909">A brawny guard</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2834">A captain</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2921">A chef's apprentice</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1748">A dark paladin</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3750">A dark priest</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1979">A dark spirit</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1879">A deadly giant roc</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2913">A digger slug</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1744">A dread combat mage</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2912">A drow slave</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2840">A dwarf Battlemaster</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1747">A dwarf guard</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1978">A fierce tunnel guard</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2835">A general's advisor</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1961">A high priest of Azathoth</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3751">A huge whirlpool beast</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2926">A large minolar mind slug</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2908">A minotaur slave</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2918">A mud gnome</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2920">A noble slave</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5906">A patrolling guard</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2914">A perky soldier</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2907">A pitiful slave</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5901">A practice dummy</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1746">A sly guard</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2923">A small cave scavenger</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2839">A soot covered slave</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1749">A souless minion</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1745">A swordsman</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2915">A tired soldier</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6217">A tough-looking dwarf guard</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2919">A troll slave</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2924">A wandering soldier</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1980">A wraith of a Master Paladin</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3799">An elite sorcerer</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2910">An evil looking sorcerer</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3321">An evil statue of Azathoth</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3800">An evil wizard</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4413">An imprisoned artificer</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2917">An insane vampire</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2837">An ogre slave master</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2836">An ogre soldier</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2833">Chef Pierre</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2925">Harrold the animal keeper</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2841">Klin the blacksmith</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2916">The Lieutenent</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3322">The mighty balrog, Azathoth</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2922">The Mighty General Feren</a></td>
+		<td><a href="/area/29">Irda Isle Caverns</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17111">A Black Aisle</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17105">A Dimly Lit Corridor</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17079">A Dust Covered Tunnel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/27565">A Narrow Secret Tunnel</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/27558">A Narrow Tunnel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/27555">A Small Altar</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17117">A Small Hallway</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/27554">A Small Secret Tunnel</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/27572">An Emergency Supply Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17106">An Evil Intersection</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/27556">An Intersection at the Tunnel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/27559">An Intersection in the Tunnel</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17112">Before the Black Altar</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/17131">On a Small Stairwell</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/17135">On the Balcony</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17113">The Pagan Altar</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17263">A Cavernous Entrance</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/17263">A Cavernous Entrance</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:04 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

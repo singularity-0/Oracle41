@@ -1,0 +1,1657 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/5">Catacombs of Shame</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Catacombs of Shame</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Within <a href="/area/57">Templeton</a>.</td>
+			<td>No</td>
+			<td></td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1630, 536]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1630, 536],
+		className: 'textpointer',
+		html: "Catacombs of Shame",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(5, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1630&y=536&plane=1&zoom=4">View Catacombs of Shame on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Catacombs of Shame</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7146">a black orb</a></td>
+			<td>190</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6944">a blue orb</a></td>
+			<td>190</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/8205">a bone</a></td>
+			<td>150</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3823">a breastplate of life</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3289">a broadshield of the crusader</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7145">a brown orb</a></td>
+			<td>190</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/975">a buckler</a></td>
+			<td>160</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/3250">a bull's horn</a></td>
+			<td>150</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1935">a butcher's axe</a></td>
+			<td>230</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/757">a chaos boomerang</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7122">a clear orb</a></td>
+			<td>190</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/3794">a dark violet prayer book</a></td>
+			<td>150</td>
+			<td>spellbook</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1937">a death mask</a></td>
+			<td>210</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3097">a decorative helmet</a></td>
+			<td>180</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/4407">a dilated, blue eyeball</a></td>
+			<td>25</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3700">a fey blade</a></td>
+			<td>150</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3584">a fireband</a></td>
+			<td>160</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/986">a flail of persecution</a></td>
+			<td>190</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/6256">a fountain of blood</a></td>
+			<td>5</td>
+			<td>fountain</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1118">a headband of Tame <span class="red">[OS]</span></a></td>
+			<td>225</td>
+			<td>clothing</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3688">a headband of Tame</a></td>
+			<td>225</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/4200">a hunk of rotting flesh</a></td>
+			<td>239</td>
+			<td>amulet</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4532">a magic wand</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3678">a magical cape</a></td>
+			<td>240</td>
+			<td>clothing</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="manual" /> <a href="/item/4940">a manual of 'chain lightning'</a></td>
+			<td>241</td>
+			<td>manual</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/4002">a monk's candle</a></td>
+			<td>185</td>
+			<td>light</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3882">a pair of spurred steel sabotons</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4643">a pearl yo-yo</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6896">a phased orb</a></td>
+			<td>190</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6739">a piece of mirror</a></td>
+			<td>10</td>
+			<td>jewelry</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3194">a piece of mirror</a></td>
+			<td>10</td>
+			<td>jewelry</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7124">a rainbow orb</a></td>
+			<td>190</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4331">a red orb</a></td>
+			<td>190</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5328">a red, glowing mist</a></td>
+			<td>200</td>
+			<td>treasure</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/737">a saber</a></td>
+			<td>190</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/7128">a shallow pool of rain water</a></td>
+			<td>5</td>
+			<td>fountain</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/971">a short sword</a></td>
+			<td>130</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/4570">a small brass oil lamp</a></td>
+			<td>15</td>
+			<td>light</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7121">a small compass</a></td>
+			<td>150</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7736">a small mushroom</a></td>
+			<td>150</td>
+			<td>food</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8024">a small portal</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4441">a small portal</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/968">a small spear</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/7123">a small spring</a></td>
+			<td>5</td>
+			<td>fountain</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/982">a spiked collar</a></td>
+			<td>190</td>
+			<td>jewelry</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/5160">a spring of clear water</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/2533">a staff of summoning</a></td>
+			<td>220</td>
+			<td>staff</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/6957">a vial labeled 'alumachlorate xanthate'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7081">a vial labeled 'ambrosia of alkanese sorbate'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7085">a vial labeled 'ambrosia of hypomer ion'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7083">a vial labeled 'ammachloride nitrate'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7079">a vial labeled 'ammamer'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/6960">a vial labeled 'atmabalt acid'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7093">a vial labeled 'atmanium citrate'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/6959">a vial labeled 'balm of alumaphosphorus nitrate'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/6859">a vial labeled 'balm of nickanese ion'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7087">a vial labeled 'bromaphosphorus'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7088">a vial labeled 'cadmomium'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7086">a vial labeled 'concentration of coopabromic'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7006">a vial labeled 'concentration of hydraran sulfate'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7557">a vial labeled 'coopaum nitrate'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7089">a vial labeled 'essence of isomadium halide'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/6980">a vial labeled 'essence of silvamium'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/6982">a vial labeled 'extract of nickachlorate ion'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7082">a vial labeled 'gel of alumagen'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7758">a vial labeled 'glycaphosphorus calcium'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7080">a vial labeled 'hydramium'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7094">a vial labeled 'hydraphosphorus'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7092">a vial labeled 'isomagen'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/6958">a vial labeled 'kernel of hypochlomium bromide'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7090">a vial labeled 'musk of ammanium iodide'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7756">a vial labeled 'musk of halamer'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7005">a vial labeled 'musk of halanese'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7084">a vial labeled 'pentanium halide'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7091">a vial labeled 'seed of bromamium bromide'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/6961">a vial labeled 'sulfacury'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/7078">a vial labeled 'sulfamium'</a></td>
+			<td>180</td>
+			<td>explosive</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/955">a wand of fireballs</a></td>
+			<td>130</td>
+			<td>wand</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/970">a whip of control</a></td>
+			<td>180</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7147">a white orb</a></td>
+			<td>190</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6738">an urn of sin</a></td>
+			<td>240</td>
+			<td>container</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1934">griffon wings</a></td>
+			<td>190</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3278">hook of the phantasmagor</a></td>
+			<td>180</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3836">hydra scales</a></td>
+			<td>170</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2582">monk robes</a></td>
+			<td>185</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/3883">the ancient mangled horn of a powerful minotaur</a></td>
+			<td>240</td>
+			<td>artifact</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2924">the belt of direction <span class="red">[OS]</span></a></td>
+			<td>220</td>
+			<td>clothing</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2925">the belt of direction</a></td>
+			<td>220</td>
+			<td>clothing</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3975">the boots of shame</a></td>
+			<td>225</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4003">the cape of terror</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/7152">the eighth part of the flail of shame</a></td>
+			<td>241</td>
+			<td>trash</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/7149">the fifth part of the flail of shame</a></td>
+			<td>241</td>
+			<td>trash</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6862">the first part of the flail of shame</a></td>
+			<td>241</td>
+			<td>trash</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6795">the flail of shame</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/7148">the fourth part of the flail of shame</a></td>
+			<td>241</td>
+			<td>trash</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1936">the lance of law</a></td>
+			<td>220</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4531">the maul of terror</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4252">the pike of retribution</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2540">the ring of harmony</a></td>
+			<td>180</td>
+			<td>jewelry</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4385">the second head of an ettin cannibal</a></td>
+			<td>1</td>
+			<td>treasure</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6891">the second part of the flail of shame</a></td>
+			<td>241</td>
+			<td>trash</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/7151">the seventh part of the flail of shame</a></td>
+			<td>241</td>
+			<td>trash</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/7150">the sixth part of the flail of shame</a></td>
+			<td>241</td>
+			<td>trash</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6943">the third part of the flail of shame</a></td>
+			<td>241</td>
+			<td>trash</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1940">the wand of the dark</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/5">Catacombs of Shame</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Catacombs of Shame</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1641">A bear of a devotee</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2950">A beautiful siren</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2960">A bone collector</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5903">A cave constrictor</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2653">A cave slug</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3853">A chaos knight</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/656">A coffin dancer</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2651">A dark elemental</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2650">A dark horned imp</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4391">A dark priest of tame</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2954">A darting sparrow</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2937">A demon hound</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4421">A dessicated zombie</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4408">A devil of tame</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2668">A fey commander</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2654">A fey guard</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/657">A fey lieutenant</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2942">A fey monk</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2943">A fey priest</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2657">A fey warrior</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2667">A fey worker</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2945">A fire bat</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2946">A firebug</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6271">A fleshreaver</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2663">A ghast</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2659">A ghoul</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2661">A giant arachnid</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2941">A gigantic bull</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1650">A gigantic sloth</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2939">A gorgon</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1651">A granite golem</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2662">A gruesome skeleton</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2660">A haunted ghost</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4041">A holocaust snake</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2655">A human prisoner</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2955">A hunter hawk</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4407">A knight of Tame</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2673">A kobold captain</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2670">A kobold soldier</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1960">A large fey</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2944">A lava maul</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2665">A long horned devil</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3876">A mimnosuffogator</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2652">A necromancer</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4411">A phase spider</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2948">A piranha</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2957">A pixie</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2658">A poison vapor</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1959">A red zombie</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4409">A rock monster</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/655">A rotting corpse</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3855">A savage werecat</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2666">A specter</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2958">A swan</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2671">A sword spider</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2664">A tortured soul</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3854">A vampire</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2656">A vampire bat</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1652">A weaver spider</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3601">A wizened old man</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4410">A wolf of Tame</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2956">An angelic soul</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3901">An archmage of Tame</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2962">An avros cat</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2949">An electric eel</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2669">An ettercap</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4286">An ettin cannibal</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2940">An evil worg</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2672">An ogre slave</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2963">An order guard</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3865">Seriende</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2953">The Air Queen</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2938">The arena master</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3678">The Chaos Queen</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5818">The crusader behemoth</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2961">The Death Queen</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2952">The Earth Queen</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2947">The Fire Queen</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2959">The Life Queen</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2964">The Order Queen</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2951">The Water Queen</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4120">Vlargruhn</a></td>
+		<td><a href="/area/5">Catacombs of Shame</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/21670">Small Battle Arena</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/21655">The Combat Arena</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/23593">A Niche</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/21656">Small Room</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/30611">Large Sepulcher</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/30610">Small Sepulcher</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:00 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

@@ -1,0 +1,391 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/quest/">Quests</a></li>
+	<li><a class="breadcrumb" href="/quest/104">Get This Party Started!</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Quest: Get This Party Started!</h2>
+
+
+<div id="qsearch">
+	<form method="get" action="/quest/search/">
+		<table>
+			<tr>
+				<td>Search Type</td>
+				<td>Keywords</td>
+				<td>Sorted by</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>
+					<select name="search" tabindex="1">
+						<option value="quest">Quest</option>
+						<option value="phase">Phase</option>
+						<option value="master">Quest master</option>
+					</select>
+				</td>
+				<td>
+					<input type="text" name="keyword" size="30" maxlength="30" value="" tabindex="2" />
+				</td>
+				<td>
+					<select name="sort" tabindex="3">
+						<option value="questname">Quest Name</option>
+						<option value="questid">Quest ID</option>
+						<option value="pracreward">Practices</option>
+						<option value="qpreward">Quest Points</option>
+						<option value="questmaster">Quest Master</option>
+					</select>
+				</td>
+				<td><input type="submit" value="Search" /></td>
+			</tr>
+		</table>
+	</form>
+</div>
+
+<script type="text/javascript">
+function togPhase(n) {
+	var e = document.getElementById('phasehint' + n);
+	e.style.display = e.style.display == 'none' ? 'block' : 'none';
+}
+function togAllPhases(display) {
+	for (var i = 1; i <= 50; i++) {
+		var e = document.getElementById('phasehint' + i);
+		if (!e) break;
+		e.style.display = display;
+	}
+}
+function addHint(n) {
+	var e = document.getElementById('phase');
+	for (var i = 0; i < e.childNodes.length; i++) {
+		e.childNodes[i].selected = e.childNodes[i].value == n ? 'selected' : '';
+	}
+	e = document.getElementById('text');
+	e.focus();
+	e.select();
+}
+</script>
+
+<div class="mm white">
+This quest <span class="blue">[<span class="yellow">987</span>]</span> is called '<span class="yellow">Get This Party Started!</span>',<br/>
+for Adventurers levels <span class="yellow">80</span> to <span class="yellow">120</span>.<br />
+
+
+<span class="hg"><a href="/npc/647">Lord Agrippa</a> [<a href="/area/48">Runic Castle</a>] is the master in charge of this quest.</span><br />
+
+I am hosting a grand party this evening at the castle and EVERYBODY is<br />
+invited.  This is going to be the most spectacular party ever.  There will<br />
+be food, drink, music, dancing, and other entertainments galore!  From the<br />
+RSVPs it looks like anyone who is anyone will be attending.  I do need your<br />
+help though.  A few of my oldest friends have been out of town and did not<br />
+hear of the party.  Deliver personal invitations to them on my behalf so<br />
+that they can attend as no party is ever quite the same without one's old<br />
+pals.  Time is of the essence since tonight is the big bash, so hurry these<br />
+to them and then come back for your reward as well as your invitation to the<br />
+party.  Oh, you could also pick up a few things for me while you are out.<br />
+
+<span class="hy">Upon successful completion of this quest you can receive:</span><br />
+
+<span class="hm">*</span>Up to <span class="yellow">40</span> quest points, <span class="yellow">4</span> practice points, <span class="yellow">60,000</span> experience points,<br/>
+&nbsp;<span class="yellow">0</span> build points, <span class="yellow">0</span> piety, and <span class="yellow">30,000</span> gold pieces.<br />
+
+
+You have <span class="yellow">300</span> minutes remaining to complete this quest.<br />
+
+Get This Party Started! consists of:<br />
+
+
+	<div class="phase" id="phase1">
+
+
+		<a class="hints" href="javascript:togPhase(1);">Phase 1</a>: Journey to <a href="/room/4983">The Audience Chamber</a>. 		
+		<div class="phasehints" id="phasehint1" style="display: none;">
+
+<div class="phaseinforoom">in <a href="/area/51">Sigil</a>.</div>
+
+
+			<div class="phasehint">
+				Lord Vendredi in Sigil				&mdash;
+				Chanal							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase2">
+
+
+		<a class="hints" href="javascript:togPhase(2);">Phase 2</a>: Journey to <a href="/room/452">The Audience Room of Lord Vashir</a>. 		
+		<div class="phasehints" id="phasehint2" style="display: none;">
+
+<div class="phaseinforoom">in <a href="/area/61">The Towne of New Rigel</a>.</div>
+
+
+			<div class="phasehint">
+				New Rigel, room that Lord Vashir is in.				&mdash;
+				Nemix							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase3">
+
+
+		<a class="hints" href="javascript:togPhase(3);">Phase 3</a>: Visit <a href="/npc/699">Banath</a>. 		
+		<div class="phasehints" id="phasehint3" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/room/4101">The Laughing Fey</a>, <a href="/area/67">Towne of Rune</a>.</div>
+
+
+			<div class="phasehint">
+				Normally in The Perplexed Otter, not allways alive, doesn't allways pop. Rune near the bank.				&mdash;
+				Nemix							</div>
+
+
+			<div class="phasehint">
+				He can also appear in Rune Prison.				&mdash;
+				Kalyrius							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase4">
+
+
+		<a class="hints" href="javascript:togPhase(4);">Phase 4</a>: Recover <a href="/item/331">a T-bone steak</a>. 		
+		<div class="phasehints" id="phasehint4" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/673">A bloody fey butcher</a> (shop #1) [<a href="/room/1761/">The Meat Shop</a>, <a href="/area/6" class="white">Cavhfail</a>],<br /><a href="/npc/76">Strecht, the butcher</a> (shop #1) [<a href="/room/5122/">Strecht's Meats</a>, <a href="/area/51" class="white">Sigil</a>],<br /><a href="/npc/3284">A serving girl</a>  [<a href="/area/19" class="white">The Lonely Dragon Inn</a>],<br /><a href="/npc/4983">A saucy wench</a> (shop #5) [<a href="/area/152" class="white">The Saucy Wench Tavern</a>],<br /><a href="/npc/4982">A worn-out waiter</a> (shop #5) [<a href="/area/152" class="white">The Saucy Wench Tavern</a>],<br /><a href="/npc/4990">Nathel, the bartender</a> (shop #5) [<a href="/area/152" class="white">The Saucy Wench Tavern</a>],<br /><a href="/npc/1465">Giles</a> (shop #3) [<a href="/room/840/">Giles Restaurant</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/1530">The town butcher</a> (shop #1) [<a href="/room/10214/">The Towne Butcher</a>, <a href="/area/75" class="white">The Towne of Xaventry</a>],<br /><a href="/npc/2345">Finley</a> (shop #3) [<a href="/area/33" class="white">The Village of Lasler</a>],<br /><a href="/npc/1410">Kalan the sidhe barkeep</a> (shop #6) [<a href="/room/36673/">The Wandering Sidhe</a>, <a href="/area/138" class="white">The Wandering Sidhe</a>],<br /><a href="/npc/768">Flam</a> (shop #3) [<a href="/room/4048/">Flam's Steak House</a>, <a href="/area/67" class="white">Towne of Rune</a>],<br /><a href="/npc/724">The Butcher</a> (shop #1) [<a href="/room/4091/">Butcher's Shop</a>, <a href="/area/67" class="white">Towne of Rune</a>],<br /><a href="/npc/913">Safage</a> (shop #1) [<a href="/room/9390/">A Cold Room</a>, <a href="/area/70" class="white">Unseelie Castle</a>].</div>
+
+
+			<div class="phasehint">
+				Can be bought at Flam's Steak House, north off of Yew Court in Rune.				&mdash;
+				Nemix							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase5">
+
+
+		<a class="hints" href="javascript:togPhase(5);">Phase 5</a>: Visit <a href="/npc/1402">The King of Vospire</a>. 		
+		<div class="phasehints" id="phasehint5" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/73">Vospire</a>.</div>
+
+
+			<div class="phasehint">
+				All up in Vospy's Castle, go NW at the Court Hobbit. Vospire.				&mdash;
+				Nemix							</div>
+
+
+			<div class="phasehint">
+				In the castle in vospire.				&mdash;
+				Syll							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase6">
+
+
+		<a class="hints" href="javascript:togPhase(6);">Phase 6</a>: Recover <a href="/item/246">a shimmering white fish scale</a>. 		
+		<div class="phasehints" id="phasehint6" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/4786">Williamson Castaway</a> (shop #1) [<a href="/room/29762/">A Castaway's Hovel</a>, <a href="/area/140" class="white">Aequtus</a>],<br /><a href="/npc/678">Hocus, the fey witch</a> (shop #17) [<a href="/room/1750/">Witchcraft and Wizardry</a>, <a href="/area/6" class="white">Cavhfail</a>],<br /><a href="/npc/106">Vegas</a> (shop #5) [<a href="/room/2319/">Vegas' Magic Shop</a>, <a href="/area/35" class="white">Lowangen</a>],<br /><a href="/npc/2701">Alazar, the shop owner</a> (shop #17) [<a href="/room/22841/">Alasa de Magica</a>, <a href="/area/71" class="white">Mount Vesuvius</a>],<br /><a href="/npc/1675">Gabby</a> (shop #17) [<a href="/room/18985/">A Plateau</a>, <a href="/area/41" class="white">Ogre Village</a>],<br /><a href="/npc/2993">The magic shop owner</a> (shop #17) [<a href="/room/2058/">Enchanted Tiki Room of Magic and Mystery</a>, <a href="/area/11" class="white">Palace of Diocletian</a>],<br /><a href="/npc/1082">Arball</a> (shop #17) [<a href="/room/1299/">Magical Goods</a>, <a href="/area/42" class="white">Pirate's Cove</a>],<br /><a href="/npc/464">Trifaergar</a> (shop #17) [<a href="/room/3363/">Trifaergar's Reagents</a>, <a href="/area/45" class="white">Rahdiyr</a>],<br /><a href="/npc/3128">The attendant</a> (shop #22) [<a href="/room/400/">Potions and Lore</a>, <a href="/area/61" class="white">The Towne of New Rigel</a>],<br /><a href="/npc/2039">A conjurer</a> (shop #3) [<a href="/room/14901/">The Magic Society</a>, <a href="/area/66" class="white">Towne of Decara</a>],<br /><a href="/npc/740">Alpheus Grimaldi</a> (shop #17) [<a href="/room/4311/">Grimaldi Magick</a>, <a href="/area/67" class="white">Towne of Rune</a>],<br /><a href="/npc/897">Varlov</a> (shop #18) [<a href="/room/9097/">A Magical Abode</a>, <a href="/area/70" class="white">Unseelie Castle</a>],<br /><a href="/npc/1366">The shopkeeper</a> (shop #17) [<a href="/room/9566/">Vospire Magical Inventory</a>, <a href="/area/73" class="white">Vospire</a>].</div>
+
+
+			<div class="phasehint">
+				Bought in Grimaldi Magick, south off of Yew Court.				&mdash;
+				Nemix							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="quest-toggle">
+		<a href="javascript:togAllPhases('block');">[+] Expand all</a>&nbsp;&nbsp;<br />
+		<a href="javascript:togAllPhases('none');">[-] Collapse all</a>
+	</div>
+
+</div>
+
+
+<ul class="toolbar">
+		<li><a href="/quest/104/fix/"><img src="/img/ico/script_edit.png" height="16" width="16" alt="edit quest" /> <span>fix ambiguous phases</span></a></li>
+</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 13:12:11 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

@@ -1,0 +1,330 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/item">Items</a></li>
+	<li><a class="breadcrumb" href="/item/3">a black umbrella</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Item: a black umbrella</h2>
+
+
+<div id="isearch">
+	<form method="get" action="/item/search/">
+		<table width="100%">
+			<tr>
+				<td>Search</td>
+				<td>Keywords</td>
+				<td>Item Type</td>
+				<td>Level Range</td>
+				<td>Sorted by</td>
+				<td></td>
+			</tr>
+
+			<tr>
+				<td>
+					<select name="search" tabindex="1">
+						<option value="affects">Affects</option><option value="alters">Alters</option><option value="area">Area</option><option value="attributes">Attributes</option><option value="damage-type">Damage type</option><option value="description">Description</option><option value="grants">Grants</option><option value="keyword">Keyword</option><option value="material">Material</option><option value="name" selected="selected">Name</option><option value="os">Old stat</option><option value="type">Type</option><option value="relicslots">Relic slots >=</option><option value="requires">Requires</option><option value="resistance">Resistance</option><option value="spellequip">Spell on equipment</option><option value="spellitem">Spell on item [pills etc]</option><option value="spellscroll">Spell on scroll</option><option value="weapon">Weapon type</option><option value="weaponattr">Weapon attributes</option><option value="wearloc">Wear location</option>					</select>
+				</td>
+				<td>
+					<input type="text" name="keyword" size="25" value="" tabindex="2" />
+				</td>
+				<td>
+					<select name="type" tabindex="3">
+						<option value="0">all</option>
+						<option value="1487" >ammunition</option>
+<option value="1489" >ammunition-pouch</option>
+<option value="1461" >amulet</option>
+<option value="1459" >ankh</option>
+<option value="1479" >archon-token</option>
+<option value="1420" >armor</option>
+<option value="1467" >artifact</option>
+<option value="1423" >book</option>
+<option value="1473" >clan-gemstone</option>
+<option value="1449" >clock</option>
+<option value="1428" >clothing</option>
+<option value="1462" >container</option>
+<option value="1422" >drink-container</option>
+<option value="1482" >egg</option>
+<option value="1492" >esoteric relic</option>
+<option value="1439" >explosive</option>
+<option value="1460" >figurine</option>
+<option value="1432" >food</option>
+<option value="1434" >fountain</option>
+<option value="1469" >furniture</option>
+<option value="1454" >gem</option>
+<option value="1431" >herb</option>
+<option value="1465" >herbal-mixture</option>
+<option value="1476" >house-key</option>
+<option value="1418" >jewelry</option>
+<option value="1441" >key</option>
+<option value="1435" >light</option>
+<option value="1452" >lockpick</option>
+<option value="1466" >manual</option>
+<option value="1436" >map</option>
+<option value="1484" >money</option>
+<option value="1457" >mortar-and-pestle</option>
+<option value="1477" >multiclass-gemstone</option>
+<option value="1417" >musical-instrument</option>
+<option value="1426" >orb</option>
+<option value="1475" >ore</option>
+<option value="1463" >parchment</option>
+<option value="1437" >pick-axe</option>
+<option value="1429" >pill</option>
+<option value="1443" >plant</option>
+<option value="1442" >portal</option>
+<option value="1430" >potion</option>
+<option value="1424" >quiver</option>
+<option value="1453" >reagent</option>
+<option value="1445" >reagent-air</option>
+<option value="1448" >reagent-astral</option>
+<option value="1440" >reagent-earth</option>
+<option value="1456" >reagent-ethereal</option>
+<option value="1447" >reagent-fire</option>
+<option value="1446" >reagent-water</option>
+<option value="1471" >relic</option>
+<option value="1483" >resource</option>
+<option value="1421" >scroll</option>
+<option value="1478" >seed</option>
+<option value="1425" >sextant</option>
+<option value="1486" >ship-title</option>
+<option value="1438" >spade</option>
+<option value="1444" >spellbook</option>
+<option value="1474" >staff</option>
+<option value="1464" >stamp</option>
+<option value="1488" >statue</option>
+<option value="1490" >stone</option>
+<option value="1481" >surge-protector</option>
+<option value="1470" >telescope</option>
+<option value="1485" >tool</option>
+<option value="1433" >toy</option>
+<option value="1480" >transmitter</option>
+<option value="1468" >trap-kit</option>
+<option value="1472" >trash</option>
+<option value="1427" >treasure</option>
+<option value="1455" >wand</option>
+<option value="1451" >ward</option>
+<option value="1450" >warp-stone</option>
+<option value="1419" >weapon</option>
+<option value="1491" >wish-lamp</option>
+<option value="1458" >writing-instrument</option>
+					</select>
+				</td>
+				<td>
+					<input type="text" name="lowlevel" size="3" maxlength="3" value="" tabindex="4" />
+					&ndash;
+					<input type="text" name="highlevel" size="3" maxlength="3" value="" tabindex="5" />
+				</td>
+				<td>
+					<select name="sort" tabindex="6">
+						<option value="itemlocation">Area</option><option value="itemname">Name</option><option value="itemtype">Type</option><option value="itemlevel" selected="selected">Level (asc)</option><option value="itemleveldesc">Level (desc)</option>					</select>
+				</td>
+				<td>
+					<input type="submit" value="Search" tabindex="7" />
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="6" style="text-align: center;">
+
+				</td>
+			</tr>
+		</table>
+
+		<p class="center"><a onclick="$('#isearchhelp').slideToggle();" href="javascript:void(0);">[ show help ]</a></p>
+
+		<div id="isearchhelp" style="display: none;">
+			<p>Some fields (such as weapon type) require an <em>exact</em> match (<code>magical-wand</code> rather than <code>wand</code>) for instance.  Alternatively, you may use <code>%</code> as a wildcard in <em>all</em> searches; for instance, search for <code>%wand%</code>.  This may be a good idea if you're having problems and not sure why.</p>
+
+			<p><em>Spell on item</em> currently searches pills, potions, wands, and staves.  <em>Requires</em> searches the name of the requirement (such as a requirement on the <em>vitality</em> attribute) rather than the required value (such as <em>4</em>). <em>Area</em> accepts <code>none</code> as a keyword for uncategorised items.</p>
+		</div>
+	</form>
+</div>
+
+<div class="mm">
+Item '<span class="white">a black umbrella</span>' is type <span class="white">weapon</span>, alignment <span class="white">0</span>, made of <span class="white">steel</span>,<br />
+
+
+has keywords '<span class="white">umbrella</span>', equipped <span class="white">wielded as a weapon</span>.<br />
+
+
+This item weighs <span class="white">0</span> stones and <span class="white">2</span> pebbles, and is valued at <span class="white">0</span> gp.<br />
+This level <span class="white">12</span> item has
+
+no special attributes.
+
+<br />
+Weapon type is <span class="white">mace</span>, does <span class="white">106</span> points of <span class="white">bash</span> damage for <span class="white">3</span> stamina, accuracy <span class="white">10</span>.<br /><span class="yellow">*</span>This item may be repaired <span class="white">7</span> times.<br /><span class="white">This is the wrath of the bag lady.  A menacing, black umbrella that can<br />
+knock the socks off anyone that tries to take her merchandise that she found<br />
+fair and square.  She'd probably take the socks, too, if she could.  No one<br />
+really thought of an umbrella as a weapon until now, and it looks to be<br />
+effectively used as such.</span><br />Long description: <span class="white">A ratty black umbrella has been dropped here.</span><br />This item can be found in <a class="white" href="/area/67">Towne of Rune</a>.<br />Mobiles known to carry this item:<br /><span class="yellow">*</span>This item is dropped in <a href="/area/67" class="white">Towne of Rune</a> by the mob '<a href="/npc/693">A bag lady</a>'.<br />This item is required by the following quests:<br/>- <a href="/quest/2330">Secret Day Off</a> (20-40) from <a href="/npc/647">Lord Agrippa</a>.<br/>- <a href="/quest/1416">Rainy Day</a> (45-60) from <a href="/npc/255">Lord Vendredi</a>.<br/>- <a href="/quest/2724">Missionary to the Dark Lands</a> (150-239) from <a href="/npc/647">Lord Agrippa</a>.<br/>- <a href="/quest/2989">Beach party</a> (90-241) from <a href="/npc/3437">Lady Undya</a>.<br/>- <a href="/quest/1201">Garbage Day</a> (10-30) from <a href="/npc/647">Lord Agrippa</a>.<br/>- <a href="/quest/3395">Beach party</a> (15-241) from <a href="/npc/388">Lord Telleri</a>.<br/>- <a href="/quest/348">Izydor's Errands</a> (10-59) from <a href="/npc/647">Lord Agrippa</a>.<br/>- <a href="/quest/357">Seek and Destroy</a> (10-20) from <a href="/npc/647">Lord Agrippa</a>.<br/>- <a href="/quest/1899">Shopping Trip</a> (10-25) from <a href="/npc/647">Lord Agrippa</a>.<br/>- <a href="/quest/3000">Beach party</a> (90-241) from <a href="/npc/3438">Lord Vashir</a>.<br/>- <a href="/quest/1614">Stylish Agrippa</a> (40-80) from <a href="/npc/647">Lord Agrippa</a>.<br/>- <a href="/quest/2956">Beach Party</a> (90-241) from <a href="/npc/255">Lord Vendredi</a>.<br/>- <a href="/quest/2995">Beach party</a> (15-241) from <a href="/npc/647">Lord Agrippa</a>.<br/>- <a href="/quest/2815">The Case Of The Stolen Umbrella</a> (10-59) from <a href="/npc/647">Lord Agrippa</a>.<br/>- <a href="/quest/1172">Spring Cleaning!</a> (25-50) from <a href="/npc/647">Lord Agrippa</a>.<br/>
+</div>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 13:33:24 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

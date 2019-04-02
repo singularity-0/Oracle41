@@ -1,0 +1,707 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/22">Holiday/Seasonal</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Holiday/Seasonal</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Unknown</td>
+			<td>No</td>
+			<td></td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+
+<h3>Items in area Holiday/Seasonal</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/5255">a black gooey potion</a></td>
+			<td>40</td>
+			<td>potion</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/5263">a cerulean blue jar</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5260">a chain-link scarf</a></td>
+			<td>65</td>
+			<td>jewelry</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6118">a chocolate-chip cookie</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/4997">a dead tree</a></td>
+			<td>10</td>
+			<td>plant</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5266">a delicious snickerdoodle cookie</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6119">a delicious sugar cookie</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5261">a dirty clot of used tissues</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5275">a false beard</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/3841">a flickering jack-o-lantern</a></td>
+			<td>10</td>
+			<td>light</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/6156">a flute of champagne</a></td>
+			<td>15</td>
+			<td>drink-container</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/7259">a gift-box</a></td>
+			<td>5</td>
+			<td>container</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/6116">a Glove inherited from Lady Undya</a></td>
+			<td>49</td>
+			<td>armor</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5270">a gnomish rocket</a></td>
+			<td>65</td>
+			<td>furniture</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/5262">a gnomish shield-brella</a></td>
+			<td>60</td>
+			<td>figurine</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/5258">a grumpy minotaur doll</a></td>
+			<td>5</td>
+			<td>toy</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5268">a lump of coal</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6113">a Mask inherited from Lord Bloodbane</a></td>
+			<td>10</td>
+			<td>jewelry</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5259">a mincemeat pie</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/278">a mug of Julel</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6112">a Pendant inherited from Lord Maldra</a></td>
+			<td>10</td>
+			<td>jewelry</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6110">a Puzzle inherited from Lord Agrippa</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4996">a red bobbing apple with several teeth marks</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6371">a red, heart-shaped box</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5257">a rotten apple core</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5269">a rusted cog wheel</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/157">a santa hat <span class="red">[OS]</span></a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5267">a savory cranberry-chocolate piece of fudge</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5507">a sketchy looking cookie</a></td>
+			<td>241</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6370">a small chocolate heart</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/5256">a snowflake patterned bag</a></td>
+			<td>15</td>
+			<td>container</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5271">a sticky rice-puff square</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5249">a string of blinking Yuletide lights</a></td>
+			<td>15</td>
+			<td>artifact</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7745">a summer RENEWAL token</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5265">a white chocolate macadamia nut cookie</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/5264">a wind-up soldier</a></td>
+			<td>10</td>
+			<td>toy</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/3842">a witch's cauldron</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7652">a Yule evergreen tree</a></td>
+			<td>15</td>
+			<td>artifact</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/8182">a yule log</a></td>
+			<td>10</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6111">an Atlas inherited from Lord Vendredi</a></td>
+			<td>45</td>
+			<td>artifact</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6108">an inherited amulet of reinforcement</a></td>
+			<td>10</td>
+			<td>amulet</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6100">an inherited amulet of remembrance</a></td>
+			<td>10</td>
+			<td>amulet</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6109">an inherited amulet of spell delivery</a></td>
+			<td>10</td>
+			<td>amulet</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6102">an inherited amulet of spell simplicity</a></td>
+			<td>10</td>
+			<td>amulet</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6099">an inherited amulet of wealth</a></td>
+			<td>10</td>
+			<td>amulet</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/6117">an inherited black tourmaline pendant</a></td>
+			<td>60</td>
+			<td>amulet</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6114">an inherited Medallion of Alyria</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6103">an inherited spectral aura</a></td>
+			<td>45</td>
+			<td>artifact</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6115">an inherited Stone of Alyria</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/6105">the inherited Key of Dira</a></td>
+			<td>10</td>
+			<td>reagent-air</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/6107">the inherited Key of Gath</a></td>
+			<td>10</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/6106">the inherited Key of Ithrilis</a></td>
+			<td>10</td>
+			<td>reagent-water</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/6104">the inherited Key of Maradas</a></td>
+			<td>10</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/6101">the inherited Ring of Lord Agrippa</a></td>
+			<td>20</td>
+			<td>jewelry</td>
+			<td><a href="/area/22">Holiday/Seasonal</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Holiday/Seasonal</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4483">A clockwork gnome</a></td>
+		<td><a href="/area/22">Holiday/Seasonal</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5729">Sinter Van Pelt</a></td>
+		<td><a href="/area/22">Holiday/Seasonal</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:03 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

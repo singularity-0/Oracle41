@@ -1,0 +1,273 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/npc/">NPCs</a></li>
+	<li><a class="breadcrumb" href="/npc/33">Firun</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>NPC: Firun</h2>
+
+
+<div class="search">
+<form method="get" action="/npc/search/">
+	<table align="center">
+		<tr align="center">
+			<td>Search</td>
+			<td>Keywords</td>
+			<td>Type</td>
+			<td>Sorted by</td>
+			<td></td>
+		</tr>
+		<tr align="center">
+			<td>
+				<select name="search" tabindex="1">
+					<option value="area">Area</option><option value="description">Description</option><option value="name" selected="selected">Name</option>				</select>
+			</td>
+			<td>
+				<input type="text" name="keyword" size="30" maxlength="30" value="" tabindex="2" />
+			</td>
+			<td>
+				<select name="type" tabindex="3">
+					<option value="0">All</option>
+					<option value="8" >boss</option>
+<option value="6" >cleric</option>
+<option value="7" >hidden</option>
+<option value="2" >protected</option>
+<option value="9" >questmaster</option>
+<option value="1" >shopkeeper</option>
+<option value="5" >smith</option>
+<option value="3" >stationary</option>
+<option value="4" >trainer</option>
+				</select>
+			</td>
+			<td>
+				<select name="sort" tabindex="4">
+					<option value="area">Area</option><option value="name" selected="selected">Name</option>				</select>
+			</td>
+			<td>
+				<input type="submit" value="Search" tabindex="5" />
+			</td>
+		</tr>
+	</table>
+</form>
+</div>
+<div class="mm">
+NPC: <span class="white">Firun</span><br />
+Long Desc: <span class="white">Firun is busy sorting through a box of freshly picked herbs.</span><br />
+<br /><span class="white">Firun is a small stout gnome.  She has bright rosy cheeks and a cheer<br />
+disposition.  Dressed in flowing black robes, she sits on the floor of her<br />
+room engrossed in sorting through piles of herbs.  Her flaxen hair glistens<br />
+when the light touches it.  A wizard turned naturalist, many people come<br />
+from miles around to buy herbs from her and gain some knowledge of nature<br />
+itself.  She greets you with a firm but friendly smile as you enter her<br />
+shop.</span><br />
+<span class="white">She is a gnome approximately 4'1" tall.</span><br />
+<br/>
+This NPC can be found in: <span class="white"><a href="/area/35">Lowangen</a></span>.<br />
+&nbsp;&nbsp;&hellip;in <a href="/room/2297">Firun's World of Herbs</a>.<br/><span class="yellow">*</span>This NPC is a shopkeeper.<br />This NPC is known to carry the following items:<br /><span style="white-space: pre;"> 1) <a href="/item/1038">a sprig of virga pastoris                                       </a> <span class="yellow">  1          450</span> gp<br /> 2) <a href="/item/368">a sprig of verbena                                              </a> <span class="yellow">  1          425</span> gp<br /> 3) <a href="/item/1289">a sprig of usicur                                               </a> <span class="yellow">  1          400</span> gp<br /> 4) <a href="/item/367">a sprig of urtica                                               </a> <span class="yellow">  1          375</span> gp<br /> 5) <a href="/item/1037">a sprig of serpentina                                           </a> <span class="yellow">  1          350</span> gp<br /> 6) <a href="/item/1290">a sprig of salvia                                               </a> <span class="yellow">  1          325</span> gp<br /> 7) <a href="/item/1039">a sprig of rosa                                                 </a> <span class="yellow">  1          300</span> gp<br /> 8) <a href="/item/369">a sprig of queri                                                </a> <span class="yellow">  1          250</span> gp<br /> 9) <a href="/item/141">a sprig of provinca                                             </a> <span class="yellow">  1          225</span> gp<br />10) <a href="/item/1292">a sprig of milisopholos                                         </a> <span class="yellow">  1          200</span> gp<br />11) <a href="/item/370">a sprig of mepeta                                               </a> <span class="yellow">  1          175</span> gp<br />12) <a href="/item/592">a sprig of lingua canis                                         </a> <span class="yellow">  1          150</span> gp<br />13) <a href="/item/1291">a sprig of lillium                                              </a> <span class="yellow">  1          125</span> gp<br />14) <a href="/item/371">a sprig of jusquianus                                           </a> <span class="yellow">  1          100</span> gp<br />15) <a href="/item/372">a sprig of eliotropia                                           </a> <span class="yellow">  1           75</span> gp<br />16) <a href="/item/373">a sprig of centaures                                            </a> <span class="yellow">  1           50</span> gp<br />17) <a href="/item/374">a sprig of celidonia                                            </a> <span class="yellow">  1           25</span> gp<br />18) <a href="/item/3341">a glossy black seed                                             </a> <span class="yellow"> 10          250</span> gp<br /></span>This mob is required by the following quests:<br/>- <a href="/quest/1626">Hidden Thieves</a> (45-75) from <a href="/npc/3438">Lord Vashir</a>.<br/>
+</div>
+
+<ul class="toolbar">
+	</ul>
+
+
+<table id="forum-topic" cellspacing="0" cellpadding="0">
+
+
+	<tr>
+		<td width="15%" valign="top" class="user"><strong><a href="/user/1186">Junta</a></strong>
+				</td>
+		<td class="text" valign="top">
+			<div class="post-meta">
+				2009-01-20 07:53 am							</div>
+			Firun's Prices:<br />
+<br />
+prices need updating..<br />
+<br />
+No.  Item Name                         Level  Amount       Cost<br />
+  1) A sprig of virga pastoris          1     No limit     [        450 gp]<br />
+  2) A sprig of verbena                 1     No limit     [        425 gp]<br />
+  3) A sprig of usicur                  1     No limit     [        400 gp]<br />
+  4) A sprig of urtica                  1     No limit     [        375 gp]<br />
+  5) A sprig of serpentina              1     No limit     [        350 gp]<br />
+  6) A sprig of salvia                  1     No limit     [        325 gp]<br />
+  7) A sprig of rosa                    1     No limit     [        300 gp]<br />
+  8) A sprig of queri                   1     No limit     [        250 gp]<br />
+  9) A sprig of provinca                1     No limit     [        225 gp]<br />
+ 10) A sprig of milisopholos            1     No limit     [        200 gp]<br />
+ 11) A sprig of mepeta                  1     No limit     [        175 gp]<br />
+ 12) A sprig of lingua canis            1     No limit     [        150 gp]<br />
+ 13) A sprig of lillium                 1     No limit     [        125 gp]<br />
+ 14) A sprig of jusquianus              1     No limit     [        100 gp]<br />
+ 15) A sprig of eliotropia              1     No limit     [         75 gp]<br />
+ 16) A sprig of centaures               1     No limit     [         50 gp]<br />
+ 17) A sprig of celidonia               1     No limit     [         25 gp]<br />
+ 18) A glossy black seed                10    4            [        550 gp]		</td>
+	</tr>
+
+
+</table>
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 19:53:19 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

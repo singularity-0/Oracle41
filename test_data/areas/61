@@ -1,0 +1,3722 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/61">The Towne of New Rigel</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>The Towne of New Rigel</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(798, 554) in Alyria</td>
+			<td>Yes</td>
+			<td>towne</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the fortified granite walls of the towne of New Rigel</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([798, 554]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [798, 554],
+		className: 'textpointer',
+		html: "The Towne of New Rigel",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(61, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=798&y=554&plane=1&zoom=4">View The Towne of New Rigel on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area The Towne of New Rigel</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1528">a baguette</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2656">a ball and chain</a></td>
+			<td>36</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1424">a bascinet</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1480">a bec-de-corbin</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/1406">a beryl gemstone</a></td>
+			<td>40</td>
+			<td>orb</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1503">a blue gongra</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1477">a bola</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1122">a book of history</a></td>
+			<td>14</td>
+			<td>book</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/298">a bottle of Avros red wine</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/296">a bottle of rogue champagne</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/299">a bottle of scorna wine</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/297">a bottle of Sepharian white wine</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1401">a brandestoc</a></td>
+			<td>33</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1228">a brass yo-yo</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1475">a bronze bubbling potion</a></td>
+			<td>25</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1588">a buckler</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1456">a bugle</a></td>
+			<td>25</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/4072">a buleva crystal</a></td>
+			<td>25</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/4182">a buleva seed</a></td>
+			<td>10</td>
+			<td>seed</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/8480">a cap embroidered High Roller</a></td>
+			<td>175</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/1518">a carnation</a></td>
+			<td>5</td>
+			<td>plant</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/1449">a carrot seed</a></td>
+			<td>5</td>
+			<td>seed</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1589">a cassock</a></td>
+			<td>25</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1509">a cat burger</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1226">a cavern hook</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1455">a ceramic flute</a></td>
+			<td>32</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1573">a chakram</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1484">a chausses</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1490">a chunk of slake beast meat</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1546">a clarinet</a></td>
+			<td>22</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1586">a club</a></td>
+			<td>23</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2056">a crisp carrot</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1561">a crocheted babydoll</a></td>
+			<td>21</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1527">a croissant</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/805">a crucifix</a></td>
+			<td>25</td>
+			<td>jewelry</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/1597">a cup of faded tea</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1550">a diamond bracelet</a></td>
+			<td>15</td>
+			<td>jewelry</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1123">a dining table</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/8169">a diseased eagle egg</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1508">a dish of frog intestines</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/150">a fancy embroidered muumuu</a></td>
+			<td>20</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1543">a farbo plant</a></td>
+			<td>15</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1563">a feather boa</a></td>
+			<td>21</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1464">a flanvo bean</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1486">a forest squirrel</a></td>
+			<td>13</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/8468">a forged note from the Council of Seven</a></td>
+			<td>35</td>
+			<td>treasure</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1572">a francisca</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1511">a fried rat</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1397">a frumpy muumuu</a></td>
+			<td>15</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1497">a fudora herb</a></td>
+			<td>20</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1425">a fukidake</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1476">a ganjing</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1399">a gaudy glass necklace</a></td>
+			<td>16</td>
+			<td>jewelry</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/115">a glowing silver wand <span class="red">[OS]</span></a></td>
+			<td>40</td>
+			<td>pill</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/6895">a glowing silver wand</a></td>
+			<td>40</td>
+			<td>pill</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1559">a gnuru root</a></td>
+			<td>25</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1407">a gold earring</a></td>
+			<td>45</td>
+			<td>jewelry</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clock.png" width="13" height="13" alt="clock" /> <a href="/item/875">a gold pocketwatch</a></td>
+			<td>15</td>
+			<td>clock</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1470">a gold potion</a></td>
+			<td>35</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3970">a green dealer's visor</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1587">a halberd</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1426">a hand ballista</a></td>
+			<td>39</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1515">a hand carved mirror</a></td>
+			<td>5</td>
+			<td>treasure</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1517">a hand painted armoire</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1556">a harnish root</a></td>
+			<td>30</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1590">a hauberk</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4435">a heavy, leatherbound bookcover</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1541">a hilso herb</a></td>
+			<td>15</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/1576">a hitea plant</a></td>
+			<td>20</td>
+			<td>pill</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/1447">a hitea seed</a></td>
+			<td>5</td>
+			<td>seed</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1489">a hrbao steak</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1549">a jade bracelet</a></td>
+			<td>15</td>
+			<td>jewelry</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1585">a judge's robe</a></td>
+			<td>24</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/1598">a jug of caffeinated blood</a></td>
+			<td>130</td>
+			<td>drink-container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1542">a kamplan weed</a></td>
+			<td>15</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1593">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1594">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1595">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3221">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3222">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3223">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3224">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3225">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3226">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3227">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3228">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3229">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3230">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3231">a key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1499">a klanta</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/1567">a lamb skin canteen</a></td>
+			<td>15</td>
+			<td>drink-container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1492">a landfa herb</a></td>
+			<td>40</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1120">a large nest</a></td>
+			<td>30</td>
+			<td>container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1224">a leather whip</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6176">a light leatherbound bookcover</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/1537">a Lord Vashir doll</a></td>
+			<td>5</td>
+			<td>figurine</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1558">a lukuo root</a></td>
+			<td>30</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ward" /> <a href="/item/2710">a MadMan ward</a></td>
+			<td>66</td>
+			<td>ward</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1501">a mala</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1583">a mitre</a></td>
+			<td>34</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/4013">a mutini herb</a></td>
+			<td>50</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1430">a New Rigel pie</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1570">a nunchaku</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1533">a pair of black shoes</a></td>
+			<td>5</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1415">a pair of leather boots</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3658">a pair of red gloves</a></td>
+			<td>24</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1420">a pair of rerebraces</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1417">a pair of scale gloves</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1418">a pair of shuko</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1531">a pair of silk gloves</a></td>
+			<td>5</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1532">a pair of stiletto shoes</a></td>
+			<td>5</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1495">a patura herb</a></td>
+			<td>20</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6169">a piece of Hurley's special toffee</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1536">a piece of New Rigel candy</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/1574">a piece of vorma fruit</a></td>
+			<td>20</td>
+			<td>pill</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1478">a pike</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4592">a pizza base</a></td>
+			<td>110</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/1575">a placke plant</a></td>
+			<td>20</td>
+			<td>pill</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/1448">a placke seed</a></td>
+			<td>5</td>
+			<td>seed</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1555">a plantiz root</a></td>
+			<td>25</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3416">a plaque belt</a></td>
+			<td>20</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/1535">a postcard from New Rigel</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1506">a pot helmet</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1473">a potion of force field</a></td>
+			<td>15</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/1568">a quiver</a></td>
+			<td>15</td>
+			<td>quiver</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1569">a raut</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1189">a red lace teddy</a></td>
+			<td>21</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1526">a rogue cake</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1566">a rogue's tool belt</a></td>
+			<td>35</td>
+			<td>container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1577">a room key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1578">a room key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1579">a room key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1580">a room key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/1519">a rose bush</a></td>
+			<td>10</td>
+			<td>seed</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1413">a saboton</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1516">a salerno table</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1502">a saluka fruit</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1562">a satin chemise</a></td>
+			<td>21</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1564">a satin lace garter belt</a></td>
+			<td>21</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1467">a savo bean</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1557">a scantic bulb</a></td>
+			<td>30</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4266">a serrated spear</a></td>
+			<td>61</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1398">a set of steel bangles</a></td>
+			<td>12</td>
+			<td>jewelry</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1482">a set of wing guards</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1225">a short mace</a></td>
+			<td>15</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1223">a short sword</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1507">a short sword</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1472">a silver potion</a></td>
+			<td>20</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1479">a singa</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1539">a slanto sprig</a></td>
+			<td>15</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1474">a small shiny potion</a></td>
+			<td>15</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/7670">a small stone crocodile embedded in the doorframe</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1565">a small trident</a></td>
+			<td>16</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clock.png" width="13" height="13" alt="clock" /> <a href="/item/240">a small, eight-day clock</a></td>
+			<td>10</td>
+			<td>clock</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1510">a snake stew</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/1538">a statue of the Arch of Heavens</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1584">a steel armet</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1428">a steel crossbow</a></td>
+			<td>28</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/926">a steel spear</a></td>
+			<td>16</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1512">a suit of chain mail</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1522">a sweet pineapple</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1438">a swirling black potion</a></td>
+			<td>25</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1525">a swirling black potion</a></td>
+			<td>120</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1436">a swirling turquoise potion</a></td>
+			<td>120</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1524">a swirling turquoise potion</a></td>
+			<td>180</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1459">a tambourine</a></td>
+			<td>20</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1514">a tapestry</a></td>
+			<td>5</td>
+			<td>treasure</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1411">a tower shield</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1461">a triangle</a></td>
+			<td>15</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1545">a trumpet</a></td>
+			<td>30</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1547">a tuba</a></td>
+			<td>15</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1419">a vambrace</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/1446">a vorma seed</a></td>
+			<td>5</td>
+			<td>seed</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1493">a vorsha herb</a></td>
+			<td>30</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2711">a walking stick</a></td>
+			<td>38</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1487">a wild rabbit</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1465">a wonta tuber</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1582">a wooden coffin</a></td>
+			<td>5</td>
+			<td>container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1429">a wooden longbow</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1227">a woodman's dagger</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1513">a woven rug</a></td>
+			<td>5</td>
+			<td>treasure</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/510">a yellow daisy</a></td>
+			<td>100</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1544">an Alyrian horn</a></td>
+			<td>40</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1471">an amber potion</a></td>
+			<td>45</td>
+			<td>potion</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1540">an ansliwo herb</a></td>
+			<td>15</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1592">an arbalest</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1421">an arming doublet</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1571">an assegai</a></td>
+			<td>20</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1485">an aventail</a></td>
+			<td>15</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1552">an elf tall cap</a></td>
+			<td>25</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1591">an elite battle axe</a></td>
+			<td>45</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1553">an elven backpack of plenty</a></td>
+			<td>25</td>
+			<td>container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1554">an elven longbow</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1468">an eslanto plant</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1529">an evening gown</a></td>
+			<td>5</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/7389">an ironbound chest</a></td>
+			<td>20</td>
+			<td>container</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1548">an opal necklace</a></td>
+			<td>15</td>
+			<td>jewelry</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="herbal-mixture" /> <a href="/item/1494">an otala herb</a></td>
+			<td>25</td>
+			<td>herbal-mixture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1504">gardening shears</a></td>
+			<td>16</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1416">hard leather breeches</a></td>
+			<td>15</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1125">Lord Vashir's throne</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1463">pipes of pan</a></td>
+			<td>50</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1422">scale armor</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1466">some purple corn</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1596">some tattered rags</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1488">some white tail deer venison</a></td>
+			<td>14</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1551">stealth shoes</a></td>
+			<td>25</td>
+			<td>clothing</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1483">tail gauntlets</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="writing-instrument" /> <a href="/item/4120">the feather of an eagle</a></td>
+			<td>15</td>
+			<td>writing-instrument</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/4308">the head of X encased in ice</a></td>
+			<td>10</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1560">the wand of Indra</a></td>
+			<td>45</td>
+			<td>weapon</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1500">tropical citris fruit</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/61">The Towne of New Rigel</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area The Towne of New Rigel</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1903">A balloon pilot</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3399">A bandit</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2374">A bank teller</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3387">A bat</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2378">A blackjack dealer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3948">A bored prisoner</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2376">A broker</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1420">A brown pony</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1457">A bum</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1440">A burly man</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3944">A burly prison guard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5883">A busy actor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5258">A busy waitress</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2387">A cackling librarian</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5663">A card dealer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5664">A card dealer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5665">A card dealer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5666">A card dealer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2377">A card dealer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5862">A charming bartender</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1442">A choir member</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5885">A classical actor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1422">A clydesdale</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2383">A combat trainer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2384">A commoner</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3561">A council member</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1841">A crotchety old man</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3123">A crow</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1458">A crow</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3389">A dark faerie</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3388">A deer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1421">A desert horse</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5742">A destitute person</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1472">A destitute resident</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1474">A dirty man</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1478">A dock worker</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5080">A down-on-his-luck craps dealer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5882">A dressing actor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2161">A drow mercenary</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3394">A duckling</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1456">A dump rat</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3395">A field mouse</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2381">A fire fighter</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3392">A forest hobbit</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4246">A fried hobo</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3133">A fruit vendor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1418">A gate guard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3391">A gnat</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3398">A goblin bird catcher</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1477">A greasy cook</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1476">A grumpy resident</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4292">A guard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2394">A happy resident</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1471">A harlot</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2393">A homedweller</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1447">A hospital patient</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1889">A janitor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2234">A judge</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1433">A junior guard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5817">A knave for hire</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1451">A legislator</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1452">A legislator</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1435">A local resident</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2379">A lurking thief</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1448">A mental patient</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1463">A mongrel</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1423">A music student</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4209">A napping old man</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1441">A parishioner</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1888">A pathetic beggar</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3946">A pathetic prisoner</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2386">A pathetic vagrant</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1885">A pigeon</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1459">A poor man</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1475">A poor woman</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5892">A practice dummy</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5319">A prosperous citizen</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1439">A rapscallion</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4720">A recently-retired adventurer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5661">A representative from the New Rigel Tourism Board</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3947">A resigned prisoner</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1882">A restaurant patron</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5318">A rich man</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5317">A rich woman</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2395">A royal guest</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2074">A scholar of New Rigel history</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1436">A scoundrel</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1450">A secretary</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1894">A seedy character</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2890">A serene acolyte</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3140">A shopper</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1895">A short rogue</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5924">A sightseer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1443">A speaking priest</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5884">A spectator</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3396">A squirrel</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1880">A stout chef</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2886">A strolling resident</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1449">A surgeon</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2391">A suspect</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3393">A swallow</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3958">A talented bard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4533">A thug</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3444">A tiny patron</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1438">A tom cat</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3124">A torka beast</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2380">A tourist</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2385">A tower guard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1434">A town watchman</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1905">A townsman of New Rigel</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2724">A tree frog</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3390">A tree snake</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5745">A trollop</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3134">A vegetable vendor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3135">A venison vendor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1431">A wandering child</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5316">A wealthy resident</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3137">A weapon salesman</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3397">A white rabbit</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3125">A wild boar</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3138">A wizened wizard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1429">A woman</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1428">A young adventurer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4955">A young scholar</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1899">Almond</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1462">An annoying drunk</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3136">An armor salesman</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3400">An arrogant eagle</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3122">An asp</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5355">An aspiring actor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2396">An efficient servant</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1430">An elf adventurer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1437">An elite guard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1893">An elven patron</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1900">An icehouse worker</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2898">An immaculate waiter</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3945">An insane prisoner</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2390">An interrogation officer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5348">An officious waiter</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2373">An ogre bouncer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1464">An old crone</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1432">An old lady</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1902">An old man</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3139">An old wizard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5013">An opera singer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5886">An opera spectator</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5851">An outcast of the Crocodilian empire</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2906">Baerd</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3116">Bartel</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1424">Brahn</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3121">Cerberus</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4897">Cherika</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5844">Crhanha, exiled tyrant of the Crocodilian empire</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1901">Cryos, the ice sculptor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1425">Denar</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1884">Dennar</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1446">Doctor Netis</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2905">Dreel</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4042">Echol, keeper of the Lost and Found</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1473">Elba</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6156">Etal, keeper of the Lost Toys</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3443">Faith</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3118">Filch</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2888">Galdung</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2389">Gathren</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1904">Gellad</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4741">Genna</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2894">Gilda</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1465">Giles</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2902">Glandish</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1892">Grendle</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2901">Hamblin</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2895">Hann</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3129">Harley</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2892">Helga</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3117">Helma</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2889">Holly</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1466">Hurley</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2900">Jack</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2893">Jepar</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3119">Jolson</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3438">Lord Vashir</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5284">Macafee</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1891">Malfoy</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3126">Mandar</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1419">Marco, the stable master</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3132">Margot</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1461">Marham, the bartender</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2388">Marmum</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2887">Mathin</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1467">McCliney</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2899">Metz</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3166">Mr. Lewis</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1887">Norath the innkeeper</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3120">Plato</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2904">Randol</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2897">Randola</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1898">Ranwurth</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4423">Rappalt Van Pelt</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1886">Rolly</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1896">Sarn</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3130">Sleer</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2896">Tabitha</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3128">The attendant</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2685">The bandit leader</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2375">The bank president</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1444">The bishop</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1468">The blacksmith</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5847">The blacksmith</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1897">The bowsmith</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2392">The city magistrate</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2235">The court registrar</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1455">The dump guard</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2382">The fire marshall</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3942">The gondolier</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2891">The High Priestess of Indra</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1883">The innkeeper</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1469">The innkeeper</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1890">The jeweler</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1470">The madam</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3127">The market warden</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3560">The mayor</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1460">The New Rigel Clan Master</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1454">The postmaster</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2397">The royal gardener</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1445">The rude head nurse</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4285">The seamstress</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1453">The speaker of the legislature</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1426">The stage illusionist</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1427">The Towne Crier</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1881">The waitress</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3131">Thelma</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2903">Zelur</a></td>
+		<td><a href="/area/61">The Towne of New Rigel</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/675">A Small Pond</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1187">Golden Lane</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/366">Market Square</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/20292">New Rigel Town Square</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1006">Vashir Fountain</a></td>
+		</tr>
+
+<tr><td><strong>Post</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/740">New Rigel Post Office</a></td>
+		</tr>
+
+<tr><td><strong>Bank</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/420">New Rigel Bank and Trust</a></td>
+		</tr>
+
+<tr><td><strong>Quest</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/452">The Audience Room of Lord Vashir</a></td>
+		</tr>
+
+<tr><td><strong>Clan</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/760">New Rigel Clan Master</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/739">A Small Hut</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/388">Almond's Maps</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/256">Backroom of the Magic Agora</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1050">Baerd's Antiques</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/349">Best Pawn</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/255">Denar's Magic Agora</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/779">Elba's Tavern</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/930">Elvish Delight</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/955">Fresh Roots</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/554">Genna's Market</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1026">Gilda's Jewelry</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/33771">Hamblin's Produce</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1027">Hann's Music Shoppe</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/347">Helma's Baked Goods</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1035">High Society Restaurant</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/838">Hurley's Bakery</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1010">Jepar's Imported Cuisine</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/351">Jolson's Tailored Goods</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/910">Kitchen</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/889">Lochman's Restaurant</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/486">Magic School Library</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/368">Market Square</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1036">Metz's Apparel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/386">New Rigel Bowsmith</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1044">New Rigel Emporium</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/378">New Rigel Jewelry</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/389">New Rigel Supplies</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/392">Plato's Pet Shoppe</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/400">Potions and Lore</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1048">Potted Creations</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1046">Randol's Fine Wines</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1032">Randola's Wild Herbs</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/814">Rappalt Van Pelt's Reward Emporium</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/789">Rat Haven</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/410">The Adventurer's Melody</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1041">The Bubbling Potion</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1030">The Canal Market</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/933">The Full Backpack</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/382">The Glimmering Dagger</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/406">The Picked Lock</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/894">The Pitted Plate</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/79">The Pitted Shield</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1038">The Rising Loaf</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/380">The Shining Breastplate</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1180">The Upper Crust</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/928">The Woodland Wares</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/408">Thelma's Plants</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/402">Touch of Nature</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/36646"></a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/25991">A Dusty Antechamber</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/25009">Agate Betting Parlor</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/25006">Aquamarine Betting Parlor</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/25015">Malachite Betting Parlor</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/25012">Obsidian Betting Parlor</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/25048">Ruby Betting Parlor</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/812">Operating Theater</a></td>
+		</tr>
+
+<tr><td><strong>Deathtrap</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/32933">A Poorly Planned Escape Route</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:14 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

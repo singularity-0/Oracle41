@@ -1,0 +1,1784 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/1">Alyria</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Alyria</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Unknown</td>
+			<td>No</td>
+			<td>Wilds</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">Looking for this? <a href="http://annwn.info/tools/map/?plane=1&amp;zoom=0">http://annwn.info/tools/map/?plane=1&amp;zoom=0</a></td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+
+<h3>Items in area Alyria</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6878">a blood crystal</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/3736">a blood orb</a></td>
+			<td>150</td>
+			<td>orb</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3790">a broken box</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/1962">a cattail</a></td>
+			<td>10</td>
+			<td>light</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/8499">a commemorative plaque</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/3886">a cornstalk</a></td>
+			<td>5</td>
+			<td>seed</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/5555">a dark blue nightshade mushroom</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2077">a dead campfire</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6776">a dented, rusty horseshoe</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/1079">a few pine needles</a></td>
+			<td>1</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/7415">a fragment of meteorite</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/206">a green oak leaf</a></td>
+			<td>25</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3071">a handful of pebbles</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/3948">a large pearl</a></td>
+			<td>10</td>
+			<td>reagent-water</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/6822">a lead nugget</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/5219">a mandrake leaf</a></td>
+			<td>10</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/7416">a mandrake root</a></td>
+			<td>5</td>
+			<td>pill</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/5383">a nugget of admantite</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/7371">a nugget of iron ore</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/6842">a nugget of magcatine</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/6840">a nugget of mithril ore</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/6877">a nugget of pure silver</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/1252">a nugget of upsidaisyum ore</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/863">a piece of coral</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/856">a piece of driftwood</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6783">a piece of scrap iron</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2171">a pile of bones</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1958">a rather large boulder</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6846">a raw brown potato</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5574">a red apple</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/143">a ripe pumpkin</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1080">a rotten old tree branch</a></td>
+			<td>10</td>
+			<td>weapon</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/854">a sea shell</a></td>
+			<td>1</td>
+			<td>reagent-water</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/7219">a shard of a broken shield</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6332">a shard of broken glass</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/7784">a sling of great repute</a></td>
+			<td>203</td>
+			<td>weapon</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6905">a small crystal</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5575">a small flat stone</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/7065">a small pile of volcanic ash</a></td>
+			<td>15</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/7484">a small wooden chest</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/5681">a sprig of heather</a></td>
+			<td>15</td>
+			<td>pill</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2580">a steaming cow pie</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/5552">a strawberry pie</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/7393">a tall, rune-covered pylon</a></td>
+			<td>180</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/egg.png" width="13" height="13" alt="egg" /> <a href="/item/3363">a tanglevine seed</a></td>
+			<td>150</td>
+			<td>egg</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/7370">a telericaine nugget</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/7765">a treasure trove at the end of the rainbow</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5585">a weatherbeaten signpost</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5586">a weatherbeaten signpost</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5587">a weatherbeaten signpost</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5588">a weatherbeaten signpost</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5590">a weatherbeaten signpost</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5591">a weatherbeaten signpost</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5592">a weatherbeaten signpost</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5593">a weatherbeaten signpost</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5594">a weatherbeaten signpost</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2932">a willow branch</a></td>
+			<td>26</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1152">a yellow dandelion</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/7785">an artificer's fleshgauntlets</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/7789">an artificer's prismatic plates</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/7787">an artificer's silky slippers</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/7788">an artificer's sodium helm</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/7786">an artificer's spacey shoulderguards</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/7790">an artificer's wondrous weapon</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="ore" /> <a href="/item/6637">an electrum nugget</a></td>
+			<td>5</td>
+			<td>ore</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/7388">an orris root</a></td>
+			<td>15</td>
+			<td>pill</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5554">sage brush</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/864">some seaweed</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7848">some yellowish berries</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1644">stalks of fresh wheat</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3445">the skeletal remains of a fallen whalebeast</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3549">the skull of the witch, Agnes</a></td>
+			<td>120</td>
+			<td>armor</td>
+			<td><a href="/area/1">Alyria</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Alyria</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2775">A basilisk</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2772">A beached whale</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5045">A black and white speckled cow</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5047">A black Auryn bull</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5289">A black crow</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2774">A black panther</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3745">A black scorpion</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2875">A black unicorn</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4402">A blood leech</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3484">A blue whale</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2776">A boa constrictor</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2766">A brightly colored bird</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3109">A brown beaver</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5044">A brown cow</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2768">A carnivorous clam</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5297">A carp</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3939">A centaur ranger</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4742">A crappie</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3155">A crimson dragon</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5972">A cunning crocodile</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3091">A dangerous lioness</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3782">A deadly rattlesnake</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5039">A deformed pirate</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3509">A demonic centaur</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3111">A demonic goat</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3781">A desert kinsman</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5300">A desert kinsman named Muaddib s</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3087">A devious vixen</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5041">A donkey</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1644">A doppel-ganger</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3904">A dracon monk</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4265">A Drakanian long horn steer</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5037">A drow berserker</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3502">A drow brigand</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5960">A duly-elected representative of the unicorn populace</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3501">A ferocious piranha</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2765">A ferocious tiger</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2639">A fey necromancer</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2646">A fierce hill giant</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3938">A fierce rakshasa</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3154">A fire atronach</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5291">A fisherman</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4739">A freshwater salmon</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3249">A ghostly figure</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2777">A giant hawk</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4624">A giant hornet</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3552">A giant spider</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3482">A giant stingray</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3941">A gnome druid</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3112">A gnome goat herder</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4552">A goblin mercenary-for-hire</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4263">A goblin shaman</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3485">A great white shark</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3317">A green tree snake</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2770">A halfling nomad</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5585">A halfling paladin</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3483">A hammerhead shark</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1752">A harmless signet</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3555">A hell puppy</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2771">A hermit crab</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4737">A heron</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3578">A hideous harpy</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2645">A hill giant</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4047">A hopping frog</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4532">A hungry crocodile</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3090">A hungry lion</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5959">A joyous unicorn</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5049">A land shark</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3969">A largemouth bass</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2644">A laughing hill giant</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4429">A lava golem</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5286">A lioness</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4740">A lone wolf</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3480">A lost sailor</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2638">A lost sheep</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4431">A mangy coyote</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4264">A minotaur assassin</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4867">A minotaur shaman</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3510">A minotaur tribesman</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3558">A minotaur warlord</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2640">A mountain giant</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4262">A mountain goblin</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3716">A mountain wyrm</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3107">A mountain yak</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3106">A mountaineer</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3965">A northern pike</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5040">A not-so-wealthy merchant</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3486">A peaceful porpoise</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4733">A peasant child</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5042">A peasant farmer</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5043">A peasant overseer</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5495">A pixie watchman</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3487">A playful dolphin</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2773">A poisonous jellyfish</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2647">A pooka</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5340">A prehistoric kraken</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1051">A psychotic duck</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2641">A quartz golem</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3110">A rainbow trout</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4738">A red herring</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3873">A responsible druid</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3551">A sand golem</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3577">A savage wolf</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3576">A savage yeti</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3153">A scavenger imp</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2637">A shadow elf</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2767">A siren</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3557">A skeletal hydra</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4743">A slimy eel</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4534">A sneaky crocodile</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3508">A spectress</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3092">A stampeding wildebeest</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2727">A starving lion</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3960">A stubborn mule</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4261">A swamp hydra</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4531">A swamp troll</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2115">A tangle tree</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3156">A timber wolf</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3949">A vampire rabbit</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3556">A vile beholder</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3108">A wandering monk</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3089">A wild boar</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3405">A wild tarpan</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3088">A woodland elf</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4725">A wounded soldier</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2649">A yellow perch</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2642">A yellow phoenix</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1653">A young pegasus</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2648">An aggressive toadstool</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5339">An ancient kraken</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3481">An animated coral</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4260">An animated flame</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2769">An animated kelp</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2878">An animated rock</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5050">An animated scarecrow</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5338">An antedeluvian kraken</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3717">An ebony golem</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3093">An elderly goat</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5933">An elderly wolf</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3086">An elven bard</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5046">An idle farm hand</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2778">An ogre adventurer</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3933">An ogre headhunter</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3550">An ogre highwayman</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2643">An ogre warrior</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6006">An ogre youngster</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5038">An orc barbarian</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4207">An orc headhunter</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4528">Captain Pierot</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4315">Dread Pirate Maisali</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2686">Ferryman Gallow</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1288">Ferryman Uther</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4293">Jolly Pirate Crazyface</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4933">Lord Alonyr Moldyhat</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4289">Mysterious Captain Elizarta</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5250">Pirate Lennox Gravejacket</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3439">The witch, Agnes</a></td>
+		<td><a href="/area/1">Alyria</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:00 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1562 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/42">Pirate's Cove</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Pirate's Cove</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1185, 976) in Alyria</td>
+			<td>Yes</td>
+			<td>Towne</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the seedy-looking wharf towne of Pirate's Cove</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1185, 976]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1185, 976],
+		className: 'textpointer',
+		html: "Pirate's Cove",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(42, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1185&y=976&plane=1&zoom=4">View Pirate's Cove on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Pirate's Cove</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4345">a bamboo fishing pole</a></td>
+			<td>77</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5317">a barrel of Ahab's finest</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2454">a blue bandana</a></td>
+			<td>50</td>
+			<td>clothing</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/4033">a bottle of Ahab's finest</a></td>
+			<td>15</td>
+			<td>drink-container</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4171">a box shaped box</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1895">a buccaneer's longsword</a></td>
+			<td>80</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4244">a crafted ring band</a></td>
+			<td>45</td>
+			<td>jewelry</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4245">a cut gemstone</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2457">a cutlass</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3738">a full red food bowl</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4001">a fur necklace</a></td>
+			<td>80</td>
+			<td>clothing</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2455">a gold bandana</a></td>
+			<td>50</td>
+			<td>clothing</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6246">a hospital bed</a></td>
+			<td>20</td>
+			<td>furniture</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/3077">a keg of gunpowder</a></td>
+			<td>80</td>
+			<td>explosive</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8157">a lava cone</a></td>
+			<td>180</td>
+			<td>furniture</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2461">a manta ray's wing</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1173">a multi-colored ring</a></td>
+			<td>115</td>
+			<td>jewelry</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4257">a pair of black gloves</a></td>
+			<td>70</td>
+			<td>clothing</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2468">a pair of hard leather boots</a></td>
+			<td>65</td>
+			<td>armor</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4036">a pair of heavy chaps</a></td>
+			<td>120</td>
+			<td>armor</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/872">a pair of pirate bracers</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3561">a pearl bead bracelet</a></td>
+			<td>90</td>
+			<td>jewelry</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/4541">a perfect diamond</a></td>
+			<td>241</td>
+			<td>gem</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3822">a pile of gems</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2460">a pink bandana</a></td>
+			<td>50</td>
+			<td>clothing</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2459">a pirate pike</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="telescope" /> <a href="/item/3290">a polished silver spyglass</a></td>
+			<td>10</td>
+			<td>telescope</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2456">a purple bandana</a></td>
+			<td>50</td>
+			<td>clothing</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2469">a red bandana</a></td>
+			<td>50</td>
+			<td>clothing</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/657">a rocky slab of earth</a></td>
+			<td>120</td>
+			<td>armor</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/383">a ruby studded ring</a></td>
+			<td>70</td>
+			<td>jewelry</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8378">a scythe of poverty</a></td>
+			<td>96</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5605">a silver band</a></td>
+			<td>5</td>
+			<td>artifact</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/7890">a skull and crossbones ring</a></td>
+			<td>100</td>
+			<td>jewelry</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/2464">a small banjo</a></td>
+			<td>90</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4243">a snake tail whip</a></td>
+			<td>80</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1036">a snare drum</a></td>
+			<td>70</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/8025">a solid-silver treasure chest</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/6638">a stalwart pilum of the wind</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4344">a sting ray's tail</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2450">a stone spear</a></td>
+			<td>91</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2452">a swashbuckler's battle axe</a></td>
+			<td>90</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2475">a tentacle of Kraken</a></td>
+			<td>125</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2462">a thief's dagger</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1008">a thin rapier</a></td>
+			<td>65</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6247">a tombstone</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4158">a treasure chest</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8156">a volcanic vent</a></td>
+			<td>200</td>
+			<td>furniture</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/5291">a yellow and purple block of a magic cube</a></td>
+			<td>241</td>
+			<td>toy</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/7527">an advanced wheellock slug thrower</a></td>
+			<td>97</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/2470">an ancient coffin</a></td>
+			<td>200</td>
+			<td>container</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3891">an Atlantean venomer</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/815">an eye of a Kraken</a></td>
+			<td>95</td>
+			<td>light</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/649">an odd piece of coral</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4157">D'sayr's silver pendant</a></td>
+			<td>15</td>
+			<td>jewelry</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2466">Graybeard's shackles</a></td>
+			<td>10</td>
+			<td>jewelry</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/2463">magical bagpipes</a></td>
+			<td>155</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/7243">some blades</a></td>
+			<td>100</td>
+			<td>furniture</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2618">the amulet of champions</a></td>
+			<td>110</td>
+			<td>jewelry</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/5357">the ancient breastplate of power</a></td>
+			<td>140</td>
+			<td>armor</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1137">the boots of valor</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2453">the brig key</a></td>
+			<td>5</td>
+			<td>key</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/2458">the Captain's logbook</a></td>
+			<td>1</td>
+			<td>book</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2465">the cloak of deceit</a></td>
+			<td>105</td>
+			<td>armor</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/2476">the heart of Kraken</a></td>
+			<td>90</td>
+			<td>artifact</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/8067">the octarine tooth of the Nanave shark</a></td>
+			<td>85</td>
+			<td>amulet</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3362">the sheriff's stolen badge</a></td>
+			<td>25</td>
+			<td>jewelry</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2451">white cloth pants</a></td>
+			<td>15</td>
+			<td>clothing</td>
+			<td><a href="/area/42">Pirate's Cove</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Pirate's Cove</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1085">A baker</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1120">A bat</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1062">A blue whale</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1045">A butler</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1096">A card dealer</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1124">A carp</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1114">A criminal</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1061">A dolphin</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1046">A drab servant</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1083">A drunken sailor</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1099">A filthy vagrant</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1104">A fly</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1074">A furtive citizen</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1119">A ghost</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1068">A giant octopus</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1055">A grumpy cook</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1054">A guard of Kraken</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1048">A guest</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1067">A hammerhead shark</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1047">A happy chef</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1108">A harlot</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1113">A hired thug</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1072">A janitor</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1063">A jelly fish</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5840">A lionfish</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1125">A mallard duck</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1065">A manta ray</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1093">A meditating priest</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5839">A moray eel</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1089">A musician</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1092">A nun</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4113">A one-eyed marauder</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1056">A pirate</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3503">A pirate hunter</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4115">A pirate monkey</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5896">A practice dummy</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1077">A sailor</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1069">A sand crab</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1079">A scottish terrier</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1064">A sea anemone</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1066">A sea horse</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4111">A seafaring mage</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1118">A seasoned fighter</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1049">A shapely maid</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1073">A skinny cat</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1076">A smuggler</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4112">A sneaky smuggler</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1122">A squirrel</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3447">A stowaway</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1071">A streetwalker</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1075">A surly thief</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1080">A teller</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1117">A trainee swordsman</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1116">A trainee wizard</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4496">A traveler</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1097">A traveller</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1121">A walking corpse</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1123">A white tail deer</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1103">A young shopkeeper</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5251">A young, piratical clanner</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1102">Ahab</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1105">Altdorf</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1090">An assassin</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1107">An excited sailor</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3771">An old fisherman</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4514">An old sorcerer</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6244">An out-of-work warlock</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1082">Arball</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1086">Barlack</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1050">Baron Rothchild</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1100">Carson</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5273">D'sayr, the arena master</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1109">Gimlug</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1091">Graybeard's spirit</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1087">Holton</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4114">Jihulynth, the taskmaster</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1098">Largos</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1094">Lark</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1106">Mordreck</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1110">Nurse Marlene</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1115">Raff</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3677">Rasputin</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1101">Redd</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1084">Sparky</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1057">Talekh</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4940">The criminal leader</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1060">The first mate</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1081">The guildmaster</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1095">The head mistress</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1053">The Kraken</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5758">The mako shark Nanave</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1059">The pirate captain</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1058">The pirate's hostage</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1111">The postmaster</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1078">The shopkeeper</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1112">The town sheriff</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1070">The treasurer</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2206">Trader Columba</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4434">Turak the Shipwright</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1088">Volkmar</a></td>
+		<td><a href="/area/42">Pirate's Cove</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Post</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/1385">Post Office</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/1380">Armor Smith</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1302">Bakery</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1317">Bard's Music Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1306">Barlack's Mystical Arts</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1384">Black Smith</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1556">Carson's Magical Arts</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1391">General Goods</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1299">Magical Goods</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1642">Raff's Maps</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1557">Redd's Restaurant</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1305">Ring Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1378">Weapon Smith</a></td>
+		</tr>
+
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/1580">Calm Water</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/1576">Treasure Bay</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/1379">Black Thunder Tavern</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/23768">Bottom of Treasure Bay</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/23735">Depths of Treasure Bay</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/24043">Entrance to Kraken's Lair</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/1637">Treasure Bay</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/24042">Underwater Tunnel</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/24044">Kraken's Throne Room</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/1244">Main Gate of Pirate's Cove</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/1383">Swashbuckler's Infirmary</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:06 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1517 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/41">Ogre Village</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Ogre Village</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1888, 463) in Alyria</td>
+			<td>Yes</td>
+			<td>      </td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>curling smoke from a small village nestled in the mountaintops</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1888, 463]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1888, 463],
+		className: 'textpointer',
+		html: "Ogre Village",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(41, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1888&y=463&plane=1&zoom=4">View Ogre Village on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Ogre Village</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3945">a bear hide rug</a></td>
+			<td>125</td>
+			<td>treasure</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3617">a bearskin rug</a></td>
+			<td>175</td>
+			<td>armor</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3984">a black belt</a></td>
+			<td>163</td>
+			<td>clothing</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/7677">a black muzzleloader</a></td>
+			<td>109</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/2449">a bluebell flower</a></td>
+			<td>125</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4395">a broken eggshell</a></td>
+			<td>65</td>
+			<td>trash</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/3210">a broken wing</a></td>
+			<td>65</td>
+			<td>reagent-air</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4840">a chess board made of dirt and twigs</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/4491">a comfortable chair</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3209">a crude wooden spoon</a></td>
+			<td>172</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2512">a dragon's tooth on a necklace</a></td>
+			<td>50</td>
+			<td>jewelry</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7501">a fallen star of icy blue</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2513">a fallen tree</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6904">a fallen tree</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2517">a feral potato</a></td>
+			<td>20</td>
+			<td>food</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2389">a fewmet disk</a></td>
+			<td>110</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/6917">a game rabbit for tossing</a></td>
+			<td>10</td>
+			<td>toy</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5964">a handful of crushed flowers</a></td>
+			<td>65</td>
+			<td>trash</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4195">a heaping pile of pebbles</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3618">a huge lava rock</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/5307">a large ruby</a></td>
+			<td>150</td>
+			<td>treasure</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4960">a lemonade berry</a></td>
+			<td>65</td>
+			<td>food</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3317">a lucky rabbit's foot</a></td>
+			<td>75</td>
+			<td>jewelry</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/7365">a lump of fish gills</a></td>
+			<td>65</td>
+			<td>reagent-water</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="sextant" /> <a href="/item/4017">a magnetic fishbone</a></td>
+			<td>65</td>
+			<td>sextant</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3568">a magnificent set of antlers</a></td>
+			<td>90</td>
+			<td>treasure</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="manual" /> <a href="/item/7126">a manual of ogre heritage</a></td>
+			<td>23</td>
+			<td>manual</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3558">a multicolored beak</a></td>
+			<td>92</td>
+			<td>jewelry</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/1081">a mystic pinecone</a></td>
+			<td>100</td>
+			<td>seed</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4201">a nasty scab</a></td>
+			<td>90</td>
+			<td>food</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3141">a ninja crossbow</a></td>
+			<td>229</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1179">a pair of white dragon's claws</a></td>
+			<td>135</td>
+			<td>armor</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1083">a pet rock</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5539">a prickly burr</a></td>
+			<td>65</td>
+			<td>trash</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/6916">a rabbit for tossing</a></td>
+			<td>10</td>
+			<td>toy</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/5305">a red dragon scale</a></td>
+			<td>135</td>
+			<td>armor</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2937">a registration desk</a></td>
+			<td>90</td>
+			<td>furniture</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/4172">a rotten egg</a></td>
+			<td>100</td>
+			<td>explosive</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2515">a rotten fish carcass</a></td>
+			<td>30</td>
+			<td>food</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/2935">a sapling pine</a></td>
+			<td>40</td>
+			<td>seed</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1076">a satchel</a></td>
+			<td>210</td>
+			<td>container</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3710">a set of cast iron shinsplints</a></td>
+			<td>83</td>
+			<td>armor</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/3314">a shell filled with beetle juice</a></td>
+			<td>110</td>
+			<td>potion</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3946">a skinning knife</a></td>
+			<td>172</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/egg.png" width="13" height="13" alt="egg" /> <a href="/item/2486">a spider's half-built web</a></td>
+			<td>10</td>
+			<td>egg</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6295">a stale crumb of bread</a></td>
+			<td>16</td>
+			<td>food</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/4935">a stone bunny</a></td>
+			<td>20</td>
+			<td>figurine</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8438">a stone portal</a></td>
+			<td>200</td>
+			<td>furniture</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2514">a swan's nest</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/2511">a tall pine tree</a></td>
+			<td>60</td>
+			<td>plant</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/152">a tiny blue bell</a></td>
+			<td>125</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3318">a tiny spice bag</a></td>
+			<td>92</td>
+			<td>container</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/2836">a token of smashing</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/2934">a tree with a map tacked on to it</a></td>
+			<td>10</td>
+			<td>plant</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4396">a tuft of fur</a></td>
+			<td>65</td>
+			<td>trash</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3474">a twig named Woody</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/2933">a water bucket</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3956">a whompfish lure</a></td>
+			<td>240</td>
+			<td>treasure</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/2516">an acidic leaf</a></td>
+			<td>65</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/5616">an artesian well</a></td>
+			<td>65</td>
+			<td>fountain</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3958">an axe made of ogre bone</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/3957">an extradimensional sludge</a></td>
+			<td>65</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4839">an ogre goodbowl</a></td>
+			<td>20</td>
+			<td>trash</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4990">an ogre's smelly boots</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4167">an ogre's stomping boots</a></td>
+			<td>220</td>
+			<td>armor</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4034">black hand wraps</a></td>
+			<td>162</td>
+			<td>armor</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2497">Lasha's hero bracelet</a></td>
+			<td>220</td>
+			<td>jewelry</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3601">nunchaku of destruction</a></td>
+			<td>170</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3983">some frosted batwings</a></td>
+			<td>30</td>
+			<td>food</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/973">some padded leather armor</a></td>
+			<td>160</td>
+			<td>armor</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="money" /> <a href="/item/5308">Sorfirre's horde</a></td>
+			<td>5</td>
+			<td>money</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2936">the branch of a pine tree</a></td>
+			<td>35</td>
+			<td>trash</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3211">the club of big smashing</a></td>
+			<td>231</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3595">the flail of destruction</a></td>
+			<td>120</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3600">the flail of destruction</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4388">the flail of destruction</a></td>
+			<td>180</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5172">the flail of destruction</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4090">whip of mental strangulation</a></td>
+			<td>238</td>
+			<td>weapon</td>
+			<td><a href="/area/41">Ogre Village</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Ogre Village</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3499">A berserk grizzly</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1219">A bluebell faerie</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1232">A bobcat</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1243">A bull trout</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1225">A chigger</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1249">A colorful toucan</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1224">A crazed halfling</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1220">A curious anteater</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1242">A cygnet</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1228">A deranged grizzly bear</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1223">A dire wolf</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1236">A fearsome fire ant</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1252">A feral flower</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1238">A ferocious piranha</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1250">A funny bunny</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1226">A giant arachnid</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1217">A great owl</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5091">A horrifying tentacle</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1246">A howler monkey</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1248">A least tern</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1230">A lost spider</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1204">A lounging lizard</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1251">A magnificent elk</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1244">A mysterious whysteria vine</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1239">A pink flamingo</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1245">A small black beetle</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1214">A starling</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1247">A startled doe</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1222">A swarm of bloodthirsty mosquitos</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1240">A trumpeter swan</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6279">A wandering druidess</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1206">A wild horse</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1231">A wolverine</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1241">A wood duck</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1221">An innocent gray sloth</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1229">An ogre hunter</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3517">An ogre youngster</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4504">Badger the wolverine</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4736">Bentnose</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1210">Big Birtha</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1209">Birtha's children</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5301">Crashtree</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1674">Dandelion</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1676">Draffen</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1213">Fatears</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1207">Fatnose</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1235">Firecress</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3500">Flowerkill</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1675">Gabby</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1052">Grumbly-Ump</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1227">Grunt</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1202">Havall</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1342">Jojo</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1205">Lazyeye</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1253">Pelunia</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4376">Ringo</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1201">Rumblesnore</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1218">Rumblesnort</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1234">Sorbrazze</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1233">Sorfirre</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1203">Stinkriver</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1211">Sugarbottom</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1237">The two-headed ogre</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1208">Thornmouth</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1212">Throwfar</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1215">Ticklears</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4175">Tiny</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1216">Treelegs</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5347">Twiglegs</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3244">Whompfish</a></td>
+		<td><a href="/area/41">Ogre Village</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/18973">A Quiet Inlet</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/18988">A Stone Dwelling</a></td>
+		</tr>
+
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/19021">Below the Combat Pit</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/19009">Center of the Combat Pit</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/18998">East Side of the Combat Pit</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/18996">Eastern Point of the Combat Pit</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/11584">End of an Overgrown Path</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11600">Inside a Fat Tunnel</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/18990">Northern Point of the Combat Pit</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11601">Overlooking the Western Forest</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/18999">Southern Point of the Combat Pit</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/19001">West Side of the Combat Pit</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/19002">Western Point of the Combat Pit</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/11411">A Bend in Stinkfish River</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11407">A Rather Deep Section of Stinkfish River</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/11428">A Section of Stinkfish River</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11412">A Tranquil Pooling</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/18975">An Underwater Tunnel</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11591">Ascending Mount Firespit</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/19024">Cave Entrance</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11436">Floating in a Blue Lagoon</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/11592">In Front of a Large Cave</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11526">In the Midst of the Ogre Village</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/11408">In the Shadow of Mount Spitfire</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11527">Inside Bentnose's Hut</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/19025">Jojo's Cave</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11424">Mouth of the River</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/11525">Next to A Dirty Hut</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11586">Off the Beaten Path</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/11587">Up a Steep Grade</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/11594">Just Inside the Cave</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11598">The Dragon's Lair</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/18973">A Quiet Inlet</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/11375">A Shady Inlet</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/11375">A Shady Inlet</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:05 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

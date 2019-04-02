@@ -1,0 +1,1175 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/77">Random Area</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Random Area</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Unknown</td>
+			<td>No</td>
+			<td></td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+
+<h3>Items in area Random Area</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5418">a 12-karat key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6897">a 12-karat treasure chest</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/3475">a battered wooden chest</a></td>
+			<td>241</td>
+			<td>container</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/1124">a black moonstone</a></td>
+			<td>10</td>
+			<td>warp-stone</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5274">a bloodstained note in code addressed to PC</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5294">a bloodstained note in code addressed to Templeton</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7359">a bloodstained note in code addressed to Xaventry</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1394">a burlap sack of ogre currency</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/4199">a candy cane</a></td>
+			<td>10</td>
+			<td>pill</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3594">a circular mirror shield</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="manual" /> <a href="/item/4291">a counterfeit manual</a></td>
+			<td>241</td>
+			<td>manual</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="quiver" /> <a href="/item/6310">a crimson leather quiver</a></td>
+			<td>175</td>
+			<td>quiver</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/764">a dendrophilia fetish</a></td>
+			<td>170</td>
+			<td>artifact</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4290">a dense lead key</a></td>
+			<td>241</td>
+			<td>key</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3246">a dilated, purple eyeball</a></td>
+			<td>200</td>
+			<td>food</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5150">a drop of suspended freshwater</a></td>
+			<td>60</td>
+			<td>artifact</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/7062">a giant boulder</a></td>
+			<td>60</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5949">a gift from Pyrian</a></td>
+			<td>45</td>
+			<td>jewelry</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3461">a glacial cudgel</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3180">a gold-plated battle flail</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/6418">a grinning skull</a></td>
+			<td>230</td>
+			<td>warp-stone</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/link.png" width="13" height="13" alt="transmitter" /> <a href="/item/3980">a helm crafted of an unknown alloy</a></td>
+			<td>241</td>
+			<td>transmitter</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3488">a highlander claymore</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3491">a highlander's field kilt</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/1363">a jasper gemstone</a></td>
+			<td>10</td>
+			<td>warp-stone</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/4029">a large quartz crystal</a></td>
+			<td>67</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2738">a lightning bow</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5646">a midnight blue Magus staff</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/7608">a pair of extracting gloves</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4482">a pair of steel gloves</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5140">a pair of swordchucks</a></td>
+			<td>232</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3304">a pair of swordchucks</a></td>
+			<td>232</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="money" /> <a href="/item/4429">a pile of gold coins</a></td>
+			<td>1</td>
+			<td>money</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/658">a pretzeled sapling</a></td>
+			<td>95</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3716">a rainbow-tinted nautilus shell</a></td>
+			<td>227</td>
+			<td>armor</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3102">a ranger's longbow</a></td>
+			<td>225</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3142">a razor dirk</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/5399">a red, green and blue block of a magic cube</a></td>
+			<td>241</td>
+			<td>toy</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4845">a rusted lockbox</a></td>
+			<td>225</td>
+			<td>container</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/6563">a sandstone water glyph</a></td>
+			<td>60</td>
+			<td>treasure</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/5931">a shard of an Orb of Vandemaar</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/7245">a shiny red button</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2835">a sinbark targe <span class="red">[OS]</span></a></td>
+			<td>114</td>
+			<td>armor</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4386">a sinbark targe</a></td>
+			<td>114</td>
+			<td>armor</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/1088">a small meteorite</a></td>
+			<td>1</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="money" /> <a href="/item/3888">a small pile of gold coins</a></td>
+			<td>1</td>
+			<td>money</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4048">a solid crystal sphere</a></td>
+			<td>241</td>
+			<td>treasure</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="writing-instrument" /> <a href="/item/4958">a stick of barbarian's chalk</a></td>
+			<td>10</td>
+			<td>writing-instrument</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/2436">a stone of citation</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/2730">a straw man</a></td>
+			<td>200</td>
+			<td>figurine</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/3581">a striped agate gemstone</a></td>
+			<td>205</td>
+			<td>warp-stone</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3552">a vortex wand</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3666">an acid yellow Magus staff</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3962">an amethyst gemstone</a></td>
+			<td>65</td>
+			<td>treasure</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/8084">an anti-Ithrix bomb</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/3182">an emerald gemstone</a></td>
+			<td>10</td>
+			<td>warp-stone</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4378">an enchanted spectaratrix</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4440">an enchanted throwing knife</a></td>
+			<td>123</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/2403">an idol of Akabbas <span class="red">[OS]</span></a></td>
+			<td>108</td>
+			<td>figurine</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4732">an obsidian lever</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/7576">an ohm effigy</a></td>
+			<td>236</td>
+			<td>treasure</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4203">brains of the hodag</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3698">crescent whip</a></td>
+			<td>68</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/999">spikebit of the rapacious ganza</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5014">spikebit of the rapacious garbanzo</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2667">the all-seeing eye of the vengeful archangel</a></td>
+			<td>25</td>
+			<td>light</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5016">the barbarian's fighting ring</a></td>
+			<td>121</td>
+			<td>furniture</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3026">the bola of torture</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/4956">the egg of the phoenix</a></td>
+			<td>50</td>
+			<td>orb</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clock.png" width="13" height="13" alt="clock" /> <a href="/item/4775">the legendary timepiece 'Animexedon'</a></td>
+			<td>241</td>
+			<td>clock</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clock.png" width="13" height="13" alt="clock" /> <a href="/item/4776">the legendary timepiece 'Libecelor'</a></td>
+			<td>241</td>
+			<td>clock</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clock.png" width="13" height="13" alt="clock" /> <a href="/item/5273">the legendary timepiece 'Nexxador'</a></td>
+			<td>241</td>
+			<td>clock</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clock.png" width="13" height="13" alt="clock" /> <a href="/item/5277">the legendary timepiece 'Resugulon'</a></td>
+			<td>241</td>
+			<td>clock</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3262">the maul of destruction</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4934">the scythe of terror</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/77">Random Area</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Random Area</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/981">A candy salesman</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3219">A cube of gelatin</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2531">A demented druid</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3602">A determined hunter</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3788">A diplomat of Trigael</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/896">A dormant quartz golem</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3151">A down-on-his-luck sorcerer</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/612">A fifth-degree swordchuckist</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1834">A flying sea serpent</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2476">A friendly ghost</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1928">A jiggling cube</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1270">A Juju monkey</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3240">A large black cat</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3082">A large, disgruntled orcbreed</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3094">A lost pixie</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4303">A massive scorpion hound</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3729">A messenger of the Xanai</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3744">A moon oak treant</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3639">A pernicious hodag</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4715">A pernicious squirt</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1173">A petrified xorn-hydra crossbreed</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6112">A protective torthubian pinnaud</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2636">A psychic yeti</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/67">A raucous drunkard</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3311">A reactivated quartz golem</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1638">A sad panda</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3245">A skeletal horse</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3761">A sly weasel</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4302">A snarling hound dog</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3241">A snowy-white owl</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2421">A surprised tinkergnome</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3553">A tired trapper</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2532">A twisted ranger</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3441">A wuggly-ump</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3296">An assassin of the Red Hand</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2869">An ogre ranger</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5312">An old man dressed like Cupid</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4304">An unhappy scorpion</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/836">Fellstump the Protector</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5004">Mot the barber</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6145">NAME, the Archon Hunter Master</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2929">NAME, the BOMBER-TYPE Archon Hunter</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2928">NAME, the DRUID-TYPE Archon Hunter</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2931">NAME, the GENERIC-TYPE Archon Hunter</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2932">NAME, the MAGIC IMMUNE-TYPE Archon Hunter</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2927">NAME, the SUMMONER-TYPE Archon Hunter</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2930">NAME, the WITCH-TYPE Archon Hunter</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6265">Nekrokorddion the netherbard</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3448">Phronesis</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3764">Terra Ophellium</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2726">The moon demon</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4487">Thillius the damned</a></td>
+		<td><a href="/area/77">Random Area</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:17 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

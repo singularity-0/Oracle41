@@ -1,0 +1,448 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/quest/">Quests</a></li>
+	<li><a class="breadcrumb" href="/quest/72">Under the Sea!</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Quest: Under the Sea!</h2>
+
+
+<div id="qsearch">
+	<form method="get" action="/quest/search/">
+		<table>
+			<tr>
+				<td>Search Type</td>
+				<td>Keywords</td>
+				<td>Sorted by</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>
+					<select name="search" tabindex="1">
+						<option value="quest">Quest</option>
+						<option value="phase">Phase</option>
+						<option value="master">Quest master</option>
+					</select>
+				</td>
+				<td>
+					<input type="text" name="keyword" size="30" maxlength="30" value="" tabindex="2" />
+				</td>
+				<td>
+					<select name="sort" tabindex="3">
+						<option value="questname">Quest Name</option>
+						<option value="questid">Quest ID</option>
+						<option value="pracreward">Practices</option>
+						<option value="qpreward">Quest Points</option>
+						<option value="questmaster">Quest Master</option>
+					</select>
+				</td>
+				<td><input type="submit" value="Search" /></td>
+			</tr>
+		</table>
+	</form>
+</div>
+
+<script type="text/javascript">
+function togPhase(n) {
+	var e = document.getElementById('phasehint' + n);
+	e.style.display = e.style.display == 'none' ? 'block' : 'none';
+}
+function togAllPhases(display) {
+	for (var i = 1; i <= 50; i++) {
+		var e = document.getElementById('phasehint' + i);
+		if (!e) break;
+		e.style.display = display;
+	}
+}
+function addHint(n) {
+	var e = document.getElementById('phase');
+	for (var i = 0; i < e.childNodes.length; i++) {
+		e.childNodes[i].selected = e.childNodes[i].value == n ? 'selected' : '';
+	}
+	e = document.getElementById('text');
+	e.focus();
+	e.select();
+}
+</script>
+
+<div class="mm white">
+This quest  is called '<span class="yellow">Under the Sea!</span>',<br/>
+for Adventurers levels <span class="yellow">140</span> to <span class="yellow">180</span>.<br />
+
+
+<span class="hg"><a href="/npc/255">Lord Vendredi</a> [<a href="/area/51">Sigil</a>] is the master in charge of this quest.</span><br />
+
+I have heard tales of a fantastic underwater city called Atlantis, far to<br />
+the southeast.  They say it is inhabited by merfolk, wonderful creatures who<br />
+are reportedly half-man, half-fish, and able to breathe underwater.  Since I<br />
+am unable to make the journey myself at this time due to other pressing<br />
+matters, please go in my stead and learn more about this unique city and its<br />
+citizens.  Don't forget to stop by the palace, and pay a visit to the<br />
+Avatar, the only human who supposedly resides permanently in that lost city.<br />
+Your efforts on my behalf will be well rewarded indeed!<br />
+
+<span class="hy">Upon successful completion of this quest you can receive:</span><br />
+
+<span class="hm">*</span>Up to <span class="yellow">75</span> quest points, <span class="yellow">8</span> practice points, <span class="yellow">40,000</span> experience points,<br/>
+&nbsp;<span class="yellow">0</span> build points, <span class="yellow">0</span> piety, and <span class="yellow">12,000</span> gold pieces.<br />
+
+
+You have <span class="yellow">400</span> minutes remaining to complete this quest.<br />
+
+Under the Sea! consists of:<br />
+
+
+	<div class="phase" id="phase1">
+
+
+		<a class="hints" href="javascript:togPhase(1);">Phase 1</a>: Visit <a href="/npc/2719">An Atlantian merman</a>. 		
+		<div class="phasehints" id="phasehint1" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/2">Atlantis</a>.</div>
+
+
+			<div class="phasehint">
+				Wonders around Atlantis.				&mdash;
+				Vur							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase2">
+
+
+		<a class="hints" href="javascript:togPhase(2);">Phase 2</a>: Journey to <a href="/room/22936">Gathered Goods &amp; Curiosities</a>. 		
+		<div class="phasehints" id="phasehint2" style="display: none;">
+
+<div class="phaseinforoom">in <a href="/area/2">Atlantis</a>.</div>
+
+
+			<div class="phasehint">
+				Six north of the down into Atlantis.				&mdash;
+				Vur							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase3">
+
+
+		<a class="hints" href="javascript:togPhase(3);">Phase 3</a>: Recover <a href="/item/1869">a bottle of mermaids tears</a>. 		
+		<div class="phasehints" id="phasehint3" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/5833">Marie the magic shop owner</a> (shop #11) [<a href="/room/29943/">Marie's Shop of Wonders</a>, <a href="/area/140" class="white">Aequtus</a>],<br /><a href="/npc/2716">Marie the magic shop owner</a> (shop #11) [<a href="/room/25093/">Marie's Shop of Wonders</a>, <a href="/area/2" class="white">Atlantis</a>].</div>
+
+
+			<div class="phasehint">
+				Enter the mirror in Eiram's Shop of Wonders and you will enter a new shop called Marie's Shop of Wonders. They are sold there.				&mdash;
+				Vur							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase4">
+
+
+		<a class="hints" href="javascript:togPhase(4);">Phase 4</a>: Recover <a href="/item/272">a bottle of Atlantian beer</a>. 		
+		<div class="phasehints" id="phasehint4" style="display: none;">
+
+<div class="phaseinfoitem">from <a href="/npc/5827">Something</a> (shop #2) [<a href="/area/194" class="white">Smuggler's Gulch</a>].</div>
+
+
+			<div class="phasehint">
+				Found on the floor in Seating Area of The Salty Shark Tavern.				&mdash;
+				Vur							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase5">
+
+
+		<a class="hints" href="javascript:togPhase(5);">Phase 5</a>: Defeat <a href="/npc/2711">A white shark</a>. 		
+		<div class="phasehints" id="phasehint5" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/2">Atlantis</a>.</div>
+
+
+			<div class="phasehint">
+				Wonders around the streets of Atlantis.				&mdash;
+				Vur							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase6">
+
+
+		<a class="hints" href="javascript:togPhase(6);">Phase 6</a>: Visit <a href="/npc/4854">King Triton XVII</a>. 		
+		<div class="phasehints" id="phasehint6" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/room/22328">The Throne Room of Atlantis</a>, <a href="/area/2">Atlantis</a>.</div>
+
+
+			<div class="phasehint">
+				From the down into Atlantis, all north.				&mdash;
+				Vur							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase7">
+
+
+		<a class="hints" href="javascript:togPhase(7);">Phase 7</a>: Visit <a href="/npc/3820">The holy Avatar</a>. 		
+		<div class="phasehints" id="phasehint7" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/area/2">Atlantis</a>.</div>
+
+
+			<div class="phasehint">
+				All north once you enter The Temple of Nadazar.				&mdash;
+				Vur							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase8">
+
+
+		<a class="hints" href="javascript:togPhase(8);">Phase 8</a>: Defeat <a href="/npc/2720">The chief thief of Atlantis</a>. 		
+		<div class="phasehints" id="phasehint8" style="display: none;">
+
+<div class="phaseinfomob">in <a href="/room/22174">The Chief Thief's Office</a>, <a href="/area/2">Atlantis</a>.</div>
+
+
+			<div class="phasehint">
+				From the down into Atlantis, go south, then follow the path east.				&mdash;
+				Vur							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="phase" id="phase9">
+
+
+		<a class="hints" href="javascript:togPhase(9);">Phase 9</a>: Journey to <a href="/room/22922">A Strange Corridor</a>. 		
+		<div class="phasehints" id="phasehint9" style="display: none;">
+
+<div class="phaseinforoom">in <a href="/area/2">Atlantis</a>.</div>
+
+
+			<div class="phasehint">
+				One east of The chief thief of Atlantis. You have to search for it. **WARNING** CPK				&mdash;
+				Vur							</div>
+
+
+		</div>
+	</div>
+
+
+	<div class="quest-toggle">
+		<a href="javascript:togAllPhases('block');">[+] Expand all</a>&nbsp;&nbsp;<br />
+		<a href="javascript:togAllPhases('none');">[-] Collapse all</a>
+	</div>
+
+</div>
+
+
+<ul class="toolbar">
+		<li><a href="/quest/72/fix/"><img src="/img/ico/script_edit.png" height="16" width="16" alt="edit quest" /> <span>fix ambiguous phases</span></a></li>
+</ul>
+
+
+<table id="forum-topic" cellspacing="0" cellpadding="0">
+
+
+	<tr>
+		<td width="15%" valign="top" class="user"><strong><a href="/user/1849">Myrenne</a></strong>
+				</td>
+		<td class="text" valign="top">
+			<div class="post-meta">
+				2010-09-10 03:24 am							</div>
+			I got this version of the quest from Undaya.		</td>
+	</tr>
+
+
+</table>
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 13:12:03 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

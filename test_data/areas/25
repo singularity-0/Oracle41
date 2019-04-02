@@ -1,0 +1,1891 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/25">Hotel Hello</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Hotel Hello</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1228, 768) in Underground</td>
+			<td>Yes</td>
+			<td>Isle</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>a magnificent marble structure on a lush, manicured island locale</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(2);
+	vmap.setCenterPos([1228, 768]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1228, 768],
+		className: 'textpointer',
+		html: "Hotel Hello",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(25, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1228&y=768&plane=2&zoom=4">View Hotel Hello on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Hotel Hello</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/8354">a bed of flames</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6385">a bent, iron key</a></td>
+			<td>20</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/4979">a bitter violet pill</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3048">a blade of ice</a></td>
+			<td>200</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3060">a bone throwing spear</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3251">a brightly polished key</a></td>
+			<td>220</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="telescope" /> <a href="/item/701">a carved ivory telescope</a></td>
+			<td>220</td>
+			<td>telescope</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3247">a charred corpse</a></td>
+			<td>50</td>
+			<td>trash</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="money" /> <a href="/item/5600">a couple of shiny gold coins</a></td>
+			<td>10</td>
+			<td>money</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3150">a crystal quickling dagger</a></td>
+			<td>205</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/7521">a cup of cordial</a></td>
+			<td>20</td>
+			<td>drink-container</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/3059">a dark bluish slate</a></td>
+			<td>200</td>
+			<td>parchment</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/709">a dark steel corseque</a></td>
+			<td>210</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3041">a deep maroon surcoat</a></td>
+			<td>80</td>
+			<td>clothing</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-fire" /> <a href="/item/3053">a fire stick</a></td>
+			<td>10</td>
+			<td>reagent-fire</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7313">a firecat's whisker</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3049">a fountain key</a></td>
+			<td>120</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/3057">a fragment of coconut husk</a></td>
+			<td>10</td>
+			<td>reagent-air</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/3153">a garden dwarf's spade</a></td>
+			<td>50</td>
+			<td>spade</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3148">a gargoyle's vestigial wing</a></td>
+			<td>210</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3051">a grass broom</a></td>
+			<td>15</td>
+			<td>trash</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3052">a grass skirt</a></td>
+			<td>60</td>
+			<td>clothing</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/705">a guard's hat</a></td>
+			<td>190</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/7464">a half-eaten corpse</a></td>
+			<td>20</td>
+			<td>food</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/7795">A holy tome</a></td>
+			<td>0</td>
+			<td>artifact</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3033">a huge wooden key</a></td>
+			<td>100</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/3056">a jar of frog eggs</a></td>
+			<td>10</td>
+			<td>reagent-water</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3028">a large four-post bed</a></td>
+			<td>60</td>
+			<td>furniture</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-ethereal" /> <a href="/item/3054">a lightning bolt</a></td>
+			<td>10</td>
+			<td>reagent-ethereal</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/702">a lock of golden hair</a></td>
+			<td>200</td>
+			<td>treasure</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/5151">a mirrored amulet</a></td>
+			<td>241</td>
+			<td>amulet</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3062">a pair of overalls</a></td>
+			<td>150</td>
+			<td>clothing</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3151">a pair of rose quartz armbands</a></td>
+			<td>168</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/3058">a palm frond</a></td>
+			<td>10</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6316">a petrified twig</a></td>
+			<td>100</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3040">a pickled eye</a></td>
+			<td>100</td>
+			<td>food</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3100">a piece of polished platinum</a></td>
+			<td>240</td>
+			<td>treasure</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3287">a polished steel bascinet</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="amulet" /> <a href="/item/3154">a puka shell necklace</a></td>
+			<td>230</td>
+			<td>amulet</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4816">a puka shell necklace</a></td>
+			<td>230</td>
+			<td>jewelry</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3582">a pulsing shield</a></td>
+			<td>230</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/3459">a quickling globe</a></td>
+			<td>150</td>
+			<td>light</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5143">a rattan handled pinahig</a></td>
+			<td>208</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4436">a raven bookmark</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2922">a red collar</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/689">a set of splinted cuisses</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/3037">a shot glass of whiskey</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/3035">a silver goblet</a></td>
+			<td>40</td>
+			<td>drink-container</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/3036">a skin filled with rat blood</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5617">a small carving knife</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3133">a small crystal button</a></td>
+			<td>15</td>
+			<td>jewelry</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/3038">a small dark vial</a></td>
+			<td>30</td>
+			<td>drink-container</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3147">a small fragment of bone</a></td>
+			<td>15</td>
+			<td>trash</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4516">a small key</a></td>
+			<td>50</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4707">a small key carved from human bone</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4777">a small misshapen cog</a></td>
+			<td>200</td>
+			<td>artifact</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/7737">a small pool</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/3926">a small puka shell</a></td>
+			<td>100</td>
+			<td>reagent-water</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3039">a small serving of brains</a></td>
+			<td>40</td>
+			<td>food</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/3282">a small well</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3034">a small wrought-iron latch</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3288">a small, crystal key wrapped in silk</a></td>
+			<td>80</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3149">a small, gem encrusted key</a></td>
+			<td>100</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/7738">a small, wooden hair pin</a></td>
+			<td>50</td>
+			<td>jewelry</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5149">a spear of bone breaking</a></td>
+			<td>230</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3583">a spiked spontoon</a></td>
+			<td>216</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/8355">a statue fountain</a></td>
+			<td>100</td>
+			<td>fountain</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/6383">a statue fountain</a></td>
+			<td>100</td>
+			<td>fountain</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/6384">a statue fountain</a></td>
+			<td>100</td>
+			<td>fountain</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/3217">a steaming pile of manure</a></td>
+			<td>100</td>
+			<td>trash</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/704">a stiletto called 'Kiss of Death'</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3050">a straw mat</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3042">a sturdy wooden bench</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1909">a tail stud</a></td>
+			<td>225</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/3055">a tiny diamond</a></td>
+			<td>10</td>
+			<td>gem</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/883">a web of lies</a></td>
+			<td>240</td>
+			<td>jewelry</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3061">a wooden bench</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/3152">a wooden trough</a></td>
+			<td>20</td>
+			<td>fountain</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6389">a zapper fang</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2583">an extremely dusty pillow</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3047">an icy guard key</a></td>
+			<td>90</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3044">an icy key</a></td>
+			<td>120</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/3068">an iron flask</a></td>
+			<td>220</td>
+			<td>potion</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/3063">an oak table</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="sextant" /> <a href="/item/2885">an oddly-shaped sextant</a></td>
+			<td>200</td>
+			<td>sextant</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/3458">an old misused diary</a></td>
+			<td>60</td>
+			<td>book</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="mortar-and-pestle" /> <a href="/item/3793">an onyx mortar and pestle</a></td>
+			<td>155</td>
+			<td>mortar-and-pestle</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4209">an unused bar of soap</a></td>
+			<td>25</td>
+			<td>trash</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/679">an Uzbaki cloak</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/700">an Uzbaki staff</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3088">seven faces of death</a></td>
+			<td>235</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3045">some green overalls</a></td>
+			<td>180</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3046">some hedge clippers</a></td>
+			<td>180</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3253">Suzarra's Breastplate</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/695">the axe of Ironheart</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2585">the boots of regret</a></td>
+			<td>155</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3248">the corpse of a mouse</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2648">the deathhead bracelet</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4649">the favor of Suzarra</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/3254">the favor of Suzarra</a></td>
+			<td>240</td>
+			<td>artifact</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3399">the flying guillotine</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4517">the key of the eye of death</a></td>
+			<td>200</td>
+			<td>key</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3539">the nose ring of Lady Gonson</a></td>
+			<td>122</td>
+			<td>jewelry</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4391">the ring of the beast</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="lockpick" /> <a href="/item/4778">the spine of a rat</a></td>
+			<td>180</td>
+			<td>lockpick</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/3043">the staff of the bridge</a></td>
+			<td>120</td>
+			<td>staff</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/732">Veldra's silken gloves</a></td>
+			<td>240</td>
+			<td>armor</td>
+			<td><a href="/area/25">Hotel Hello</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Hotel Hello</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1727">A beautiful banshee</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4119">A black cat</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1736">A black swan</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4097">A blood covered rat</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2402">A boy bathed in light</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2401">A boy child</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6239">A broken servant</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3574">A cambion demon</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4110">A cloudling</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3827">A crystal cherub</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5689">A cute little water pixie</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4275">A dapper gentleman</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4098">A dark-skinned man</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5002">A death naga</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3196">A demon hound</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4135">A demonic guard</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3974">A devil dog</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6151">A dragon-mephit crossbreed</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3190">A faerie sahuagin</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3192">A faerie sahuagin</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4130">A firecat</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3975">A flaming-eyed man</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4027">A gardener zombie</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4731">A ghast</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4727">A ghost girl</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4728">A ghost man</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4729">A ghost woman</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1729">A ghostly bathroom attendant</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4726">A ghostly boy</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4730">A ghostly infant</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2400">A girl child</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1738">A green gecko</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3826">A handmaiden</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4029">A hedge wizard</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2072">A large hedgehog</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3950">A little girl</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1836">A living gargoyle statue</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4134">A luscious temptress</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5320">A medusa</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1725">A native doorman</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1733">A native woman</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1406">A night hag</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3217">A pack of dead wolves</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3977">A priest of pain</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1838">A quickling elder</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1837">A quickling mage</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4886">A school of fish</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1958">A scorched screamer</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3972">A screaming mimi</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1741">A serpent prisoner</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3978">A shadowy hellion</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1726">A sharply dressed bartender</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1732">A skeletal guard</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1731">A skeletal troll</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3194">A skeletal warrior</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5879">A skeleton</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1737">A slimy frog</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4887">A slippery frog</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3187">A small brown pony</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3182">A small hummingbird</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3973">A snarling vampire</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4885">A strange twist of weeds</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5881">A swarm of rats</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1735">A tall dark native warrior</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4028">A thorny wall</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4109">A thunderette</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3829">A tiny pixie</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4131">A tiny wisp of flame</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1739">A tubby dwarf</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3971">A vengeful wraith</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1728">A wandering guest</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3976">A watchful skeleton</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3970">A water beast</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2403">A well dressed dame</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5880">A writhing mass of mold</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1407">A zapper</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4276">An ancient native woman</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1734">An ancient witch doctor</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3828">An ebony statuette</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6164">An emissary of Order from the Astral Plane</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1740">An orc prisoner</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4503">Bevidath, the sea hag twin</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1409">Laerethanel</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1408">Leandra</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3830">Suzarra, the witch sister</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4279">The Big Kahuna</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4278">The chief</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4277">The Chief's wife</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4884">The dark stalker</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4132">The Gatekeeper</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4133">The Gatekeeper</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3031">The Gatekeeper</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3823">The ghost of Leandra</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3809">The mad war master</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1730">The maze gardener</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3824">Unruh, the Demonic</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3808">Veldra, the witch sister</a></td>
+		<td><a href="/area/25">Hotel Hello</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/28022">A Dark Stall</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28016">A Large Stall</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28015">A Manure-Filled Stable</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28021">A Stall Built For Two</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/30673">A Stone Platform</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28019">A Well Kept Stall</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28012">A Well-Kept Stable</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/27586">Entrance to the Hedge Maze</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/27593">Hedge Maze Fountain</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28018">Inside A Stall</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28011">Inside The Stables</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/27989">Watering Hole</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/30664">A Dark Tunnel Of Water</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28249">A Room Below a Fountain</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28241">An Icy Passage Beneath the Grate</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28248">An Underground Cage</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28244">An Underground Corridor</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28235">Extravagance Overlooking The Garden</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28227">Looking To The Volcano</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/27976">Maze Passageway</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28215">Sitting Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28071">The Diamond Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28147">The Grand Stairway</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28231">The Lap of Luxury</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/28184">The Pearl Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28246">Underground Intersection</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/30658">A Dark Tunnel Of Water</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/27977">A Huge Circular Clearing</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/27593">Hedge Maze Fountain</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/28208">Serene and Calming</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/27593">Hedge Maze Fountain</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:03 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

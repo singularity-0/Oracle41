@@ -1,0 +1,1175 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/11">Palace of Diocletian</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Palace of Diocletian</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(553, 1353) in Alyria</td>
+			<td>Yes</td>
+			<td>Castle</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the graceful stone towers of the Palace of Diocletian</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([553, 1353]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [553, 1353],
+		className: 'textpointer',
+		html: "Palace of Diocletian",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(11, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=553&y=1353&plane=1&zoom=4">View Palace of Diocletian on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Palace of Diocletian</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/3834">a bubbling green potion</a></td>
+			<td>120</td>
+			<td>potion</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/11">a bumblebee stinger</a></td>
+			<td>140</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/534">a crystal vase</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1113">a fountain engraved with silver runes</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4466">a golden seal</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="toy" /> <a href="/item/5161">a green block of a magic cube</a></td>
+			<td>241</td>
+			<td>toy</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1262">a jesters costume</a></td>
+			<td>140</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1259">a kitchen knife</a></td>
+			<td>70</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/75">a longsword</a></td>
+			<td>145</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/5037">a marbleskin tail</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1092">a merchant's necklace</a></td>
+			<td>140</td>
+			<td>treasure</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/5785">a misplaced letter to Archibold the Great Scholar</a></td>
+			<td>10</td>
+			<td>parchment</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/101">a pair of giant gray sleeves</a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1089">a red apple</a></td>
+			<td>1</td>
+			<td>food</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4393">a ritual athame</a></td>
+			<td>100</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5838">a sacred Ring of the Lady</a></td>
+			<td>241</td>
+			<td>jewelry</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1095">a school book</a></td>
+			<td>15</td>
+			<td>book</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/3137">a silver flute</a></td>
+			<td>140</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/3138">a silver flute <span class="red">[OS]</span></a></td>
+			<td>140</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/6818">a small journal</a></td>
+			<td>15</td>
+			<td>book</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/664">a star wand</a></td>
+			<td>77</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3835">a steel shield</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5345">a two handed sword</a></td>
+			<td>135</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/5028">a water orb</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3685">Admiral Yotln's Medal of Admantite Strength</a></td>
+			<td>200</td>
+			<td>treasure</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/937">an obsidian gargoyle tailguard</a></td>
+			<td>140</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/935">an obsidian gargoyle's shield</a></td>
+			<td>130</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3833">an obsidian gargoyle's sword</a></td>
+			<td>130</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1112">Archibold's staff of wisdom</a></td>
+			<td>180</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1258">obsidian gargoyle wing tip</a></td>
+			<td>130</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4427">the marbleskin aegis</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4339">the marbleskin aegis</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3837">the marbleskin twister</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/744">the pike of prosperity</a></td>
+			<td>150</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1852">the sword of uncalling</a></td>
+			<td>230</td>
+			<td>weapon</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/6152">the venerable veteran's trousers <span class="red">[OS]</span></a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/6153">the venerable veteran's trousers</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/11">Palace of Diocletian</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Palace of Diocletian</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2991">A bathing man</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3794">A blind cult member</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2974">A bumblebee</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2994">A colorful tropic bird</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3005">A common worshipper</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3793">A cult priest</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3789">A cultist</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3790">A dead child</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3004">A Diocletian choir member</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3001">A Diocletian citizen soldier</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2969">A Diocletian commoner</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3007">A Diocletian palace cook</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3022">A Diocletian scholar of Law</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3003">A fat kitty cat</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3795">A feral cerberus</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3027">A flesh-eating scorpion</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2992">A foolish jester</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3013">A foreign dignitary</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2987">A foreign historian</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3026">A fresh zombie</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3002">A gardener</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2996">A gray woman</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3025">A howling banshee</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3008">A hungry aristocrat</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2979">A little thief</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3791">A lost spirit</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5271">A mangy cat</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2980">A minotaur barbarian</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2966">A minotaur warrior</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3030">A missed soul</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2983">A noble woman</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3021">A palace attendant</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1956">A palace servant</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4309">A persian trader</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3000">A philosopher</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2982">A playful child</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2995">A postman</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2977">A pretty woman</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3792">A rabid cultist</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3029">A rancid ghoul</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2372">A retired military man</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2971">A rogue bumblebee</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3014">A skilled bard</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2975">A slave trader</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2973">A slave woman</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2976">A small gray rat</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4428">A small monkey</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3009">A small snake</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3875">A stone tiger</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2999">A student</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4558">A student teacher for Archibold</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2997">A teller</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2972">A tiny sparrow</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2990">A towel boy</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2965">A traveling merchant</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4614">A venerable veteran</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1267">A Viridian refugee</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2981">A visiting official</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1955">Abelard</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2692">Abraham</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3859">An animated broom</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3012">An elite palace wizard</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3010">An elite warrior mage</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3011">An elite warrior mage sentry</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3024">An infesting wasp</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2968">An obsidian gargoyle</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3023">Archibold the Great Scholar</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3020">Denise</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2998">Ed</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3017">Emperor Diocletian</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3018">Empress Diocletian</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3787">Flesh-eating bacteria</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3028">Jean De Foliate</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2989">Larkin, the head gardener</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2693">Otto</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3015">Tetrarch Baalbek</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3019">Tetrarch Caracalla</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3016">Tetrarch Hyksos</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3006">The High Priestess of the church</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4427">The Laocoon</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2993">The magic shop owner</a></td>
+		<td><a href="/area/11">Palace of Diocletian</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/1954">Triple Arch of Diocletian</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/2059">Ed's Edibles</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/2058">Enchanted Tiki Room of Magic and Mystery</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/2091">Vergil's Generic Products and Average Goods</a></td>
+		</tr>
+
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/23846">Within the Water Purifier</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/25588">Otto's Skull Session</a></td>
+		</tr>
+
+<tr><td><strong>CPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/25576">A Shadowy Prison Cell</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/25322">Along a Curving Catacomb Section</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/23878">Entering the Subterranean Palace Catacombs</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/25324">Exploring the Confusing Catacomb Passages</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/25573">Imperial Prison Hallway</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/23910">Loculi Covered Walls of the Catacombs</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/25342">Lost in the Misty Catacomb Maze</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/23913">Passageway to the Cult Sanctuary</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/25306">Standing at a Mysterious Catacomb Intersection</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/25569">The Imperial Prison, East Entry</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/25575">The Imperial Prison, West Entry</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/1954">Triple Arch of Diocletian</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/1954">Triple Arch of Diocletian</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:01 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

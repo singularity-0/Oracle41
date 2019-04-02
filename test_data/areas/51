@@ -1,0 +1,2506 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/51">Sigil</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Sigil</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(435, 1232) in Alyria</td>
+			<td>Yes</td>
+			<td>Towne</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the massive ironbound gates of the magical towne of Sigil</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([435, 1232]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [435, 1232],
+		className: 'textpointer',
+		html: "Sigil",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(51, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=435&y=1232&plane=1&zoom=4">View Sigil on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Sigil</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/853">a black leather whip</a></td>
+			<td>122</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2124">a black mushroom</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/77">a black polearm</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/6967">a blood-soaked notebook</a></td>
+			<td>10</td>
+			<td>parchment</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2115">a blue robe</a></td>
+			<td>210</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4463">a bonedriven shield</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/273">a bottle of Silverthorn Ale</a></td>
+			<td>15</td>
+			<td>drink-container</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/6964">a butterfly-shaped notecard</a></td>
+			<td>10</td>
+			<td>parchment</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/102">a crimson cloak</a></td>
+			<td>20</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/633">a crimson longsword</a></td>
+			<td>52</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/433">a crown of thorns</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/5442">a dark tunic</a></td>
+			<td>255</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1826">a delicate jewelry box</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/1817">a diamond</a></td>
+			<td>15</td>
+			<td>gem</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1829">a dimensional rift</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6337">a dimensional rift</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6338">a dimensional rift</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/2114">a dirty orb of excavation</a></td>
+			<td>240</td>
+			<td>treasure</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1820">a goblin ear</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/85">a green lion lance</a></td>
+			<td>30</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/870">a green lion tabard</a></td>
+			<td>80</td>
+			<td>clothing</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/7013">a green sphere</a></td>
+			<td>5</td>
+			<td>orb</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/739">a hairless rodent</a></td>
+			<td>65</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/6968">a handcrafted parchment</a></td>
+			<td>10</td>
+			<td>parchment</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3661">a handful of pixie dust</a></td>
+			<td>10</td>
+			<td>treasure</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/6963">a heart-shaped card</a></td>
+			<td>10</td>
+			<td>parchment</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="tool" /> <a href="/item/8427">a jeweler's loupe</a></td>
+			<td>10</td>
+			<td>tool</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1831">a juicy, ripe orange</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/2091">a large fountain of stone</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/5685">a large red oil can</a></td>
+			<td>5</td>
+			<td>drink-container</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/483">a large, ripe orange</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2134">a merchant's pike</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4382">a meteorite slab</a></td>
+			<td>25</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1818">a minotaur heart</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1828">a pair of black leather boots</a></td>
+			<td>70</td>
+			<td>clothing</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1846">a pair of ivory gauntlets</a></td>
+			<td>94</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1845">a pair of ivory greaves</a></td>
+			<td>92</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1825">a pair of silver handcuffs</a></td>
+			<td>120</td>
+			<td>jewelry</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1827">a pair of silver pauldrons</a></td>
+			<td>72</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/1720">a petrified seed</a></td>
+			<td>5</td>
+			<td>gem</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/8504">a recording device</a></td>
+			<td>5</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/4867">a ruby-topped staff</a></td>
+			<td>22</td>
+			<td>staff</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/7448">a rusty iron bucket</a></td>
+			<td>20</td>
+			<td>drink-container</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/103">a rusty sabre</a></td>
+			<td>36</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/6966">a shadowy notebook</a></td>
+			<td>10</td>
+			<td>parchment</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/15">a Sigil axe</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1843">a Sigil dagger</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2110">a Sigil mace</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/802">a Sigil spear</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/728">a Sigil sword</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/531">a Sigil whip</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/16">a Sigil yo-yo</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/83">a silver thorn</a></td>
+			<td>68</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1849">a silver throwing axe</a></td>
+			<td>72</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3556">a silver unicorn key</a></td>
+			<td>80</td>
+			<td>key</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/517">a silver unicorn's horn</a></td>
+			<td>132</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/6965">a silver-trimmed document</a></td>
+			<td>10</td>
+			<td>parchment</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1823">a silverthorn plant</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="money" /> <a href="/item/4920">a small pile of gold</a></td>
+			<td>5</td>
+			<td>money</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="potion" /> <a href="/item/1816">a small, leaf-bound pouch</a></td>
+			<td>10</td>
+			<td>potion</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1815">a solid oak chess-board</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4423">a sordiculum whirlbat</a></td>
+			<td>44</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/2127">a space hopper</a></td>
+			<td>150</td>
+			<td>furniture</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8088">a spear of the hemic unicorn</a></td>
+			<td>101</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1824">a statue of Vendredi</a></td>
+			<td>10</td>
+			<td>fountain</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/263">a tankard of napalm</a></td>
+			<td>40</td>
+			<td>drink-container</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/264">a tankard of pink minx vodka</a></td>
+			<td>30</td>
+			<td>drink-container</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="spellbook" /> <a href="/item/8429">a troglodyte assassin's spelbok</a></td>
+			<td>241</td>
+			<td>spellbook</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/578">a vial of runestone powder</a></td>
+			<td>22</td>
+			<td>treasure</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ward" /> <a href="/item/2099">a ward of legerdemain</a></td>
+			<td>25</td>
+			<td>ward</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/19">a wicked halberd</a></td>
+			<td>25</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1847">a wooden park bench</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/588">an amethyst ring</a></td>
+			<td>30</td>
+			<td>jewelry</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1850">an elaborate malachite throne</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1832">an eldmarian pendant</a></td>
+			<td>92</td>
+			<td>jewelry</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5146">an Eldmarian Slayer</a></td>
+			<td>180</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2">an emerald pendant</a></td>
+			<td>64</td>
+			<td>jewelry</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/8428">an enchanted ash key</a></td>
+			<td>10</td>
+			<td>key</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1821">an enchanted harness</a></td>
+			<td>11</td>
+			<td>clothing</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1822">an enchanted harness</a></td>
+			<td>11</td>
+			<td>clothing</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/579">an enchanted silver flute</a></td>
+			<td>70</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4352">an even dirtier orb of excavation</a></td>
+			<td>240</td>
+			<td>treasure</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-water" /> <a href="/item/1814">an iridescent fish scale</a></td>
+			<td>10</td>
+			<td>reagent-water</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/18">an iron cleaver</a></td>
+			<td>36</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4298">an ivory boomerang</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1844">an ivory cuirass</a></td>
+			<td>90</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/1819">an ivory statue</a></td>
+			<td>5</td>
+			<td>figurine</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1848">an ivory warhammer</a></td>
+			<td>96</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4543">black gauntlets</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/106">brass knuckledusters</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/1208">dried silverthorn leaves</a></td>
+			<td>10</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5446">reinforced wood throwing spear</a></td>
+			<td>500</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/8379">the beastmaster's pelt</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/86">the crimson lance</a></td>
+			<td>146</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/736">the crimson tower shield</a></td>
+			<td>140</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/3965">the dark wing of a manticore</a></td>
+			<td>60</td>
+			<td>artifact</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/2109">the dirtiest orb of excavation</a></td>
+			<td>240</td>
+			<td>treasure</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/52">the Dragon Lord armor</a></td>
+			<td>200</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/880">the gauntlets of Odin <span class="red">[OS]</span></a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/8511">the gauntlets of Rast Strikecraw</a></td>
+			<td>150</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6336">the Holy Pulpit of Uath</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3426">the illusionist's shiv</a></td>
+			<td>55</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2113">the Isalani staff</a></td>
+			<td>160</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/1830">the Journal of Acron</a></td>
+			<td>50</td>
+			<td>book</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1851">the rabid rodent of death</a></td>
+			<td>122</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/806">the Sacred Shrub</a></td>
+			<td>120</td>
+			<td>artifact</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/544">the skull of the guardian</a></td>
+			<td>220</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/73">the soul of Odin <span class="red">[OS]</span></a></td>
+			<td>150</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8513">the soul of Rast Strikecraw</a></td>
+			<td>150</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="house-key" /> <a href="/item/2983">the top bit of a massive, complex key</a></td>
+			<td>10</td>
+			<td>house-key</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8192">the vengeful fisted claw of a yuan-ti</a></td>
+			<td>35</td>
+			<td>weapon</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/8430">tunascale trousers</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/51">Sigil</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Sigil</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/220">A beautiful druid</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/162">A bedraggled beggar</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3801">A berserk manticore</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/246">A black knight</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/154">A black raven</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5678">A blackjack dealer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/203">A blue bird</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/243">A blue knight</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/63">A buxom shopkeeper</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5667">A card dealer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/240">A crimson guard</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/242">A crimson knight</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6246">A crippled troglodyte slave</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5305">A dagger instructor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/214">A deft thief</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/54">A dracon shopkeeper</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/145">A drunken pirate</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/166">A fearless adventurer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/232">A fey rogue</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/148">A flea beetle</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/223">A follower of Uath</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/208">A friendly entrepreneur</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/143">A gate guard</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/157">A giggling little girl</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/206">A gnome barbarian</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/224">A gnome druid</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/153">A goblin mercenary</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/222">A goblin ranger</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/237">A goblin slayer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/248">A green knight</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/200">A guild member</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2370">A hidden illusionist</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5766">A high priest of earth</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/149">A horsefly</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/205">A hulking frogocerous</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/229">A human rogue</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5645">A juvenile water dragon</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/172">A lazy student</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6247">A lost troglodyte assassin</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5304">A mace instructor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/151">A mangy dog</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/191">A master necromancer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/174">A member of the Dark Brotherhood</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/97">A merry man</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/238">A messenger</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/253">A mighty stallion</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/147">A muscular hill-dwarf lookout</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/167">A noble lady</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/176">A novice adventuress</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/159">A padre of Dira</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/219">A pillar of earth</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/184">A plagued rat</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5863">A practice dummy</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/202">A praying druid</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/218">A priest of earth</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4716">A psychic old man</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/217">A recently-retired adventurer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5659">A representative from the Sigil Tourism Board</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6280">A rugged reporter</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/227">A savage imp</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/221">A scruffy-looking man</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/161">A sidhe merchant</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/245">A silver knight</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/155">A sleek tabby cat</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/204">A small colorful fish</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/190">A sorcerer adept</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5302">A spear instructor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/201">A spooky bat</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5307">A sword instructor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/173">A tangle vine</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/230">A tomb raider</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/250">A tortured prisoner</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/144">A vendor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6283">A visiting witch researcher</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/146">A wandering monk</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2493">A water sprite</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5306">A whip instructor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5308">A yo-yo instructor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4355">A young druid</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/93">Abominus the magician</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/236">Acron</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/186">Alioth Flint</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3937">Alto Pileus</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/168">An academy custodian</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/170">An academy instructor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/169">An academy student</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/152">An alert city guard</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/233">An angry minotaur</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/142">An apprentice druid</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/188">An apprentice necromancer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/196">An apprentice psionic</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/195">An apprentice ranger</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/189">An apprentice sorcerer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5303">An axe instructor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/197">An Eldmarian psionic</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4405">An energy tendril</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6294">An imprisoned mindtaker</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/165">An ogre cook</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/178">An ogre doorman</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/160">An old hag</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/228">An orange robed monk</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/58">Aradel, dealer in antiquities</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/91">Arianus, the master mage</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/65">Artur, King of Kona</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/48">Aryme, the shopkeeper</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3246">Baron Pileus</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/171">Baron von Hannibal</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3247">Baroness Pileus</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5314">Binky</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/53">Bruno, the bartender</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/192">Chalmes</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/77">Chumsley, the bartender</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3248">Cirra Pileus</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/258">Demonia</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/207">Eryn</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/52">Forsten, the tanner</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/79">Gank, the ogre barkeep</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/82">Garan</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/241">Gnyah</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/94">Grimward, the enchanter</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4870">Grindle, the baker</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/257">Grolam</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/216">Grunion Van Pelt</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/252">Gunther</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/225">Gwyllem, the enlightened one</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/231">Hegall Beork</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/185">Kalied</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/193">Kanthar</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/99">Kypell</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5329">Kyras</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/234">Leoric</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/255">Lord Vendredi</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/244">Lysle</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5674">Madame Fleura</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1298">Malus, the Enforcer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/88">Marlee, the cartographer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6245">One of the magecouncil's guards</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5909">One of the Master's apprentices</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4313">Pirquen, the shipwright</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/85">Popyll, the pharmacist</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/81">Pyrian, ranger master</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/209">Rabies</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/256">Sagesse, Lord Vendredi's advisor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/235">Salem</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/95">Samantha</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/226">Sarig</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3300">Scelus, the Enforcer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/98">Seamus</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/251">Snakos</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/76">Strecht, the butcher</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/83">Syranesti</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/247">Taron, Lord Vendredi's assistant</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4432">Terberus, the shipwright</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/96">The alchemist</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/59">The attendant</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/211">The bullfrog</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/164">The Captain of the Sigil Guard</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/249">The Dark Mistress</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/156">The drunk</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/198">The Eldmarian High Priest</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/212">The falcon</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/43">The First Sword</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/239">The guardian</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5144">The High Score Priest of Uath</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/150">The janitor</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/75">The jeweler</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/158">The master of clans</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/194">The neo-mindflayer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/210">The savage womble</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/163">The sergeant</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/86">The Sigil postmaster</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/213">The teller</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/177">The Towne Crier</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/84">The trainer of neophytes</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/87">The wedding cleric</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/50">Thowsen, the dwarven shopkeeper</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2209">Trader Edgar</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2207">Trader Rupert</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5927">Tutela, the Enforcer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3295">Vindico, the Enforcer</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/51">Warder</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/254">Ynefarius</a></td>
+		<td><a href="/area/51">Sigil</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/14458">Recovery Room</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/4974">The Courtyard of Vendredi</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5178">The Garden of Peace</a></td>
+		</tr>
+
+<tr><td><strong>Post</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/5199">Sigil Post Office</a></td>
+		</tr>
+
+<tr><td><strong>Bank</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/5200">Bank of Sigil</a></td>
+		</tr>
+
+<tr><td><strong>Quest</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/4982">The Audience Chamber</a></td>
+		</tr>
+
+<tr><td><strong>Locker</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/5194">Sigil Lockers</a></td>
+		</tr>
+
+<tr><td><strong>Clan</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/5119">Sigil Clan Master</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/5167">Abominus's Scrolls and Magical Supplies</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5153">Aradel's Fine Antiques</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5145">Artur's Coffee and Cakes</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5115">Aryme's Fine Armor</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5196">Faithful Companions</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5118">Forsten's Leathers and Skins</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5165">Grimward's Enchanted Items</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5126">Grundle's Bakery</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5203">Grunion Van Pelt's Reward Emporium</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5116">Island Metal Works</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5162">Magical Brews</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5202">Popyll's Pharmacia</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5163">Samantha's Source of Power</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5143">Sigil Estate Jewelers</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5109">Sigil Mercantile</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5193">Sigil Survey Shoppe</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5124">Sotted Sow Bar</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5122">Strecht's Meats</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5223">The Broken Arrow</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5191">The Lottery Shoppe</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5253">The Merry Men's Outfitters</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5255">The Sigilan Harp</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5151">The Wedding Shop</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5149">The Whaler's Gift</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5114">Warder's Weapons</a></td>
+		</tr>
+
+<tr><td><strong>LPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/5290">Academy Arena</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5009">The Arena of Vendredi</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/36643">Atop The Walls</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/36615">Descending the Shaft</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/5146">A Smoke Filled Corner</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5206">Donation Room</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5207">New Adventurer's Center</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5119">Sigil Clan Master</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/5205">Temple Courtyard</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/5255">The Sigilan Harp</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/5205">Temple Courtyard</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:11 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

@@ -1,0 +1,643 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/58">Temple Crypt</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Temple Crypt</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Within <a href="/area/67">Towne of Rune</a>.</td>
+			<td>No</td>
+			<td>Undergro</td>
+		</tr>
+
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([695, 764]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [695, 764],
+		className: 'textpointer',
+		html: "Temple Crypt",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(58, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=695&y=764&plane=1&zoom=4">View Temple Crypt on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Temple Crypt</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1093">a beautiful amulet made of white marble</a></td>
+			<td>60</td>
+			<td>jewelry</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3134">a beautiful white marble ring</a></td>
+			<td>40</td>
+			<td>jewelry</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3511">a beautiful white marble ring</a></td>
+			<td>30</td>
+			<td>jewelry</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2362">a belt made of white marble</a></td>
+			<td>45</td>
+			<td>clothing</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4902">a black circlet</a></td>
+			<td>70</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/2197">a bloody chicken carcass</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/774">a bracelet made of white marble</a></td>
+			<td>58</td>
+			<td>jewelry</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2365">a bracer made of white marble</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/766">a circlet of dulled gold</a></td>
+			<td>56</td>
+			<td>orb</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2232">a copper belt</a></td>
+			<td>40</td>
+			<td>clothing</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/979">a feathered Juju Staff</a></td>
+			<td>75</td>
+			<td>staff</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/8383">a maul of withering</a></td>
+			<td>183</td>
+			<td>weapon</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/56">a mitre made of white marble</a></td>
+			<td>55</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/760">a pair of admantite boots</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/2230">a pair of ioun stones</a></td>
+			<td>42</td>
+			<td>explosive</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/745">a pair of white marble gauntlets</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2363">a pair of white marble leg plates</a></td>
+			<td>46</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2366">a ring of wizardry</a></td>
+			<td>65</td>
+			<td>jewelry</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/5715">a ring of wizardry</a></td>
+			<td>70</td>
+			<td>jewelry</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2364">a shield made of white marble</a></td>
+			<td>54</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/783">a shimmering white cloak</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/2194">a small crystal vial</a></td>
+			<td>35</td>
+			<td>drink-container</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/2200">a strange dark crystal</a></td>
+			<td>68</td>
+			<td>explosive</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/759">a sword made of white marble</a></td>
+			<td>66</td>
+			<td>weapon</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/4957">a talisman of ultimate evil</a></td>
+			<td>45</td>
+			<td>jewelry</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/3014">a tarnished silver key</a></td>
+			<td>50</td>
+			<td>key</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/4010">a wand of frost</a></td>
+			<td>60</td>
+			<td>wand</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/758">a wand of withering</a></td>
+			<td>100</td>
+			<td>wand</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2360">a white marble breastplate</a></td>
+			<td>82</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2361">a white marble breastplate <span class="red">[OS]</span></a></td>
+			<td>82</td>
+			<td>armor</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/2233">a wood and iron spade</a></td>
+			<td>150</td>
+			<td>spade</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2210">an iron club</a></td>
+			<td>180</td>
+			<td>weapon</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1890">an obsidian pitchfork</a></td>
+			<td>200</td>
+			<td>weapon</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/731">an orb of white marble</a></td>
+			<td>65</td>
+			<td>light</td>
+			<td><a href="/area/58">Temple Crypt</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Temple Crypt</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/426">A granite gargoyle</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/414">A gremlin</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/434">A groaning spirit</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/431">A scavenger merchant</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/516">A wise old hermit</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/535">Garosh the miner</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/522">The dark elf lord</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/401">The frightening spectre</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/403">The Juju Statue</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/512">The pit fiend</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/395">The statue of Vandyne</a></td>
+		<td><a href="/area/58">Temple Crypt</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/19403">Circular Room</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/19403">Circular Room</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:13 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

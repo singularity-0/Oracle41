@@ -1,0 +1,1313 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/15">Dungeon Wroth</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Dungeon Wroth</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(736, 392) in Alyria</td>
+			<td>Yes</td>
+			<td>Dungn</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>a sinister dungeon entrance forged into the side of the Callias mountains</em>.</td>
+		</tr>
+				<tr>
+			<td colspan="3">It's a small dungeon with mobs suitable for first classers.<br />
+<br />
+The orc pursuer is located here in a 5x5x5 cube-shaped maze. He's the guy who gives didactic parchments/skill manuals for retrieving bodyparts of his targets.  (Also grants Marks for doing large numbers of these.)<br />
+<br />
+The High Priest of the Portal can send you to different locations if you say different phrases to him.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([736, 392]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [736, 392],
+		className: 'textpointer',
+		html: "Dungeon Wroth",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(15, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=736&y=392&plane=1&zoom=4">View Dungeon Wroth on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Dungeon Wroth</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2399">a ball and chain</a></td>
+			<td>31</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1423">a belt of constriction</a></td>
+			<td>35</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1451">a black buckler</a></td>
+			<td>40</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1412">a black cauldron</a></td>
+			<td>22</td>
+			<td>fountain</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6241">a black chest</a></td>
+			<td>20</td>
+			<td>container</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3673">a bread basket</a></td>
+			<td>20</td>
+			<td>food</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4184">a bull whip</a></td>
+			<td>51</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4417">a ceramic plate</a></td>
+			<td>20</td>
+			<td>trash</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6234">a chest</a></td>
+			<td>20</td>
+			<td>container</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1491">a cloth hat of magic</a></td>
+			<td>70</td>
+			<td>clothing</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/2392">a crumpled note</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/2393">a crumpled note</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/2394">a crumpled note</a></td>
+			<td>5</td>
+			<td>book</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/2395">a crumpled note</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/2396">a crumpled note</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/8356">a crumpled note</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/8179">a crumpled note</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4185">a dark mace</a></td>
+			<td>24</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1481">a dark portal</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/89">a dark spear</a></td>
+			<td>46</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/88">a demonfire lance</a></td>
+			<td>54</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3930">a diseased steel javelin</a></td>
+			<td>110</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2400">a dungeon ring</a></td>
+			<td>40</td>
+			<td>jewelry</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2404">a fighter's flail</a></td>
+			<td>55</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1402">a fireplace</a></td>
+			<td>24</td>
+			<td>furniture</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1403">a gargoyle statue</a></td>
+			<td>22</td>
+			<td>furniture</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2397">a golden key</a></td>
+			<td>15</td>
+			<td>key</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6237">a golden statue</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1427">a hooksword</a></td>
+			<td>41</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1435">a kobold ring</a></td>
+			<td>30</td>
+			<td>jewelry</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2412">a miner's helmet</a></td>
+			<td>25</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2411">a miner's lantern</a></td>
+			<td>20</td>
+			<td>light</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="pick-axe" /> <a href="/item/2410">a miner's pick</a></td>
+			<td>26</td>
+			<td>pick-axe</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/1443">a necklace of evil</a></td>
+			<td>45</td>
+			<td>jewelry</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4577">a pair of charred epauletes</a></td>
+			<td>118</td>
+			<td>clothing</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/8178">a prisoner's notepad</a></td>
+			<td>1</td>
+			<td>container</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2398">a red key</a></td>
+			<td>20</td>
+			<td>key</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/4416">a rusty fork</a></td>
+			<td>20</td>
+			<td>trash</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="lockpick" /> <a href="/item/3708">a set of lockpicks</a></td>
+			<td>10</td>
+			<td>lockpick</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1460">a shady cloak</a></td>
+			<td>40</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/2838">a silver butter knife</a></td>
+			<td>11</td>
+			<td>trash</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/1462">a silver key</a></td>
+			<td>20</td>
+			<td>key</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2402">a skull key</a></td>
+			<td>20</td>
+			<td>key</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/3707">a smoke ring</a></td>
+			<td>50</td>
+			<td>jewelry</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="spade" /> <a href="/item/1452">a spade</a></td>
+			<td>20</td>
+			<td>spade</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1432">a spear of terror</a></td>
+			<td>53</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1437">a statue of life</a></td>
+			<td>5</td>
+			<td>furniture</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/toy.png" width="13" height="13" alt="figurine" /> <a href="/item/7503">a stone statue of Ypayla</a></td>
+			<td>110</td>
+			<td>figurine</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="orb" /> <a href="/item/2926">a stone statue of Ypayla</a></td>
+			<td>110</td>
+			<td>orb</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6413">a trail maze marker</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/6414">a visited room maze marker</a></td>
+			<td>10</td>
+			<td>artifact</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ward" /> <a href="/item/909">a ward of evil</a></td>
+			<td>60</td>
+			<td>ward</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1414">a water well</a></td>
+			<td>15</td>
+			<td>fountain</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/94">a whip of torture</a></td>
+			<td>46</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2401">a white key</a></td>
+			<td>20</td>
+			<td>key</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/3672">an antique knife</a></td>
+			<td>20</td>
+			<td>treasure</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6236">an iron chest</a></td>
+			<td>20</td>
+			<td>container</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/4287">an iron key</a></td>
+			<td>20</td>
+			<td>key</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="surge-protector" /> <a href="/item/4464">an iron-plated belt of spell turning</a></td>
+			<td>93</td>
+			<td>surge-protector</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6235">an oak chest</a></td>
+			<td>15</td>
+			<td>container</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6240">an oaken cabinet</a></td>
+			<td>16</td>
+			<td>container</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/6239">an old shelf</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1405">an orc mask</a></td>
+			<td>30</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1408">an orc sword</a></td>
+			<td>33</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1458">black sandals</a></td>
+			<td>40</td>
+			<td>clothing</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/2409">blasting caps</a></td>
+			<td>51</td>
+			<td>explosive</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="explosive" /> <a href="/item/2408">dynamite</a></td>
+			<td>40</td>
+			<td>explosive</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2406">golden arm plates</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/2407">golden leg plates</a></td>
+			<td>50</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1445">orc platemail</a></td>
+			<td>36</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/626">some evil robes</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3674">some leather pants</a></td>
+			<td>30</td>
+			<td>clothing</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/3671">some rations</a></td>
+			<td>12</td>
+			<td>food</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ankh" /> <a href="/item/1496">the ankh of suffering</a></td>
+			<td>65</td>
+			<td>ankh</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/90">the axe of dreams</a></td>
+			<td>53</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3634">the axe of the dead</a></td>
+			<td>65</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/54">the boots of evil</a></td>
+			<td>58</td>
+			<td>armor</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1453">the brain basher</a></td>
+			<td>44</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/8342">the carcass of a captive dodo</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/346">the Devil's dagger</a></td>
+			<td>51</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3530">the lance of fortune</a></td>
+			<td>50</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4529">the mace of destruction</a></td>
+			<td>45</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1440">the mace of might</a></td>
+			<td>36</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6242">the orc altar</a></td>
+			<td>16</td>
+			<td>furniture</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1457">the quickblade</a></td>
+			<td>66</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="wand" /> <a href="/item/6782">the stave of the High Priest</a></td>
+			<td>60</td>
+			<td>wand</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1505">the sword of truth</a></td>
+			<td>51</td>
+			<td>weapon</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ankh.png" width="13" height="13" alt="ward" /> <a href="/item/2405">the ward of power</a></td>
+			<td>50</td>
+			<td>ward</td>
+			<td><a href="/area/15">Dungeon Wroth</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Dungeon Wroth</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4895">A bewildered orc</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/814">A black tiger</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6220">A captive dodo</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/826">A cyclops giant</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/831">A dark gargoyle</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/829">A dark minion</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/808">A dark spider</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/810">A death adder</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/830">A demon</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/812">A displacer beast</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/807">A dwarven prisoner</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/820">A gas cloud</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/805">A gnome mage</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3238">A haggard orc</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/813">A hellhound</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/828">A hobgoblin</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1673">A huge, enraged orc</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/827">A kaisharga</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/817">A kobold soldier</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4538">A maze tunneling worm</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/837">A miner</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/809">A minok</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5341">A neglected prisoner</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/806">A pathetic human prisoner</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/818">A red golem</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/824">A shadow wraith</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/816">A shambling mound</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/811">A skeleton warrior</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4896">A tantrum-throwing orc</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/815">A titan</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/821">A viceroid</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/835">A worshipper</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/801">An attack wolf</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/832">An earth elemental</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/804">An elf captive</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/825">An exhausted slave</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/822">An orc assassin</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/823">An orc captain</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/819">An orc commander</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/800">An orc cook</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/803">An orc guard</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6165">An orc lieutenant</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/833">An orc priest</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/802">An orc soldier</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6218">An orc woman</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/6219">An orcish pigfarmer</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/834">The High Priest of the Portal</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4049">The orc pursuer</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/6221">The pigfarmer's son</a></td>
+		<td><a href="/area/15">Dungeon Wroth</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10140">Dining Room</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/10152">Northern End of the Foyer</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:02 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>

@@ -1,0 +1,2736 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Cwn Annwn - A Materia Magica Clan</title>
+
+	<link rel="icon" type="image/png" href="/img/favicon.png"/>
+	<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Annwn.info search" /> 
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+	<link rel="stylesheet" type="text/css" href="/css/main.cssp"/>
+	<link rel="stylesheet" type="text/css" href="/css/common.cssp"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/jquery.color.min.js" type="text/javascript"></script>
+	
+	<script src="/js/annwn.js" type="text/javascript"></script>
+	<script src="/js/sorttable.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/js/arealist-js.php"></script>
+<script type="text/javascript" src="/js/vmap.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+</head>
+
+<body>
+<p id="skip"><a href="#content">skip navigation</a></p>
+
+<div id="container">
+
+<div id="info">
+	Welcome, Guest [<a href="/user/login">log in</a> &middot; <a href="/user/register">register</a>]
+</div>
+
+<header>
+	<a href="/"><span>Cwn Annwn</span></a>
+
+	<aside>&ldquo;Eagles may soar, but weasels are never sucked into jet engines.&rdquo;</aside>
+
+	<div id="search">
+		<form action="/search" method="GET">
+			<input type="text" name="query" value="" placeholder="Search&hellip;"/>
+		</form>
+	</div>
+
+<nav>
+	<ul>
+		<li><a href="/clan-information" accesskey="i">Clan <em>I</em>nformation &#x2193;</a>
+			<ul>
+				<li><a href="/">News</a></li>
+				<li><a href="/info">Information</a></li>
+				<li><a href="/hall">Hall Tour</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/member">Members</a></li>
+				<li><a href="/rules">Rules</a></li>
+				<li><a href="/join">Join</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/databases" accesskey="d"><em>D</em>atabases  &#x2193;</a>
+			<ul>
+				<li>
+					<a href="/area/">Areas</a>
+									</li>
+				<li>
+					<a href="/deity/">Deities</a>
+				</li>
+				<li>
+					<a href="/item/">Items</a>
+									</li>
+				<li>
+					<a href="/mark/">Marks</a>
+									</li>
+				<li>
+					<a href="/npc/">NPCs</a>
+									</li>
+				<li>
+					<a href="/quest/">Quests</a>
+									</li>
+				<li>
+					<a href="/room/">Rooms</a>
+				</li>
+				<li>
+					<a href="/skill/">Skills</a>
+									</li>
+			</ul>
+		</li>
+
+		<li><a href="/trackers" accesskey="t"><em>T</em>rackers &#x2193;</a>
+			<ul>
+				<li><a href="/alliance/">Alliances</a></li>
+				<li><a href="/clan/">Clans</a></li>
+				<li><a href="/player/pkladder">PK ratings</a></li>
+				<li><a href="/player/">Players</a></li>
+				<li><a href="/ship/">Ships</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/community" accesskey="c"><em>C</em>ommunity &#x2193;</a>
+			<ul>
+				<li><a href="/guides">Guides</a></li>
+				<li><a href="/forums">Forum</a></li>
+				<li><a href="/file">PK Logs &amp; Files</a></li>
+				<li><a href="/links">Links</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/tools" accesskey="o">T<em>o</em>ols &#x2193;</a>
+			<ul>
+				<li><a href="/tools/character-builder">Character Builder</a></li>
+				<li><a href="/tools/class-compare">Class comparer</a></li>
+				<li><a href="/tools/equipment-builder">Equipment Builder</a></li>
+				<li><a href="/tools/ferry">Ferry Scheduler</a></li>
+				<li><a href="/tools/great-alyrian-locator">Great Alyrian Locator</a></li>
+				<li><a href="/tools/herbalism-calculator">Herbalism Calculator</a></li>
+				<li><a href="/tools/lunar-predictor">Lunar Predictor</a></li>
+				<li><a href="/tools/map">Ogle Alyria</a></li>
+				<li><a href="/tools/restring-machine">Restring Machine</a></li>
+				<li><a href="/tools/song-calculator">Song Calculator</a></li>
+				<li><a href="/tools/speedwalk-generator">Speedwalks</a></li>
+				<li><a href="/tools/spellbook-builder">Spellbook builder</a></li>
+				<li><a href="/tools/token-calculator">Token Calculator</a></li>
+				<li><a href="/tools/weight">Weight Computer</a></li>
+			</ul>
+		</li>
+
+				
+		<li><a href="/sitemap" accesskey="m">Site <em>m</em>ap</a></li>
+	</ul>
+</nav>
+</header>
+
+<div id="main">
+
+<ol id="breadcrumbs">
+	<li><a class="breadcrumb" href="/"><img src="/img/ico/house.png" width="16" height="16" alt="Home"/></a></li>
+	<li><a class="breadcrumb" href="/databases">Databases</a></li>
+	<li><a class="breadcrumb" href="/area">Areas</a></li>
+	<li><a class="breadcrumb" href="/area/57">Templeton</a></li>
+</ol>
+
+<div id="content">
+
+
+<h2>Templeton</h2>
+
+
+
+<table class="data-table">
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th width="15%">Recallable</th>
+			<th width="25%">Who string</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>(1630, 536) in Alyria</td>
+			<td>Yes</td>
+			<td>Towne</td>
+		</tr>
+
+				<tr>
+			<td colspan="3">You see <em>the shimmering walls and rooftops of the towne of Templeton</em>.</td>
+		</tr>
+		</table>
+
+<script type="text/javascript">
+addLoadEvent(function() {
+	vmap = new Vmap(document.getElementById('area-vmap'));
+		vmap.setPlane(1);
+	vmap.setCenterPos([1630, 536]);
+	vmap.setZoom(4);
+	vmap.setInteractivity(false);
+	vmap.create();
+	vmap.replacePOI({
+		name: 'area',
+		coordinates: [1630, 536],
+		className: 'textpointer',
+		html: "Templeton",
+		loaded: function(e, vmap) { var $this = $(this); $this.css({marginLeft: -$this.outerWidth() / 2, marginTop: -$this.outerHeight() - 10}); }
+	});
+
+
+	map = new Map(document.getElementById('area-smap'));
+	map.setZone(57, 0);
+	map.statusCallback = function(s) { document.getElementById('mapstatus').innerHTML = s; }
+});
+
+function vmaptoggle() {
+	document.getElementById('vmaptab').style.display = 'block';
+	document.getElementById('smaptab').style.display = 'none';
+}
+function smaptoggle() {
+	document.getElementById('vmaptab').style.display = 'none';
+	document.getElementById('smaptab').style.display = 'block';
+}
+
+</script>
+
+<ul class="tabs">
+	<li class="vmap selected"><a href="javascript:vmaptoggle();">Virtual map</a></li>
+	<li class="smap"><a href="javascript:smaptoggle();">Street map</a></li>
+</ul>
+<div class="tabs">
+	<div id="vmaptab">
+		<div id="area-vmap" class="area-vmap"></div>
+		<br /><a href="/tools/map/?x=1630&y=536&plane=1&zoom=4">View Templeton on Ogle Alyria</a>
+	</div>
+	<div id="smaptab" style="display: none;">
+		<div id="mapstatus"></div>
+		<div id="area-smap" class="area-smap"></div>
+	</div>
+</div>
+
+<h3>Items in area Templeton</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Item name</th>
+			<th width="10%">Level</th>
+			<th width="15%">Type</th>
+			<th width="25%">Location</th>
+					</tr>
+	</thead>
+	<tbody>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1174">a bar stool</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/5279">a bath</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/1340">a baton</a></td>
+			<td>40</td>
+			<td>treasure</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/1235">a black seed</a></td>
+			<td>5</td>
+			<td>seed</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5516">a blessed silver axe</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2744">a blessed silver lance</a></td>
+			<td>241</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2440">a bloody key</a></td>
+			<td>100</td>
+			<td>key</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1331">a bouncy ball</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/mail.png" width="13" height="13" alt="parchment" /> <a href="/item/5670">a chart</a></td>
+			<td>5</td>
+			<td>parchment</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/5671">a city record book</a></td>
+			<td>5</td>
+			<td>book</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/5672">a city record book</a></td>
+			<td>5</td>
+			<td>book</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/5673">a city record book</a></td>
+			<td>5</td>
+			<td>book</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/5674">a city record book</a></td>
+			<td>5</td>
+			<td>book</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/5675">a city record book</a></td>
+			<td>5</td>
+			<td>book</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1199">a coin purse</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1158">a comfy bed</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1229">a composite short bow</a></td>
+			<td>80</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5770">a curious-looking lance</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4191">a decayed werewolf canine</a></td>
+			<td>241</td>
+			<td>artifact</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5773">a dragontail lance</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1171">a duck confit meal</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1186">a feather duster</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-earth" /> <a href="/item/1219">a fern leaf</a></td>
+			<td>5</td>
+			<td>reagent-earth</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1182">a fishing pole</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2441">a fizzing lead key</a></td>
+			<td>30</td>
+			<td>key</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/4904">a flagon of alfalfa brandy</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1342">a fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1345">a fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1191">a fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1193">a fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1196">a fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drop.png" width="13" height="13" alt="fountain" /> <a href="/item/1204">a fountain</a></td>
+			<td>1</td>
+			<td>fountain</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/4099">a four-leaf clover</a></td>
+			<td>25</td>
+			<td>artifact</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1240">a full plate</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1239">a fused breastplate</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/6254">a gas line</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-astral" /> <a href="/item/1216">a gem of Death</a></td>
+			<td>10</td>
+			<td>reagent-astral</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/1206">a glass of dwarvish tea</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/267">a glass of dwarvish whiskey</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/300">a glass of fox trot</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/270">a glass of peachtree schnapps</a></td>
+			<td>10</td>
+			<td>drink-container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/7140">a glob of foul smelling vomit</a></td>
+			<td>40</td>
+			<td>trash</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2442">a golden key</a></td>
+			<td>100</td>
+			<td>key</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2447">a golden mace</a></td>
+			<td>165</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1307">a government issue sword</a></td>
+			<td>60</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1338">a guard's helm</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2445">a guard's longsword</a></td>
+			<td>90</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/553">a guard's mace</a></td>
+			<td>70</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1176">a hammer</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2413">a house key</a></td>
+			<td>1</td>
+			<td>key</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1244">a iron helmet</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1188">a janitor's patch</a></td>
+			<td>40</td>
+			<td>clothing</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/potion.png" width="13" height="13" alt="pill" /> <a href="/item/3104">a kabal plant</a></td>
+			<td>20</td>
+			<td>pill</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/5330">a key</a></td>
+			<td>40</td>
+			<td>key</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/6178">a key enchanted with an ancient benediction</a></td>
+			<td>241</td>
+			<td>key</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5772">a lance of appropriation</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1237">a leather coat</a></td>
+			<td>30</td>
+			<td>clothing</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1238">a leather vest</a></td>
+			<td>40</td>
+			<td>clothing</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/tool.png" width="13" height="13" alt="lockpick" /> <a href="/item/1233">a lockpick</a></td>
+			<td>25</td>
+			<td>lockpick</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/music.png" width="13" height="13" alt="musical-instrument" /> <a href="/item/1335">a lyre</a></td>
+			<td>50</td>
+			<td>musical-instrument</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/nav.png" width="13" height="13" alt="telescope" /> <a href="/item/6481">a massive golden telescope</a></td>
+			<td>10</td>
+			<td>telescope</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3364">a mercury maul</a></td>
+			<td>239</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1202">a mink coat</a></td>
+			<td>80</td>
+			<td>clothing</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1157">a mint</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/3876">a pair of deerskin moccasins</a></td>
+			<td>240</td>
+			<td>clothing</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1246">a pair of iron boots</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/558">a pair of iron gauntlets</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/2446">a philosopher's egg</a></td>
+			<td>130</td>
+			<td>artifact</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="money" /> <a href="/item/5599">a pile of gold</a></td>
+			<td>5</td>
+			<td>money</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1178">a pile of trash</a></td>
+			<td>5</td>
+			<td>trash</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1329">a rat carcass</a></td>
+			<td>1</td>
+			<td>trash</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/6419">a ration of food</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1160">a restaurant table</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1167">a roast salmon meal</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1169">a roast veal shank meal</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1337">a round shield</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4007">a rusty old bucket</a></td>
+			<td>80</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1247">a sack of bird seed</a></td>
+			<td>5</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1073">a secure bag <span class="red">[OS]</span></a></td>
+			<td>120</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1232">a secure bag</a></td>
+			<td>120</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/2379">a shadow lantern</a></td>
+			<td>175</td>
+			<td>light</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/3105">a small apple tree</a></td>
+			<td>5</td>
+			<td>seed</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1155">a small cup</a></td>
+			<td>10</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clock.png" width="13" height="13" alt="clock" /> <a href="/item/884">a small pocketwatch</a></td>
+			<td>15</td>
+			<td>clock</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="staff" /> <a href="/item/1343">a staff of life</a></td>
+			<td>50</td>
+			<td>staff</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1168">a steamed fish meal</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1332">a stiletto</a></td>
+			<td>40</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1534">a strawberry salad and sorbet</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1163">a strawberry sherbet</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/665">a studded leather vest</a></td>
+			<td>171</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1175">a table</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1341">a tattered shirt</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="reagent-air" /> <a href="/item/2508">a toucan feather</a></td>
+			<td>5</td>
+			<td>reagent-air</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1170">a veal cutlet meal</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/drink.png" width="13" height="13" alt="drink-container" /> <a href="/item/4905">a warm glass of milk</a></td>
+			<td>15</td>
+			<td>drink-container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4817">a well-worn syrup bucket</a></td>
+			<td>241</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4835">a werewolf pelt</a></td>
+			<td>241</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1194">a wishing well</a></td>
+			<td>40</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1184">a wooden table</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/x.png" width="13" height="13" alt="trash" /> <a href="/item/1344">a wrench</a></td>
+			<td>10</td>
+			<td>trash</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5769">a yeti hide lance</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5767">a yew lance</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/4593">an 'I have too much time on my hands' t-shirt</a></td>
+			<td>10</td>
+			<td>clothing</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/book.png" width="13" height="13" alt="book" /> <a href="/item/2438">an advisor's book</a></td>
+			<td>70</td>
+			<td>book</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/4524">an alchemical canister</a></td>
+			<td>200</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="treasure" /> <a href="/item/4526">an alchemical canister</a></td>
+			<td>200</td>
+			<td>treasure</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/chalice.png" width="13" height="13" alt="artifact" /> <a href="/item/2378">an antique iron coin</a></td>
+			<td>150</td>
+			<td>artifact</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="seed" /> <a href="/item/1234">an apple seed</a></td>
+			<td>5</td>
+			<td>seed</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/3127">an apple tree <span class="red">[OS]</span></a></td>
+			<td>50</td>
+			<td>plant</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4269">an atlatl dart</a></td>
+			<td>63</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1164">an ice cream bombe</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1243">an iron buckler</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1181">an iron huntress' bow</a></td>
+			<td>121</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2414">an iron huntress' crossbow</a></td>
+			<td>121</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1339">an iron pot helm</a></td>
+			<td>70</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/1346">an oak gavel</a></td>
+			<td>85</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/6952">an oak tree</a></td>
+			<td>10</td>
+			<td>furniture</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/leaf.png" width="13" height="13" alt="plant" /> <a href="/item/2448">an oak tree</a></td>
+			<td>10</td>
+			<td>plant</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/magic.png" width="13" height="13" alt="gem" /> <a href="/item/1222">an opal gemstone</a></td>
+			<td>20</td>
+			<td>gem</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5768">an origami lance</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1242">chain mail gloves</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1162">coco cloud tort</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/4181">frosted legplates</a></td>
+			<td>80</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1245">iron gauntlets</a></td>
+			<td>60</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1333">oaken pews</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1161">raspberry mousse cheesecake</a></td>
+			<td>10</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/food.png" width="13" height="13" alt="food" /> <a href="/item/1172">roast rack of lamb meal</a></td>
+			<td>15</td>
+			<td>food</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/5647">secure bag <span class="red">[OS]</span></a></td>
+			<td>120</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/container.png" width="13" height="13" alt="container" /> <a href="/item/1072">secure bag <span class="red">[OS]</span></a></td>
+			<td>120</td>
+			<td>container</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/1236">some leather trousers</a></td>
+			<td>30</td>
+			<td>clothing</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/1241">steel boots</a></td>
+			<td>100</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/clothing.png" width="13" height="13" alt="clothing" /> <a href="/item/2419">tailored pants</a></td>
+			<td>40</td>
+			<td>clothing</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/3660">the flail of authority</a></td>
+			<td>165</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/stone.png" width="13" height="13" alt="warp-stone" /> <a href="/item/7074">the gnarled root of an evergreen</a></td>
+			<td>186</td>
+			<td>warp-stone</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2444">the golden lance</a></td>
+			<td>170</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/table.png" width="13" height="13" alt="furniture" /> <a href="/item/1334">the holy altar</a></td>
+			<td>1</td>
+			<td>furniture</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/key.png" width="13" height="13" alt="key" /> <a href="/item/2380">the key of the dead</a></td>
+			<td>100</td>
+			<td>key</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2435">the knight's axe</a></td>
+			<td>170</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/5771">the lance of malicious urges</a></td>
+			<td>240</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/4937">the lantern of perception <span class="red">[OS]</span></a></td>
+			<td>150</td>
+			<td>light</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/lamp.png" width="13" height="13" alt="light" /> <a href="/item/1185">the lantern of perception</a></td>
+			<td>150</td>
+			<td>light</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/4499">the librarian's penknife</a></td>
+			<td>63</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/armour.png" width="13" height="13" alt="armor" /> <a href="/item/3998">the lieutenant's gauntlets</a></td>
+			<td>160</td>
+			<td>armor</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/ring.png" width="13" height="13" alt="jewelry" /> <a href="/item/2382">the ring of the dead</a></td>
+			<td>180</td>
+			<td>jewelry</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="odd">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2165">the spear of the dead</a></td>
+			<td>180</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+		<tr class="even">
+			<td><img src="/img/itemicons/sword.png" width="13" height="13" alt="weapon" /> <a href="/item/2439">the whip of death</a></td>
+			<td>185</td>
+			<td>weapon</td>
+			<td><a href="/area/57">Templeton</a></td>
+					</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>NPCs in area Templeton</h3>
+
+
+<table class="data-table sortable" cellspacing="0">
+	<thead>
+		<tr>
+			<th>NPC</th>
+			<th width="33%">Location</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+	<tr class="odd">
+		<td><a href="/npc/858">A bag lady</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/911">A banker</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5687">A bar patron</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1035">A bat</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3940">A beast hunter</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5673">A blackjack dealer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/863">A bored citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4868">A brigand lieutenant</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/867">A bright red cardinal</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/872">A brown bat</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/869">A brown spider</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/997">A busy citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/890">A cafe patron</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/992">A card dealer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1025">A castle advisor</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1041">A castle armorer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5864">A castle gateguard</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1011">A castle janitor</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1024">A castle librarian</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1019">A castle servant</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/927">A city clerk</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/864">A content citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1032">A convicted murderer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1033">A convicted racketeer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4048">A court jester</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1004">A cute bunny</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1036">A dark rat</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1037">A dark spider</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/951">A deft chamber maid</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/908">A diamondback rattlesnake</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/917">A doctor</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/990">A dracon citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5688">A drunken drow</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1000">A dubious looking man</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/866">A dull colored cardinal</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/839">A fat cat</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/887">A fisherman</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/845">A flasher</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/848">A foreign visitor</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/855">A gang member</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/865">A gateguard</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/840">A gnome child</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/870">A green slime</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1030">A halfling prisoner</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/854">A hidden thief</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/993">A hooker</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/841">A human citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/877">A hungry vagrant</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/849">A janitor</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1006">A jay</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2534">A lady of the night</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1010">A leper</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1013">A local guest</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/859">A lost poodle</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1015">A lovely castle guest</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/921">A lovely nurse</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/994">A male prostitute</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3473">A malevolent werewolf</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/919">A mental patient</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/856">A minotaur citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1028">A minotaur prisoner</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/878">A mission cook</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/876">A mission volunteer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/938">A parishioner</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/903">A pegasus</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/857">A Persian cat</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/889">A plumber</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/875">A pooch</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/991">A poor citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5897">A practice dummy</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4718">A psychic old man</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/881">A pudgy bird</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1002">A raven</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/843">A religious fanatic</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/862">A resident of Templeton</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/892">A rich citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/893">A rich man's wife</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1005">A robin</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1034">A rogue prisoner</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1018">A scholar of magic</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/871">A sewer rat</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/946">A sexy wench</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1031">A shackled drow prisoner</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/999">A shady elf</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/850">A short woman</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/920">A sick patient</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/846">A Sidhe dignitary</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/873">A smelly beggar</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/3469">A sparkly fairy</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/842">A spirited sailor</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1007">A squirrel</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/926">A stallion</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/918">A surgeon</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1029">A surly prisoner</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1008">A swan</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1012">A tall castle guard</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/880">A tall man</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/948">A temple priest</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/844">A Templeton town guard</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/907">A toucan</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/996">A traveling minstrel</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/3798">A twisted leprechaun</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/852">A visiting sailor</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/952">A waitress</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/905">A wolverine</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5686">Aeolin</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1039">An alchemist</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/906">An alligator</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/879">An elderly citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1020">An elegant castle guest</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/860">An elf citizen</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/847">An elven artisan</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1017">An elven castle guest</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/888">An elven wife</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/998">An elvish bouncer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1260">An exhausted guard</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1299">An important guest</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1259">An off-duty guard</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1009">An old crusty bum</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1003">An owl</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4248">Asterion</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/930">Bernard</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/4539">Bjorn</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2077">Brendle</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1014">Captain Naroth</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/886">Caya</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/5912">Deek</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/874">Elya Ords</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/989">Faltel</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1258">Federal Judge Powers</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/915">Gorm</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/891">Grundel</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/932">Horland</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4403">Jake Jofasta</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/995">Jasmine</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/933">Jetta Starlight</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/942">Jisila Bardenberg</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/851">Jonny</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/931">Judge Strom</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1021">Lady Templeton</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/955">Maladrit the chef</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5015">Opta Dashi</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/950">Parker</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/2533">Rachel</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/900">Ren</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/929">Rupert</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/868">Senator Laveau</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1001">Shady</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/936">Sophia Clearsight</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1027">Thanatosis</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1038">The alchemist's apprentice</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1044">The alchemist's faithful servant</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1016">The aviculturist</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4489">The bath maid</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/861">The builder</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/922">The charge nurse</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1043">The golden armor</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/895">The grocer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/894">The handyman</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/882">The harlot</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1022">The knight Malcolm</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/944">The lady of the house</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/885">The magistrate</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/884">The magistrate's secretary</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/1040">The master of arms</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5723">The matron</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/883">The matron</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/928">The mayor</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/947">The postmaster</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/939">The priest of St. Ruth's</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2707">The rogue trainer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/1026">The royal archivist</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/924">The shopkeeper</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/799">The spirit of Lord Templeton</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/941">The trainer</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/5254">The wedding cleric</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/2406">Trader Hilda</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/4433">Urgma the Shipwright</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="odd">
+		<td><a href="/npc/853">Xebbert Durbann</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	<tr class="even">
+		<td><a href="/npc/925">Yeto Orbegast</a></td>
+		<td><a href="/area/57">Templeton</a></td>
+	</tr>
+
+
+	</tbody>
+</table>
+
+
+<h3>Special rooms in the area</h3>
+
+<table class="data-table" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Room name</th>
+		</tr>
+	</thead>
+	<tbody>
+<tr><td><strong>Water</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/7762">Crossroads of Grambling &amp; Fourth</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/6884">Maple Street</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/7551">Market Square</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/7584">Stillwell Boulevard</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/8075">Treetop Road</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/7031">Warehouse Road</a></td>
+		</tr>
+
+<tr><td><strong>Blood</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/7270">Stenas Road</a></td>
+		</tr>
+
+<tr><td><strong>Post</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/7180">Templeton Post Office</a></td>
+		</tr>
+
+<tr><td><strong>Bank</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/7555">The Local Branch of the Tellerium Bank &amp; Trust</a></td>
+		</tr>
+
+<tr><td><strong>Quest</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/6835">The Commons</a></td>
+		</tr>
+
+<tr><td><strong>Locker</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/7556">Templeton Warehouse</a></td>
+		</tr>
+
+<tr><td><strong>Shop</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/7536">Bernard's Locks</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/8392">Divine Protection</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/7166">Elya's Bows and Strings</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/7461">Fighting Styles</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/7244">Jake's Drug Store</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/7469">Magical Aura</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/7486">Mystic Things</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/7543">Plentiful Plants</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/7557">Ren's Exotic Pets</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/8870">Roots and Herbs</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/7518">Rupert's Jewelry</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/7170">Strange Herbs</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/7823">Templeton General Goods</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/7455">The Bathhouse</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/7184">The Hammer and Anvil</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/7186">The War Hammer</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/7499">Weapons Galore</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/7544">Yeto Orbegast Tailoring</a></td>
+		</tr>
+
+<tr><td><strong>NPK</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/34667">A Dead End</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/34765">A Fork in the Sewers</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/34815">A Large Sewer Passage</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/34756">A Sewer Intersection</a></td>
+		</tr>
+
+
+		<tr class="odd">
+			<td><a href="/room/34668">A Small Sewer Passage</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/34751">An Intersection in the Sewers</a></td>
+		</tr>
+
+<tr><td><strong>Safe</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/18916">Above the Mighty Fortress</a></td>
+		</tr>
+
+
+		<tr class="even">
+			<td><a href="/room/8320">Temple Altar</a></td>
+		</tr>
+
+<tr><td><strong>Recall</strong></td></tr>
+		<tr class="odd">
+			<td><a href="/room/6962">Town Square</a></td>
+		</tr>
+
+
+	</tbody>
+</table>
+
+
+<ul class="toolbar">
+	</ul>
+
+<div style="clear: both;"></div>
+
+</div>
+</div>
+
+<footer>
+<!--a href="http://www.materiamagica.com/"  id="mmico"><img src="/img/mm.gif" width="88" height="31" alt="Materiamagica.com" /></a-->
+
+&copy; 2005-2019 The Cwn Annwn<br />
+All references to <a href="http://www.materiamagica.com/">Materia Magica</a> are &copy; 1995-2019 <a href="http://www.ingenii.com/">Ingenii Interactive Co</a>.<br />
+All original content is subject to <a href="/legal">The Cwn Annwn Legal Notice</a>.<br/>
+Validate my <a href="http://validator.w3.org/check/referer">html</a>.<br/>
+Please <a href="/contact">contact us</a> about any problems you encounter.<br/>
+Times are currently being reported in UTC; the current time is Mon, 01 Apr 2019 20:19:13 +0000.
+
+</footer>
+
+</div>
+
+
+</body>
+
+</html>
